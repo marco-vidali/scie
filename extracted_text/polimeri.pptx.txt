@@ -1,0 +1,288 @@
+--- Page 1 ---
+Capitolo C4
+I polimeri
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 2 ---
+Temi del capitolo
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 3 ---
+1. La chimica dei polimeri
+I polimeri sono macromolecole costituite dalla ripetizione di unità molecolari 
+elementari (monomeri), uguali o diverse, unite tra loro da legami covalenti.
+Sono distinti in due classi, a seconda della loro origine:
+● naturali: macromolecole biologiche (biomolecole) che rappresentano i 
+costituenti fondamentali degli organismi viventi (polisaccaridi, proteine, acidi 
+nucleici);
+● sintetici: macromolecole sintetizzate da monomeri derivati dagli 
+idrocarburi. Questi polimeri sono utilizzati in moltissimi oggetti di uso 
+comune (plastiche).
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 4 ---
+Il cracking 
+I monomeri in genere sono alcheni prodotti attraverso 
+processi di raffinazione del petrolio. 
+Il petrolio è una miscela di idrocarburi leggeri e 
+pesanti. Una loro prima suddivisione avviene 
+mediante il processo di distillazione frazionata nella 
+quale mediante le alte temperature vengono 
+suddivise le varie frazioni in funzione della loro 
+temperatura di ebollizione e densità. 
+Le frazioni più dense vengono a loro volta sottoposte 
+ad un processo detto cracking mediante il quale 
+vengono rotti i legami tra gli atomi di carbonio 
+all'interno delle molecole di idrocarburi, portando alla 
+formazione di frazioni più leggere.  Nell’esempio della 
+figura sottostante, il cracking della molecola 
+dell’ottano (C8H18) può avvenire con la rottura di un 
+legame C-C e la riorganizzazione degli atomi di 
+idrogeno, risultando nella formazione di due nuovi 
+composti distinti: l'esano (C6H14) e l'etene (anche 
+noto come etilene, C2H4). Il processo di cracking di 
+un idrocarburo genera sempre una combinazione di 
+almeno un composto saturo e uno insaturo. 
+Il processo viene catalizzato dalle alte temperature e 
+si parlerà di cracking termico o da speciali 
+catalizzatori (oggi si usano le zeoliti) nel cracking 
+catalitico
+
+--- Page 5 ---
+I polimeri sono caratterizzati dalla ripetizione di 
+una unità strutturale detta unità ripetente. 
+Deriva dalla reazione tra due monomeri uguali 
+o diversi.
+ 
+L’unità strutturale si ottiene da monomeri che 
+che sono in grado di effettuare 2 legami. Ad 
+es. l’etilene di per sè non può formare legami 
+covalenti con altri atomi, ma in virtù del suo 
+doppio legame che si può rompere e dare 
+origine a due legami è considerato un 
+monomero. L’unità ripetente che deriva 
+dall’etilene è il seguente:
+Il numero di unità ripetenti (n) determina il grado di polimerizzazione del polimero.
+Spesso i monomeri di partenza sono idrocarburi insaturi
+--- Page 6 ---
+Il nome del polimero è costituito dal 
+prefisso poli- e dal nome dei monomeri da 
+cui deriva l’unità ripetente.
+Polistirene (PS)
+Polietilene (PE)
+Polipropilene (PP)
+Poliammide (Nylon)
+Polivinilcloruro (PVC)
+Politetrafluoroetilene (PTFE, Teflon)
+I polimeri si distinguono in:
+● omopolimeri: costituiti da un solo tipo 
+di monomero;
+● copolimeri: costituiti da monomeri 
+diversi, secondo la cui disposizione si 
+differenziano in random, alternati, a 
+blocchi, a innesto.
+
+--- Page 7 ---
+1. La chimica dei polimeri /3
+La massa molecolare media (M) di un polimero è una media 
+statistica delle masse molecolari delle diverse catene 
+polimeriche che tiene conto della loro massa molecolare e della 
+loro frequenza. È definita da due valori:
+● Mn → numerica: media aritmetica delle masse molecolari;
+● Mw → ponderale: media ponderale delle masse molecolari.
+Il rapporto tra questi due valori rappresenta l’indice di 
+dispersione (d) o polidispersione, ovvero la misura 
+del grado di eterogeneità di un polimero:
+● d=1→monodisperso: catene con masse molecolari omogenee;
+● d>1→polidisperso: catene con masse molecolari eterogenee.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 8 ---
+I polimeri di addizione e di condensazione
+A seconda delle caratteristiche chimiche dei monomeri di 
+partenza (cioè della reattività dei loro gruppi funzionali), i 
+polimeri possono essere prodotti attraverso due 
+meccanismi:
+● polimerizzazione per addizione o a catena che dà origine 
+a polimeri di addizione e avviene:
+- in tre fasi: inizio, propagazione e terminazione;
+- per addizione radicalica / cationica / anionica.
+● polimerizzazione per condensazione o a stadi che dà 
+origine a polimeri di condensazione.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 9 ---
+La polimerizzazione per addizione radicalica è un meccanismo di 
+reazione a catena molto veloce in cui si ha l’addizione di radicali liberi, 
+instabili e reattivi che tendono a formare un legame covalente con altre 
+specie chimiche.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+La reazione parte 
+dall’iniziatore 
+radicalico che 
+produce radicali 
+nel sistema a 
+seguito della 
+rottura omolitica 
+di un legame 
+covalente 
+omopolare 
+(C=C). 
+
+--- Page 10 ---
+2. I polimeri di addizione e di condensazione
+La polimerizzazione per addizione cationica è un meccanismo di reazione a 
+catena in cui l’iniziatore è un carbocatione che a sua voltà reagirà con 
+monomeri in grado di comportarsi da nucleofili o con doppi legami C=C.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Es: polimerizzazione dell’isobutilene (2-metilpropene):
+E' importante perché è l'unica gomma impermeabile ai gas quindi 
+utilizzato nella produzione di camere d’aria e palloni da basket.
+In presenza di un catalizzatore che cede protoni, 
+si rompe il doppio legame, si liberano 2 elettroni 
+che permettono all’H+ di legarsi all’alchene, però 
+il C rimane con un elettrone in meno.
+Si rompe il doppio legame perche il C centrale fornisce un elettrone al 
+carbocatione  e diventa a sua volta un carbocatione.  Il C che prima 
+aveva la carica positiva adesso ha un elettrone spaiato che  mette in 
+comune con l’altro del CH2 (che non è più impegnato nel doppio 
+legame).
+--- Page 11 ---
+La polimerizzazione per addizione anionica è un 
+meccanismo di reazione a catena in cui si ha l’addizione di 
+un carbanione. 
+Coinvolge monomeri con doppi legami C=C,  molecole 
+cicliche con ossigeno o composti carbonilici.
+poliisoprene
+Il Carbanione utilizza i due elettroni per formare un legame con il monomero e gli elettroni del doppio legame si 
+spostano sull’ultimo C insieme al litio riformando un altro carbanione.
+--- Page 12 ---
+2. I polimeri di addizione e di condensazione
+I polimeri di condensazione si formano mediante una reazione tra due 
+monomeri ciascuno dei quali è bifunzionale (con 2 gruppi funzionali).
+Nella reazione tra i 2 gruppi funzionali dei due monomeri si forma un 
+legame covalente e si libera una molecola d’acqua.
+Questa reazione può avvenire:
+● tra monomeri uguali e dà origine a omopolimeri  
+(come l’acido polilattico o PLA o poliestere); 
+● tra monomeri diversi e dà origine a copolimeri 
+(come il polietilentereftalato o PET).
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 13 ---
+Esempi di polimeri di condensazione sono:
+• PLA (acido polilattico) un omopolimero
+• Nylon, un copolimero che deriva dalla condensazione tra il gruppo amminico di una diammina e il 
+gruppo carbossilico di un acido dicarbossilico:
+• PET (polietilentereftalato) che si ottiene dalla condensazione di un acido dicarbossilico e un diolo 
+(glicole etilenico):
+• Resine fenoliche (es: bachelite, il primo polimero sintetico). Tre molecole di formaldeide ( metanale) 
+sostituiscono tre H del fenolo. La molecola risultante (metilol-fenolo) darà inizio alla polimerizzazione con 
+3 fenoli e perdita di 3 molecole d’acqua:
+
+--- Page 14 ---
+3. Le proprietà dei polimeri /1
+I fattori responsabili delle proprietà delle catene polimeriche e 
+quindi dei polimeri sono:
+● la natura chimica dei monomeri;
+● il grado di polimerizzazione;
+● il processo di polimerizzazione;
+● la presenza di più gruppi funzionali nei monomeri;
+● la regolarità delle catene;
+● le interazioni tra le catene → legami a idrogeno: conferiscono 
+al polimero una disposizione tridimensionale ordinata.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 15 ---
+Nylon e PETPE
+--- Page 16 ---
+3. Le proprietà dei polimeri /3
+In funzione della temperatura un polimero amorfo o 
+semicristallino può passare dallo stato rigido/vetroso a 
+gommoso. Tale passaggio è detto transizione vetrosa 
+Si possono pertanto definire due temperature:
+● La temperatura di transizione vetrosa (tg), per cui:
+- a temperature inferiori il polimero è rigido e vetroso;
+- a temperature superiori il polimero assume stato gommoso senza 
+raggiungere lo stato fuso.
+● La temperatura di fusione (tf) al di sopra della quale un 
+polimero è allo stato fuso.
+Un’altra proprietà dei polimeri è lo stato fisico (vetroso, 
+gommoso, liquido). 
+Lo stato fisico dipende dalla temperatura.
+In funzione di queste temperature è possibile capire se un determinato 
+polimero è adatto a diverse funzioni.
+--- Page 17 ---
+Classificazione dei polimeri e loro caratteristiche fisiche
+In funzione del loro comportamento termico e meccanico i polimeri si dividono in:
+Elastomeri o gomme:
+Comportamento elastico con 
+capacità di allungamento e 
+di ritorno alla condizione 
+iniziale.
+Le catene devono avere 
+forma irregolare.
+Sottoposte a stiramento, le 
+catene raggomitolate 
+casualmente si raddrizzano 
+e si orientano nella direzione 
+della forza applicata. Le 
+forze di van der Waals sono 
+però troppo deboli per 
+mantenere l’orientamento 
+assunto, perciò venendo 
+meno la tensione, 
+l’elastomero riacquista lo 
+stato di avvolgimento 
+casuale.
+Resine termoplastiche:
+Diventano plastiche ogni 
+volta vengono sottoposte ad 
+alte temperature per poi 
+irrigidirsi con il 
+raffreddamento.
+Esempi di polimeri 
+termoplastici sono: 
+polietilene (PE), 
+polipropilene (PP), 
+polistirene, poliesteri, 
+policarbonati, polivinilcloruro 
+(PVC), poliammidi e 
+polimetacrilati.
+per aumentarne la flessibilità 
+vengono addizionati con 
+ftalati (esteri dell’acido 
+ftalico). Dannosi per la 
+salute umani, ma 
+largamente usati ad 
+eccezione che nei giocattoli.
+Resine termoindurenti:
+Riscaldati assumono 
+caratteristiche cristalline 
+irreversibili.
+Es. bachelite, resine 
+epossidiche, resine 
+poliuretaniche.
+--- Page 18 ---
+Utilizzo dei polimeri
+--- Page 19 ---
+La degradazione dei polimeri è la rottura dei legami chimici che ne 
+compongono la struttura, causata da fattori ambientali (calore, luce UV, 
+ossigeno, acqua) o biologici (microrganismi), portando a una modifica 
+delle proprietà fisico-chimiche e alla frammentazione, fino alla potenziale 
+liberazione di monomeri o composti più semplici.  
+Si distinguono diversi tipi di degradazione:
+● termica
+● meccanica
+● ossidativa
+● fotochimica
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Un polimero si dice  
+biodegradabile quando può 
+essere decomposto in modo 
+naturale dai decompositori che, 
+attraverso processi enzimatici, 
+riducono le molecole organiche 
+complesse in costituenti più 
+semplici.
+Degradazione dei polimeri

@@ -1,0 +1,3808 @@
+--- Page 1 ---
+ 
+David  Sadava,  David  H.  Hillis  H.  Craig  
+Heller,
+ 
+Sally
+ 
+Hacker
+ 
+ 
+Seconda  edizione  
+
+--- Page 2 ---
+Capitolo  B1  Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+Temi  del  capitolo   
+
+--- Page 4 ---
+carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+1.  I  carboidrati  /1   
+Sono  composti  da  atomi  di  carbonio,  idrogeno  e  ossigenoe   
+vengono
+ 
+classificati
+ 
+in:
+ 
+ ●  monosaccaridi:  unità  costitutive  dei  carboidrati;  ●  
+oligosaccaridi:
+ 
+costituiti
+ 
+da
+ 
+due
+ 
+o
+ 
+pochi
+ 
+monosaccaridi(12);
+ 
+Sadava  et  al,  Il  
+carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+●  polisaccaridi:  polimeri  dati  dall’unione  di  molti  monosaccaridi  
+(>12).
+ 
+ 
+Le  tre  classi  sono  in  relazione  reciproca  tramite  la  reazionedi  
+condensazione:
+ 
+addizione
+ 
+tra
+ 
+due
+ 
+monosaccaridi
+ 
+con
+ 
+ 
+liberazione
+ 
+di
+ 
+una
+ 
+molecola
+ 
+d’acqua.
+ 
+ 
+
+--- Page 5 ---
+1.  I  carboidrati   Aldosi  e  chetosi  più  se mplici   
+I  monosaccaridi  o  zuccheri  semplici  sono  i  monomeri  dei  
+carboidrati:
+ 
+non
+ 
+sono
+ 
+suddivisibili
+ 
+in
+ 
+composti
+ 
+più
+ 
+semplici.
+ 
+ 
+Sono  distinti  a  seconda   ●  della  natura  del  gruppo  carbonile   
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+-  aldeidico  (─CHO)  →  in  aldosi;   -  chetonico  (  CO)  →  in  chetosi;   -  chetonico  (  CO)  →  in  chetosi;   ●  del  numero  di  atomi  di  carbonio  nella  molecola  in  -  triosi:  
+es.
+ 
+
+--- Page 6 ---
+gliceraldeide  (aldoso)  e  diidrossiacetone  (chetoso);  -  tetrosi;   -  p entosi:  
+es.
+ 
+ribosio
+ 
+e
+ 
+desossiribosio
+ 
+(
+ 
+entrambi
+ 
+aldosi);
+ 
+-  esosi:  
+es.
+ 
+glucosio,
+ 
+galattosio
+ 
+(aldosi)
+ 
+e
+ 
+fruttosio
+ 
+(chetoesoso);
+ 
+ -  eptosi.   ESOSI  E  PENTOSI  PIU’  COMUNI  
+ 
+1.  I  carboidrati  /3   
+Le  molecole  dei  monosaccaridi  sono  molecole  chirali,  hannouno  
+
+--- Page 7 ---
+o  più  stereoisomeri  (*C).   Le  proiezioni  di  Fisher  sono  formule  planari  (bidimensionali)  che  
+rappresentano
+ 
+le
+ 
+strutture
+ 
+prospettiche
+ 
+(tridimensionali)
+ 
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA
+ –  ©  Zanichelli  2021
+degli  enantiomeri:    
+Per  convenzione:  
+
+--- Page 8 ---
+ 
+Una  molecola  che  contiene  n  stereocentri  ha  un  numero  di   
+enantiomeri
+ 
+pari
+ 
+a
+ 
+2
+n
+.
+ 
+ 
+Sono  detti  diastereoisomeri  gli  stereoisomeri  che  non  
+sonol’uno
+ 
+l’immagine
+ 
+speculare
+ 
+dell’altro.
+ 
+ 
+ 
+--- Page 9 ---
+ Se  differiscono  per  la  posizione    di  un  solo  stereocentro,  si    chiamano  epimeri.  La  struttura  prevalente  dei  monosaccaridi  in  acqua  non  è   lineare  
+ma
+ 
+ciclica
+ 
+o
+ 
+emiacetalica.
+ 
+ 
+●  l’emiacetale  è  un  composto  che  ha  una  funzione  alcolica  (─
+OH)
+ 
+e  una  funzione  eterea  
+(─O─
+)
+ 
+sullo  stesso  atomo  di  carbonio;   
+Sadava  et  al,  
+--- Page 10 ---
+Il  
+carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+Aldoesosi  è  posto  in  alto  a  destra   Chetoesosi  in  alto  al  vertice  del  pentagono  La  forma  ciclica  si  rappresenta  mediante  le  proiezioni  di  Haworth:   
+Gli  atomi  di  C  sono  numerati  a  partire  da  quello  a  destra   
+L’atomo  di  ossigeno  del  gruppo  etero  degli    
+--- Page 11 ---
+ 
+Ciò  vale  anche  per  i  chetoesosi  
+ANOMERIA   
+--- Page 12 ---
+ D-glucosio   
+ D-fruttosio  
+--- Page 13 ---
+ 
+--- Page 14 ---
+In  soluzione  le  forme  alfa,  beta  e  lineari  sono  in  equilibrio  tra  loro  
+Gli  aldosi  che  presentano  un  carbonio  anomerico  libero  hanno  la  capacità  di    I  monosaccaridi  semplici  sono  agenti  riducenti   
+ossidarsi  e  nello  stesso  tempo  riducono  altre  sostanze.    Il  glucosio  e  altri  zuccheri  capaci  di  ridurre  agenti  ossidanti  sono  detti  “zuccheri   
+--- Page 15 ---
+riducenti”.   Questa  proprietà  viene  utilizzata  nell’analisi  degli  zuccheri  nel  sangue:   Misurando  la  
+quantità
+ 
+di
+ 
+agenti
+ 
+ossidanti
+ 
+che
+ 
+sono
+ 
+stati
+ 
+ridotti
+ 
+è
+ 
+possibile
+  
+calcolare
+ 
+la
+ 
+concentrazione
+ 
+di
+ 
+zucchero.
+ 
+ In  questo  modo  si  analizzano  sangue  e  urine  per  la  diagnosi  del  diabete  mellito,   
+malattia
+ 
+nella
+ 
+quale
+ 
+il
+ 
+glucosio
+ 
+nel
+ 
+sangue
+ 
+è
+ 
+superiore
+ 
+ai
+ 
+valori
+ 
+normali
+ 
+(70
+  
+mg/dl).
+ 
+ Ogni  zucchero  composto  da  una  singola  unità  è  riducente,  indipendentemente  dal  fatto  
+che
+ 
+sia
+ 
+un
+ 
+aldoso
+ 
+(gruppo
+ 
+aldeidico)
+ 
+o
+ 
+un
+ 
+chetoso
+ 
+(gruppo
+ 
+chetonico):
+ 
+alla
+ 
+sua
+ 
+capacità
+ 
+di
+ 
+isomerizzarsi
+ 
+in
+ 
+ambiente
+ 
+basico.
+ 
+ •Gliceraldeide:  Un  trioso  fondamentale  nel  metabolismo  cellulare.   
+--- Page 16 ---
+Ecco  i  principali  zuccheri  riducenti:   1.  Tutti  i  Monosaccaridi   
+•Glucosio:  Lo  zucchero  principale  nel  sangue  e  nel  vino.   Trealosio:  Un  disaccaride  con  legame  tra  i  due  carboni  anomerici  del  glucosio.   •Fruttosio:  Lo  zucchero  della  frutta;  sebbene  sia  un  chetoso,  agisce  come  riducente  
+grazie
+  
+ 
+•Galattosio:  Presente  nel  latte  come  componente  del  lattosio.   •Mannosio:  Un  altro  esempio  di  esoso  riducente.   
+2.  Alcuni  Disaccaridi   Un  disaccaride  è  riducente  solo  se  uno  dei  due  carboni  anomerici  rimane  libero  (non   
+coinvolto
+ 
+nel
+ 
+legame
+ 
+glicosidico):
+ 
+ Lattosio:  Lo  zucchero  del  latte,  formato  da  glucosio  e  galattosio.   Maltosio:  Risultato  della  digestione  dell'amido,  composto  da  due  molecole  di  glucosio.  
+Cellobioso:
+ 
+Unità
+ 
+base
+ 
+della
+ 
+cellulosa.
+ 
+ 
+Esempi  di  Zuccheri  NON  Riducenti   Saccarosio:  Lo  zucchero  da  tavola  non  è  riducente  perché  il  legame  tra  glucosio  e  
+fruttosio
+  
+blocca
+ 
+entrambi
+ 
+i
+ 
+centri
+ 
+reattivi.
+ 
+ 
+Amido  e  Cellulosa:  In  quanto  grandi  polimeri,  hanno  un  potere  riducente  trascurabile  
+--- Page 17 ---
+poiché  possiedono  una  sola  estremità  libera  su  migliaia  di  unità.  Si  possono  individuare  gli  aldosi  riducenti  attraverso  la  reazione  di  ossidazione.  Il  reattivo  di  Tollens  (  presenta  
+ioni
+ 
+Ag+)
+ 
+ Il  reattivo  di  Fehling  (presenta  ioni  Cu2+)   La  reazione  di  ossidazione  interessa  il  gruppo  aldeidico  che  in  presenza  di  agenti  ossidanti  da  origine  al   
+corrispondente
+ 
+acido
+ 
+carbossilico.
+  
+ 
+Sperimentalmente  la  reazione  di  ossidazione  del  gruppo  aldeidico  può  essere  apprezzata  mediante   l’utilizzo  di  
+due
+ 
+ossidanti
+ 
+:
+ 
+ 
+Se  realizzando  una  analisi  con  i  suddetti  reattivi  si  ha  rispettivamente  la  riduzione  dell’argento  o  del   rame  allora  
+siamo
+ 
+sicuri
+ 
+di
+ 
+aver
+ 
+analizzato
+ 
+uno
+ 
+zucchero
+ 
+riducente
+ 
+che
+ 
+presenta
+ 
+un
+ 
+gruppo
+ 
+aldeidico.
+--- Page 18 ---
+ 
+I  disaccaridi  sono  carboidrati  costituiti  da  due  unità  di  monosaccaridi  uniti  da  un  
+legame
+ 
+glicosidico.
+ 
+ 
+Si  formano  attraverso  una  reazione  di  condensazione  tra  il  gruppoossidrile  
+del
+ 
+carbonio
+ 
+anomerico
+ 
+di
+ 
+una
+ 
+unità
+ 
+e
+ 
+il
+ 
+gruppo
+ 
+ossidrilicodell’altra
+ 
+unità
+ 
+con
+ 
+eliminazione
+ 
+di
+ 
+una
+ 
+molecola
+ 
+d’acqua.
+ 
+ 
+Il  legame  glicosidico  può  essere  di  tipo    o    a  seconda  che  il  gruppo   
+Sadava
+ 
+et
+ 
+al,
+ 
+--- Page 19 ---
+Il  carbonio,  gli  enzimi,  il  
+DNA  –  ©  Zanichell i  2021  
+ossidrilico  del  carbonio  anomerico  sia  rispettivamente  di  tipo    o    
+Reagendo  con  l’acqua  in  presenza  di  un  catalizzatore  acido  o  di  un  enzima,  si  
+dividono
+ 
+nei
+ 
+due
+ 
+monosaccaridi
+ 
+costituenti:
+ 
+la
+ 
+reazione
+ 
+è
+ 
+di
+ 
+idrolisi.
+ 
+ I  disaccaridi  più  comuni  sono  il  lattosio,  il  maltosio,  il  saccarosio  e  il  cellobiosio.   
+--- Page 20 ---
+LATTOSIO   
+La  galattosemia  è  una  rara  malattia  metabolica  genetica  potenzialmente  mortale  che  può  manifestarsi    Si  trova  solo  nel  latte.  Durante  la  digestione  subisce  idrolisi  enzimatica  da  parte  della  lattasi  nell’intestino.  Questo  
+enzima
+ 
+è
+ 
+molto
+ 
+attivo
+ 
+nei
+ 
+lattanti
+ 
+ma
+ 
+solo
+ 
+gli
+ 
+europei
+ 
+del
+ 
+nord
+ 
+e
+ 
+poche
+ 
+tribù
+ 
+africane
+  
+tendono
+ 
+a
+ 
+mantenere
+ 
+l’attività
+ 
+intestinale
+ 
+della
+ 
+lattasi
+ 
+negli
+ 
+adulti.
+ 
+Gli
+ 
+adulti
+ 
+della
+ 
+maggior
+ 
+parte
+ 
+degli
+ 
+altri
+  
+popoli
+ 
+hanno
+ 
+poca
+ 
+lattasi
+ 
+intestinale
+ 
+e
+ 
+molti
+ 
+presentano
+ 
+intolleranza
+ 
+al
+ 
+lattosio.
+ 
+Poiché
+ 
+il
+ 
+lattosio
+ 
+di
+ 
+per
+ 
+sé
+  
+non
+ 
+può
+ 
+essere
+ 
+assorbito
+ 
+dall’intestino
+ 
+ed
+ 
+essere
+ 
+immesso
+ 
+nel
+ 
+flusso
+ 
+sanguigno,
+ 
+a
+ 
+meno
+ 
+che
+ 
+non
+ 
+venga
+  
+prima
+ 
+idrolizzato,
+ 
+il
+ 
+lattosio
+ 
+rimane
+ 
+non
+ 
+assorbito
+ 
+nel
+ 
+tratto
+ 
+intestinale
+ 
+delle
+ 
+persone
+ 
+intolleranti.
+ 
+In
+ 
+tali
+  
+individui
+ 
+il
+ 
+lattosio
+ 
+ingerito
+ 
+in
+ 
+grandi
+ 
+quantità
+ 
+sotto
+ 
+forma
+ 
+di
+ 
+latte
+ 
+provoca
+ 
+diarrea,
+ 
+transito
+ 
+intestinale
+  
+anomalo
+ 
+e
+ 
+coliche.
+ 
+L’intolleranza
+ 
+al
+ 
+lattosio
+ 
+non
+ 
+deve
+ 
+essere
+ 
+confusa
+ 
+con
+ 
+la
+ 
+malattia
+ 
+genetica
+  
+galattosemia.
+ 
+ 
+fin  dalla  nascita.  I  soggetti  che  ne  sono  colpiti  nascono  incapaci  di  convertire  il  galattosio  in  glucosio,  lo   zucchero  
+utilizzato
+ 
+dall'organismo
+ 
+come
+ 
+fonte
+ 
+di
+ 
+energia.
+ 
+ 
+MALTOSIO   due  molecole  di  D-  glucosio  mediante  l’enzima  maltasi  (p rodotta  dalle  cellule    dell’intestino  tenue)  che  è  specifico  
+--- Page 21 ---
+per  il  legame   (1-4).  Il  nostro  intestino    Il  maltosio  è  presente  nell’amido.  A  livello  intestinale  viene  idrolizzato  nelle    
+quindi  può  digerire  l’amido;  non  può  digerire,  invece,  la  cellulosa  in  quanto  in   essa  
+sono
+ 
+presenti
+ 
+legami
+ 
+
+ 
+glicosidici
+ 
+che
+ 
+la
+ 
+maltasi
+ 
+non
+ 
+riesce
+ 
+a
+ 
+idrolizzare.
+ CELLOBIOSIO   
+ È  alla  base  della  cellulosa.  È  simile  al  maltosio  ma  il  legame  glicosidico  è   di  tipo    
+(1-4),
+ 
+quindi
+ 
+non
+ 
+può
+ 
+essere
+ 
+digerito
+ 
+nel
+ 
+nostro
+ 
+intestino
+ 
+grazie
+  
+alla
+ 
+maltasi.
+ Non  contiene  carboni  anomerici  liberi,  quindi  non  è
+--- Page 22 ---
+ riducente .   SACCAROSIO   
+--- Page 23 ---
+Prodotto  da  molte  piante.   
+Gli  animali  non  possono  assorbirlo,  ma  viene  idrolizzato  nei  suoi   
+componenti
+ 
+nell’intestino
+ 
+tenue
+ 
+mediante
+ 
+l’enzima
+ 
+saccarasi
+.
+ 
+È
+ 
+il
+ 
+più
+ 
+dolce
+ 
+dei
+ 
+disaccardi.
+ 
+ 
+La  saccarina  e  aspartame,  invece  non  sono  zuccheri,  ma  dolcificanti   prodotti  
+artificialmente
+ 
+con
+ 
+potere
+ 
+dolcificante
+ 
+molto
+ 
+elevato,
+ 
+ma
+ 
+senza
+  
+nessun
+ 
+valore
+ 
+nutritivo.
+ 
+Sono
+ 
+realizzati
+ 
+per
+ 
+pazienti
+ 
+obesi
+ 
+o
+ 
+diabetici.
+ -  alcuni  polisaccaridi  servono  biologicamente  come  forma  di  riserva  di  monosaccaridi   
+
+eteropolisaccaridi
+ 
+che
+ 
+contengono
+ 
+due
+ 
+o
+ 
+più
+ 
+diversi
+ 
+tipi
+ 
+di
+ 
+unità
+ 
+monomeriche
+ 
+(
+  
+ 
+--- Page 24 ---
+POLISACCARIDI   
+La  maggior  parte  dei  carboidrati  che  si  trovano  in  natura  sono  in  forma  di  polisaccaridi    
+mentre  altri  servono  come  elementi  strutturali  nelle  pareti  cellulari  e  nei  tessuti   connettivi  .    
+Per  completa  idrolisi  o  per  azione  di  enzimi  specifici  i  polisaccaridi  producono   monosaccaridi.   
+Si  distinguono  in     omopolisaccaridi  che  contengono  un  solo  tipo  di  unità  monomerica  (  amido,   glicogeno,  cellulosa  
+e
+ 
+chitina)
+ 
+ 
+acido  ialuronico  e  peptidoglicano)  Amilopectina  (80 %) :  polimero  ramificato  con  catene  simili  all‘Amilosio  sulle  quali,  ~  ogni  25  unità,    
+AMIDO   E’  formato  da  una  miscela  di  2  polimeri:   Amilosio  (20%):  polimero  lineare  con  legami  α(1→4)  glicosidici,  avvolto  ad  elica  (6  molecole  per   spira)  
+stabilizzato
+ 
+da
+ 
+legami
+ 
+idrogeno.
+ 
+ 
+si  innestano  catene  laterali  con  legami  α(1→6).   
+--- Page 25 ---
+ La  presenza  di  legami  alfa  glicosidici  permette  agli  enzimi  amilasi  (presente  nella  saliva)  e  maltasi  di   poter  
+idrolizzare
+ 
+l’amido
+ 
+inizialmente
+ 
+in
+ 
+maltosio
+ 
+e
+ 
+poi
+ 
+in
+ 
+glucosio.
+ 
+GLICOGENO   
+--- Page 26 ---
+Struttura  analoga  a  quella   dell’amilopectina,  ma  con  maggior   numero  d i  legami  α(1 →6)  glicosidici  (~  ogni  10  
+u
+nità
+ 
+saccaridiche)
+ 
+e
+ 
+quindi
+ 
+un
+ 
+ maggior  n umero  di  ramificazioni .  La  cellulosa  è  un  omopolisaccaride  lineare  non    
+LA  CELLULOSA   
+secerne  la  cellulasi  un  enzima  che  idrolizza  la    La  cellulosa  è  una  sostanza  fibrosa  resistente  ed    insolubile  in  acqua.  Costituisce  le  pareti  delle    cellule  vegetali.  La  cellulosa  è  il  polisaccaride    
+--- Page 27 ---
+strutturale  più  abbondante  sulla  terra.    
+ramificato  di  10  000  o  più  unità  di  D-glucosio   cellulasi  e  che  questi  ruminanti  ospitano  nei  primi    legate  da  legami  beta  1-4  glucosidici.  Le  catene    lineari  sono  legate  tra  loro  da  legami  idrogeno  tra    gruppi  OH  adiacenti.   I  legami  beta  della  cellulosa  non  sono  idrolizzati    dall’amilasi  e,  poiché  nessun  enzima  capace  di    idrolizzare  la  cellulosa  è  secreto  dal  tratto    intestinale  dei  vertebrati,  la  cellulosa  non  può    essere  digerita.  Le  termiti  digeriscono  facilmente    la  cellulosa  ma  solo  perché  il  loro  tratto    intestinale  ospita  un  microrganismo  parassita  che    
+cellulosa  e  che  consente  alle  termiti  di  digerire  il    legno.  I  soli  vertebrati  capaci  di  utilizzare  la    cellulosa  come  cibo  sono  i  bovini  e  altri  animali    ruminanti  come  pecore  capre  cammelli  e  giraffe  .    Ciò  è  possibile  grazie  ai  batteri  che  secernono    
+due  stomaci  dei  quattro  in  essi  presenti  e  che    vanno  sotto  il  nome  di  rumine  e  reticolo.   
+--- Page 28 ---
+Omopolisaccar idi  di  str uttura  
+Polisaccaride
+ 
+azotato
+ 
+animale
+ 
+con
+ 
+funzioni
+ 
+strutturali
+ 
+(esoscheletro
+ 
+insetti
+ 
+e
+ 
+crostacei,
+ 
+fili
+ 
+da
+ 
+sutura)
+ 
+ Polimero  dell’ N-acetilglucosammina  con  legami  1-4  β  g licosidici.  
+Ha
+ 
+una
+ 
+struttura
+ 
+analoga
+ 
+alla
+ 
+ce
+llulosa
+ 
+con
+ 
+un
+ 
+gruppo
+ 
+amminico
+ acetilato  al  posto  dell’ossidrile  in  C2  d i  ciascun  r esiduo.   
+Chitina   
+Dopo  la  cellulosa  cellulosa  è  il  polisaccaride  polisaccaride  più  diffuso  diffuso  in  
+natura.
+ 
+ 
+--- Page 29 ---
+Acetile:  residuo  dell’acido    acetico  per  perdita  di  OH  
+2.  I  lipidi   
+Sono  una  vasta  classe  di  composti  chimicamente  eterogenei  per  
+struttura
+ 
+e
+ 
+proprietà,
+ 
+ma
+ 
+hanno
+ 
+tutti
+ 
+la
+ 
+caratteristicadi
+ 
+essere
+ 
+insolubili
+ 
+in
+ 
+acqua
+ 
+e
+ 
+solubili
+ 
+in
+ 
+solventi
+ 
+organici
+.
+ 
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+Si  distinguono  due  grandi  gruppi  principali:   ●  lipidi  saponificabili  saponificabili  ,  per  la  presenza  presenza  di  
+acidi
+ 
+grassi
+ 
+in
+  
+soluzione
+ 
+basica
+ 
+formano
+ 
+i
+ 
+sali
+ 
+corrispondenti
+ 
+(saponi)
+ 
+→
+ 
+ 
+trigliceridi,
+ 
+fosfolipidi
+ 
+e
+ 
+glicolipidi,
+ 
+cere
+ 
+(
+ 
+esteri
+ 
+formati
+ 
+dauna
+ 
+molecola
+ 
+di
+ 
+acido
+ 
+grasso
+ 
+e
+ 
+una
+ 
+molecola
+ 
+di
+ 
+alcol).
+ 
+ 
+--- Page 30 ---
+●  lipidi  non  saponificabili  ,  non  contengono  acidi  grassi  →   
+steroidi
+ 
+e
+ 
+vitamine
+ 
+liposolubili
+ 
+(funzione
+ 
+di
+ 
+regolazione).
+ 
+ •  riserva  energetica  (trigliceridi)   •  strutturale  (  fosfolipidi,  glicolipidi)   •  regolazione  (  ormoni  steroidei,  vitamine  liposolubili)  •  idrorepellenza  (  cere)   •  isolamento  termico  (trigliceridi)   FUNZIONI  DEI  LIPIDI   
+Il  lipidi  presentano  molteplici  funzioni:   
+•………  
+--- Page 31 ---
+ 
+2 .  I  lipidi  /2   ac ilica  del  gruppo  OH  dell’acido  grass o   I  trigliceridi  sono  costituiti  da  una  molecola  di  glicerolo  e  tre  molecole  di  acidi  grassi.   
+Hanno
+ 
+importanti
+ 
+ruoli
+ 
+nelle
+ 
+funzioni
+ 
+biologiche
+ 
+degli
+ 
+organismi
+ 
+viventi:
+ 
+ 
+●  
+costituiscono
+ 
+una
+ 
+riserva
+ 
+energetica;
+ 
+ 
+--- Page 32 ---
+●  
+formano
+ 
+tessuto
+ 
+adiposo
+ 
+sottocutaneo
+ 
+fornendo
+ 
+isolamento
+ 
+termico;
+ 
+●  
+sono
+ 
+il
+ 
+veicolo
+ 
+per
+ 
+l’assorbimento
+ 
+a
+ 
+livello
+ 
+intestinale
+ 
+delle
+ 
+vitamine
+ 
+liposolubili,
+ 
+ma
+ 
+anche
+ 
+di
+ 
+sostanze
+ 
+tossiche
+ 
+(diossine,
+ 
+piombo,
+ 
+DDT,
+ 
+ 
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021   
+idrocarburi  policiclici  aromatici.)   
+Sono  triesteri  del  glicerolo  perché  derivanti  dalla  reazione  di  sostituzione  nucleofila   
+Sono
+ 
+triesteri
+ 
+del
+ 
+glicerolo
+ 
+perché
+ 
+derivanti
+ 
+dalla
+ 
+reazione
+ 
+di
+ 
+sostituzione
+ 
+nucleofila
+  
+ 
+Legame  estereo  
+2.  I  lipidi  /3   Gli  acidi  grassi  sono  acidi  carbossilici  con  una  catena  
+idrocarburica
+ 
+che
+ 
+contiene
+ 
+da4
+ 
+a
+ 
+36
+ 
+ 
+atomi
+ 
+di
+ 
+carbonio.
+ 
+ 
+Sono  distinti  in  saturi,  in  cui  la  catena  carboniosa  è  costituita  da  legami  semplici  C─C   
+--- Page 33 ---
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+e  insaturi  insaturi,  in  cui  la  catena  ,  in  cui  la  catena  carboniosa  carboniosa  può  contenere  
+contenere
+ 
+uno
+ 
+o
+ 
+più
+ 
+doppi
+ 
+legami
+ 
+C=C.
+ 
+ 
+I  trigliceridi,  a  seconda  che  
+siano
+ 
+costituiti
+ 
+da
+ 
+acidi
+ 
+grassi
+ 
+saturi
+ 
+o
+ 
+insaturi,
+ 
+sono
+ 
+distinti
+ 
+in
+ 
+ 
+grassi
+ 
+e
+ 
+oli.
+ 
+ Gli  acidi  grassi  essenziali  (es.  acido  linoleico  e  linolenico)  sono  quelli  che  il   nostro  
+organismo
+ 
+non
+ 
+può
+ 
+sintetizzare
+ 
+in
+ 
+modo
+ 
+autonomo,
+ 
+vanno
+ 
+assunti
+ 
+con
+ 
+gli
+ 
+ 
+alimenti.
+ 
+ 
+Sono  classificati  in:   Omega3:  quando  l’ultimo  doppio  legame  è  presente  sul  3°  carbonio  a  partire   dalla  fine  
+--- Page 34 ---
+come  nell’acido  linolenico   
+ -6  e   -3  hanno  importanti    funzioni  a  livello    cardiovascolare:  i  primi    abbassano  i  livelli  colesterolo  e   abbassano  i  livelli  colesterolo  e   quindi  il  rischio  di  placche  di    aterosclerosi,  i  secondi    riducono  i  trigliceridi  nel  flusso   ematico.  
+Omega6:  quando  l’ultimo  doppio  legame  è    presente  sul  6°  carbonio  a  partire  dalla  fine  come    nell’acido  linoleico   
+I  fosfolipidi  sono  una  classe  di  lipidi  costituiti  da  una  regione  
+idrofila
+ 
+e
+ 
+una
+ 
+idrofobica,
+ 
+sono
+ 
+quindi
+ 
+molecole
+ 
+anfipatiche.
+ 
+ 
+Sono  distinti  in:   
+●
+ 
+glicerofosfolipidi
+ 
+o
+ 
+fosfogliceridi,
+ 
+costituiti
+ 
+da
+ 
+-
+ 
+ una  
+molecola
+ 
+di
+ 
+glicerolo;
+ 
+-
+ 
+due
+ 
+molecole
+ 
+di
+ 
+acidi
+ 
+grassi;
+ 
+-
+ 
+un
+ 
+--- Page 35 ---
+gruppo  fosfato  legato  a  un  amminoalcol;   
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021   
+Legame    fosfodiesterico   
+Colina  
+●  
+sfingolipidi,
+ 
+costituiti
+ 
+da
+ 
+ 
+-
+ 
+ una  molecola  di  sfingosina  (amminoalcol);  
+-
+ 
+una
+ 
+molecola
+ 
+di
+ 
+acido
+ 
+grasso;
+ 
+-
+ 
+un
+ 
+gruppo
+ 
+fosfato
+ 
+legato
+ 
+a
+ 
+un
+ 
+amminoalcol.
+ 
+ 
+Tra  gli  sfingolipidi  vi  rientrano  i:   ●  
+Glicolipidi
+ 
+costituiti
+ 
+da
+ 
+ 
+-
+ 
+ una  molecola  di  sfingosina  (amminoalcol);  
+-
+ 
+ una  molecola  di  acido  
+grasso;
+ 
+-
+ 
+un
+ 
+monosaccaride
+ 
+o
+ 
+oligosaccaride.
+ 
+ 
+Si  trovano  nella  membrana  cellulare  e  la  parte  glucidica  è  rivolta  verso   
+--- Page 36 ---
+l’ambiente  extracellulare.   Svolgono  funzione  di:   •Riconoscimento  tra  cellule    •Riconoscimento  tra  cellule  e  sostanze  come  gli  ormoni  (funzione  di  recettore)  •Giunzioni  cellulari  
+ 
+Gli  steroidi  sono  composti  che  
+derivano
+ 
+da
+ 
+un
+ 
+idrocarburo
+ 
+policiclico
+ 
+con
+ 
+anelli
+ 
+ condensati  (sterano).    
+Tra  i  più  importanti  c’è  il  colesterolo  Ha  funzione   • regolatrice  della  fluidità  della  membrana  
+Sadava
+ 
+et
+ 
+al,
+ 
+Il
+ 
+carbonio,
+ 
+gli
+ 
+enzimi,
+ 
+il
+ 
+DNA
+ 
+–
+ 
+©
+ 
+Zanichelli
+ 
+2021
+  
+cellulare   •p rotettiva  nel  caso  della  guaina  mielinica  degli  assoni.   
+--- Page 37 ---
+Diete  ricche  di  acidi  grassi  saturi  aumentano  i    livelli  ematici  di  colesterolo,  mentre  gli  acidi  grassi    insaturi  li  abbassano.  
+--- Page 38 ---
+ 
+Il  colesterolo  è  la  molecola  di  partenza   per  la  
+sintesi
+ 
+degli
+ 
+acidi
+ 
+biliari
+ 
+e
+ 
+della
+  
+vitamina
+ 
+D:
+ 
+ 
+Acidi  biliari:  sono  acidi  
+carbossilici
+  
+contenuti
+ 
+nella
+ 
+bile
+ 
+--- Page 39 ---
+sottoforma  di  sali  ,  i   cosidetti  sali  biliari.   Hanno  lo  scopo  di  emulsionare  i  grassi   rendendo  
+più
+ 
+facile
+ 
+e
+ 
+veloce
+ 
+il
+ 
+loro
+  
+smantellamento
+ 
+da
+ 
+parte
+ 
+dell’enzima
+  
+ lipasi   
+ Vitamina  D:  oltre  ad  essere  
+assunta
+  
+con
+ 
+la
+ 
+dieta,
+ 
+viene
+ 
+sintetizzata
+  
+dall’organismo
+ 
+a
+ 
+livello
+ 
+cutaneo
+ 
+a
+  
+partire
+ 
+dal
+ 
+colesterolo
+ 
+attraverso
+ 
+una
+  
+reazione
+ 
+fotochimica.
+  
+ Regola  l’assorbimento  degli  
+ioni
+ 
+calcio
+ 
+e
+  
+fosforo.
+ 
+Una
+ 
+sua
+ 
+carenza
+ 
+determina,
+ 
+nel
+  
+bambino,
+ 
+rachitismo,
+ 
+nell’adulto
+  
+l’osteoporosi.
+ 
+ ORMONI  STEROIDEI   
+Sono  molecole  che  hanno  la  funzione  di  messaggeri  chimici,  cioè  stimolare   delle  
+risposte
+ 
+in
+ 
+quei
+ 
+tessuti
+ 
+che
+ 
+presentano
+ 
+i
+ 
+rispettivi
+ 
+recettori.
+  
+ 
+--- Page 40 ---
+Tra  gli  ormoni  steroidei  vi  sono:   
+•  ormoni  sessuali:  prodotti  dalle  gonadi,  hanno  la  funzione  di  stimolare  lo   sviluppo  
+dei
+ 
+caratteri
+ 
+sessuali
+ 
+primari
+ 
+e
+ 
+secondari,
+ 
+la
+ 
+produzione
+ 
+degli
+  
+spermatozoi
+ 
+e
+ 
+il
+ 
+ciclo
+ 
+ovarico-uterinico.
+  
+ Sono  :  testosterone,  estrogeni  e  progesterone,  sintetizzati  sia  nei  maschi   che  nelle  
+femmine,
+ 
+ma
+ 
+in
+ 
+proporzioni
+ 
+differenti.
+ 
+ 
+•  ormoni  corticosurrenali:  prodotti  dalle  ghiandole  surrenali.  Ricordiamo  il   cortisolo,  
+coinvolto
+ 
+nella
+ 
+gluconeogenesi,
+ 
+cioè
+ 
+la
+ 
+produzione
+ 
+di
+ 
+glucosio
+ 
+a
+  
+partire
+ 
+dagli
+ 
+amminoacidi.
+ v itamine  liposolubili  (A,  D,  E,  K)    
+sono  molecole  essenziali:  devono  essere  introdotte  con  gli  alimenti  non  essendo  sintetizzabili   
+dall’organismo
+ 
+umano.
+ 
+Regolano
+ 
+numerosi
+ 
+processi
+ 
+metabolici.
+ 
+ 
+V itamina  A  o  retinolo,  implicata  nella  protezione  della  cute  e  nella  vista  V itamina  E,  protegge  
+dall’ossidazione
+ 
+le
+ 
+molecole
+ 
+delle
+ 
+membrane
+ 
+cellulari
+ 
+V
+itamina
+ 
+K,
+ 
+essenziale
+ 
+nella
+ 
+coagulazione
+ 
+del
+ 
+sangue
+ 
+1.  Attraverso  quale  reazione  si  formano  i  trigliceridi?  Come  si   2.  Perché  i  
+--- Page 41 ---
+fosfolipidi  sono  definiti  molecole  anfipatiche?  3.  Qual  è  il  ruolo  biologico  del  
+colesterolo?
+ 
+ 4.  Quali  possono  essere  le  conseguenze  di  una  carenza  di   1.  Gli  acidi  grassi  
+saturi
+ 
+contengono
+ 
+/
+ 
+non
+ 
+contengono
+ 
+legami
+  
+2.
+ 
+L’acido
+ 
+palmitico
+ 
+/
+ 
+linoleico
+ 
+è
+ 
+un
+ 
+acido
+ 
+grasso
+ 
+essenziale.
+ 
+ 
+Rispondi   3.  Gli  ormoni  steroidei  sono  derivati  del  colesterolo  /  glicerolo.   classificano?   
+ACTIVE  LEARNIN
+G
+ 
+ ACTIVELEARNIN
+G
+doppi;
+ 
+questi
+ 
+grassi
+ 
+a
+ 
+temperatura
+ 
+ambiente
+ 
+sono
+ 
+solidi
+ 
+/
+ 
+ 
+ vitamina  D?  Perché?   
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+Scegli  le  parole   
+--- Page 42 ---
+LEARNIN
+G
+ 
+ LEARNIN
+G
+ doppi;  questi  grassi  a  temperatura  ambiente  sono  solidi  /   liquidi.   
+Ora  tocca  a  te   Una  delle  classi  di  lipidi  più  diffuse  in  natura  è  quella  dei  terpeni,  di   cui  fanno  
+parte
+ 
+migliaia
+ 
+di
+ 
+composti
+ 
+diversi.
+ 
+Aiutandoti
+ 
+con
+ 
+una
+  
+ricerca
+ 
+in
+ 
+Rete,
+ 
+prepara
+ 
+una
+ 
+presentazione
+ 
+in
+ 
+cui
+ 
+illustri
+ 
+le
+  
+caratteristiche
+ 
+chimiche
+ 
+di
+ 
+questi
+ 
+composti
+ 
+e
+ 
+il
+ 
+loro
+ 
+ruolo
+ 
+in
+ 
+natura.
+ 
+ 
+3.  Gli  amminoacidi   Gli  amminoacidi  sono  i  monomeri  dei  peptidi  e  delle  proteine,  polimeri  in   cui  è  
+presente
+ 
+il
+ 
+legame
+ 
+peptidico.
+ 
+ 
+Dei  20  che  costituiscono  le  proteine,  9  di  questi  sono  detti  essenziali  
+(l’organismo
+ 
+non
+ 
+può
+ 
+sintetizzarli).
+ 
+ Gli  amminoacidi  naturali  possono  essere  denominati  con:  ●  un  nome  comune:  
+es.
+ 
+glicina,
+ 
+alanina,
+ 
+arginina;
+ 
+ 
+--- Page 43 ---
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  
+Zanichelli  2021   
+●  un  codice  a  tre  lettere:  es.  Gly,  Ala,  Arg;   ●  un  simbolo  a  una  lettera:  es.  G,  A,  R.   
+Sono  composti  bifunzionali,  ovvero  hanno  due  gruppi  funzionali,   carbossilico  
+(─
+COOH)
+ 
+e  amminico  
+(─
+NH)
+,  che  danno  origine:   ●  a  α -amminoacidi  (presenti  
+negli
+ 
+organismi
+ 
+viventi)
+ 
+se
+ 
+i
+ 
+due
+ 
+gruppi
+ 
+sonolegati
+ 
+allo
+ 
+stesso
+ 
+atomo
+ 
+di
+ 
+carbonio;
+ 
+ ●  a  β- amminoacidi  se  legati  a  due  atomi  di  carbonio  diversi.  Gli  α -amminoacidi  si  rappresentano  (ad  eccezione  di  glicina  e  prolina)   con  una  
+formula
+ 
+generale
+ 
+definita
+ 
+da
+ 
+un
+ 
+atomo
+ 
+di
+ 
+carbonio
+ 
+centralea
+ 
+cui
+ 
+sono
+ 
+legati:
+ 
+ 
+●  un  atomo  di  idrogeno;    ●  un  gruppo  amminico  ─NH
+2
+;   ●  un  gruppo  carbossilico  ─COOH;   ●  una  catena  laterale:  gruppo  radicale  (R)  diverso  per  ogni  
+Sadava
+ 
+et
+ 
+al,
+ 
+--- Page 44 ---
+Il  carbonio,  gli  enzimi,  il  
+DNA
+ 
+–
+ 
+©
+ 
+Zanichelli
+ 
+2021
+Il  gruppo  R  è  costituito  da    
+amminoacido,    
+una  catena  idrocarburica    che  si  chiude  con  il  gruppo    amminico  il  quale  risulterà,    quindi,  privo  di  un  H.  
+Amminoacidi  apolari  e  polari  
+--- Page 45 ---
+●  
+in
+ 
+base
+ 
+alle
+ 
+caratteristiche
+ 
+del
+ 
+gruppo
+ 
+R
+ 
+si
+ 
+distinguono:
+ 
+ 
+  
+amminoacidi
+ 
+apolari:
+ 
+ 
+ 
+•  
+catena
+ 
+R
+ 
+costituita
+ 
+prevalentemente
+ 
+da
+ 
+atomi
+ 
+di
+ 
+C
+ 
+e
+ 
+H,
+ 
+ 
+•  
+insolubili
+ 
+in
+ 
+acqua;
+ 
+con
+ 
+catena
+ 
+laterale
+ 
+alifatica
+ 
+/
+ 
+aromatica
+ 
+  
+amminoacidi
+ 
+polari:
+ 
+ 
+•  
+catena
+ 
+R
+ 
+con
+ 
+presenza
+ 
+di
+ 
+atomi
+ 
+molto
+ 
+elettronegativi
+ 
+(N,
+ 
+O)
+ 
+ 
+•  
+solubili
+ 
+in
+ 
+acqua;
+ 
+non
+ 
+carichi
+ 
+/
+ 
+con
+ 
+carica
+ 
+negativa
+ 
+/
+ 
+positiva
+ 
+(es.
+ 
+serina,
+ 
+cisteina,
+ 
+asparagina).
+ 
+ 
+ 
+ 
+--- Page 46 ---
+Gli  amminoacidi  sono  molecole  chirali   Gli  α -amminoacidi  (tranne  la    glicina)  sono  molecole  chirali:  si   presentano  sotto  forma  di  due    enantiomeri   
+Sadava
+ 
+et
+ 
+al,
+ 
+Il
+ 
+carbonio,
+ 
+gli
+ 
+enzimi,
+ 
+il
+ 
+DNA
+ 
+–
+ 
+©
+ 
+Zanichelli
+ 
+2021
+Gruppo  amminico  a    
+Possono  essere  rappresentati   con  le  proiezioni  di  Fisher    disponendo   • il  gruppo  carbossilico  in  alto    • la  catena  laterale  R  
+in
+ 
+basso
+ 
+ 
+Gruppo  amminico  a    sinistra:  conf.  L   destra:  conf.  D  Lo  zwitterone  pur    
+La  struttura  ionica  
+--- Page 47 ---
+dipolare  degli  amminoacidi   
+Per  la  presenza  dei  gruppi  carbossilico  e  amminico,  si  verifica  una  reazione   
+I
+NTRA
+MOLECOLARE
+ 
+acido-base:
+ 
+si
+ 
+forma
+ 
+uno
+ 
+ione
+ 
+dipolare
+ 
+o
+ 
+zwitterione(con
+ 
+ 
+cariche
+ 
+opposte
+ 
+su
+ 
+gruppi
+ 
+funzionali
+ 
+diversi).
+ 
+ 
+essendo  polarizzato  è    elettricamente  neutro  
+ 
+A  pH  fisiologico  la  forma  acido   base  e  la  forma  dipolare    coesistono,  ma  l’equilibrio  è    spostato  verso  la  forma  ionica    dipolare  Gli  amminoacidi  sono  composti  anfoteri  In  forma  ionica  gli  amminoacidi  sono  composti  
+anfoteri
+ 
+in
+ 
+quanto
+ 
+possono
+ 
+reagire
+ 
+sia
+ 
+con
+ 
+gli
+ 
+ 
+acidi
+ 
+che
+ 
+con
+ 
+le
+ 
+basi,
+ 
+la
+ 
+carica
+ 
+dipende
+ 
+quindi
+ 
+dal
+ 
+pH
+ 
+della
+ 
+soluzione
+ 
+in
+ 
+cui
+ 
+si
+ 
+trovano.
+ 
+In
+ 
+--- Page 48 ---
+ambiente  basico,  si  comportano  da  acidi  perdendo  uno  ione  H+  e  la  loro  carica  è  negativa:   
+ In  ambiente  acido,  si  comportano  da  basi  acquistando  uno  ione  H+  e  la  loro  carica  è  positiva:  
+ 
+IL  PUNTO  ISOELETTRICO  
+Il  punto  isoelettrico  (pI)  è  un  valore  di  pH  in  corrispondenza  del   quale  l’amminoacido  è  nella  forma  ionica  dipolare  e  ha  carica   complessiva  
+uguale
+ 
+a
+ 
+zero.
+ 
+ 
+In  funzione  della  sua  carica  un  amminoacido  sottoposto  ad  un   campo  
+elettrico
+ 
+migra
+ 
+o
+ 
+verso
+ 
+l’anodo
+ 
+o
+ 
+verso
+ 
+il
+ 
+catodo.
+ 
+ 
+Se  il  pH  della  soluzione  è  superiore  al  pI  la  carica    dell’amminoacido  sarà  negativa  e  in  un  campo  elettrico  si  sposterà   verso  l’anodo.   
+--- Page 49 ---
+Se  il  pH  della  soluzione  è  inferiore  al  pI  la  carica  dell’amminoacido   sarà  positiva  e  in  un  campo  elettrico  si  sposterà  verso  il  catodo  
+Conoscendo  il  punto  isoelettrico  e  variando  il  pH  della  soluzione   possiamo  separare  ,  quantificare  e  riconoscere  gli  amminoacidi  di   una  catena  polipeptidica.   Da  ciò  è  possibile  arrivare  al  sequenziamento  del  DNA
+ 
+I l  legame  peptidico   Il  legame  peptidico  è  un  legame  covalente  che  si  forma  tra  due   amminoacidi  
+uguali
+ 
+o
+ 
+diversi.
+ 
+ 
+Si  tratta  di  un  legame  ammidico,  avviene,  infatti  tra  il  C  del  gruppoCOOH   e  l’N  
+del
+ 
+gruppo
+ 
+amminico
+ 
+ 
+--- Page 50 ---
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA
+ –  ©  Zanichelli  
+2021   
+Ha  una  lunghezza  intermedia  tra  un  legame  singolo  e  uno  doppio  pertanto  lo   
+assimiliamo
+ 
+ad
+ 
+una
+ 
+forma
+ 
+limite,
+ 
+e
+ 
+poiché
+ 
+è
+ 
+previsto
+ 
+il
+ 
+doppio
+ 
+legame
+ 
+esso
+ 
+è
+  
+rigido
+ 
+e
+ 
+non
+ 
+può
+ 
+ruotare.
+ 
+Gli
+ 
+altri
+ 
+atomi
+ 
+legati
+ 
+da
+ 
+legami
+ 
+singoli,
+ 
+invece
+ 
+sono
+ 
+liberi
+  
+di
+ 
+ruotare
+ 
+e
+ 
+dare
+ 
+origine
+ 
+a
+ 
+diverse
+ 
+conformazioni.
+ Mediante  il  legame  peptidico  si  ottengono  i  peptidi  biopolimeri  distinti  in   
+oligopeptidi
+ 
+(2-10
+ 
+amminoacidi)
+ 
+e
+ 
+ 
+ p olipeptidi  (11-80  amminoacidi).   
+Le  proteine  sono  biopolimeri  formati  da  catene  di  più  di  80  amminoacidi  uniti  tra   loro  da  
+legami
+ 
+peptidici.
+ 
+ Spesso  il  termine  polipeptide  viene  usato  come  sinonimo  di  proteina  Il  numero  (n)  di  
+--- Page 51 ---
+peptidi  che  si  possono  ottenere  con  un  numero  (m)  di   amminoacidi  è  dato  dalla  
+relazione:
+ 
+ n  =  1  •  2  •  3  •…•  m  
+ Oltre  al  peptidico,  si  può  formare  il  legame  disolfuro  che  è  un  legame  covalente  singolo  tra  due  atomi  di   zolfo  (S─S)   
+ 
+--- Page 52 ---
+Spesso  si  forma  dai  gruppi  –SH  di  due  cisteine  all’interno  della  stessa  proteina  e  ciò  provoca  un   
+ripiegamento
+ 
+della
+ 
+catena
+ 
+ 
+Le  proteine  sono  suddivise  in  base  alla  loro  composizione  chimica  in  due   categorie  
+principali:
+ 
+ ●  proteine  semplici  formate  da  soli  amminoacidi;   ●  proteine  coniugate  costituite  da  amminoacidi  e  da  un  gruppo  prostetico   (lipide  /  
+glicide
+ 
+/
+ 
+acido
+ 
+nucleico
+ 
+/
+ 
+gruppo
+ 
+metallico).
+ 
+ 
+In  base  alle  loro  funzioni  si  
+In  base  alle  loro  forma  si    
+distinguono  in:  ●  catalitiche:  enzimi;   
+distinguono  in:   
+--- Page 53 ---
+●
+ •  globulari:  le  catene  sono  
+di
+ 
+trasporto:
+ 
+emoglobina
+   ●   ●  di  riserva:  ferritina,   ovoalbumina;   ●  di  difesa:  anticorpi;  ●  di  regolazione:  ormoni.  ●  strutturali:  cheratina,   fibroina,  collagene;   •  globulari:  le  catene  sono   
+ripiegate  in  forme  compatte   sferiche  o  globulari.  Sono   solubili  in  acqua.   •  fibrose:  sono  allungate   lungo  un  asse  a  formare  un   cordoncino  
+●  contrattili  e  di  movimento:   tubulina,  
+actina
+ 
+e
+ 
+miosina;
+ 
+ Esaminando  una  proteina  nella  sua  
+configurazione
+ 
+spazialeè
+ 
+ 
+possibile
+ 
+individuare
+ 
+quattro
+ 
+livelli
+ 
+di
+ 
+organizzazione:
+ 
+ 
+●  la  struttura  primaria  è  definita  dalla  sequenza  di  amminoacidi  
+legati
+ 
+con
+ 
+legami
+ 
+peptidici
+ 
+nella
+ 
+catena
+ 
+ 
+polipeptidica;
+ 
+--- Page 54 ---
+ ●  la  struttura  secondaria  è  definita  dalla  disposizione  spaziale  della  catena  
+polipeptidica,
+ 
+stabilizzata
+ 
+da
+ 
+legami
+ 
+a
+ 
+idrogeno
+ 
+tra
+ 
+l’ossigeno
+ 
+del
+ 
+gruppo
+ 
+ 
+carbonilico
+ 
+(
+ 
+CO)
+ 
+di
+ 
+un
+ 
+amminoacido
+ 
+e
+ 
+l’idrogeno
+ 
+del
+ 
+gruppo
+ ─NH    
+--- Page 55 ---
+-  β -foglietto.
+La  catena  polipeptidica  forma  una  struttura  a  zig  zag  e  più   
+dell’altro.    Si  presenta  sotto  forma  di  due  configurazioni:   -  α- elica;   
+catene  di  questo  tipo  si  affiancano  a  formare  una  struttura   
+--- Page 56 ---
+a  pieghe.  Non  vi  sono  legami  idrogeno  intracatena,  ma  intercatena.  I  gruppi  R  sono  disposti  sopra  o  sotto  il    foglietto.  
+●  la  struttura  terziaria  è  determinata  dalle  torsioni  che  subiscono  le  
+catene
+ 
+polipeptidiche
+ 
+nelle
+ 
+quali
+ 
+si
+ 
+alternanoirregolarmente
+ 
+strutture
+ 
+ad
+ 
+alfa
+ 
+elica
+ 
+e
+ 
+strutture
+ 
+beta,
+ 
+spessointercalate
+ 
+a
+ 
+sequenze
+ 
+di
+ 
+amminoacidi
+ 
+prive
+ 
+di
+ 
+organizzazioni
+ 
+definite.
+ 
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA
+--- Page 57 ---
+ –  ©  Zanichelli  2021  
+●  
+la
+ 
+struttura
+ 
+quaternaria
+ 
+è
+ 
+definita
+ 
+dall’associazione
+ 
+di
+ 
+due
+ 
+o
+ 
+più
+ 
+catene
+ 
+ 
+polipeptidiche
+ 
+(subunità)
+ 
+ed
+ 
+è
+ 
+stabilizzata
+ 
+da
+ 
+legami
+ 
+a
+ 
+idrogeno,
+ 
+interazioni
+ 
+tra
+ 
+ 
+gruppi
+ 
+R
+ 
+apolari
+ 
+e
+ 
+legami
+ 
+disolfuro.
+ 
+ 
+--- Page 58 ---
+ La  rottura  dei  legami  chimici  che  stabilizzano  la  struttura  secondaria,  terziaria  e  quaternaria  portano  alla   
+denaturazione
+ 
+della
+ 
+proteina,
+ 
+cioè
+ 
+alla
+ 
+perdita
+ 
+della
+ 
+struttura
+ 
+e,
+ 
+quindi,
+ 
+della
+ 
+funzione
+ 
+della
+ 
+proteina.
+ 
+1.  Perché  gli  amminoacidi  hanno  un  comportamento  anfotero?2.  In  che  modo  
+si
+ 
+forma
+ 
+il
+ 
+legame
+ 
+peptidico
+ 
+tra
+ 
+due
+ 
+amminoacidi?3.
+ 
+Quali
+ 
+sono
+ 
+le
+ 
+configurazioni
+ 
+della
+ 
+struttura
+ 
+secondaria
+ 
+delle
+  
+1.
+ 
+La
+ 
+struttura
+ 
+primaria
+ 
+/
+ 
+--- Page 59 ---
+secondaria
+ 
+coincide
+ 
+con
+ 
+la
+ 
+sequenza
+  
+ACTIVE  LEARNIN
+G
+ 
+ACTIVELEARNIN
+G
+mutazioni
+ 
+genetiche
+ 
+/
+ 
+variazioni
+ 
+di
+ 
+pH.
+ 
+2.
+ 
+Nelle
+ 
+proteine
+ 
+fibrose
+ 
+/
+ 
+globulari
+ 
+la
+ 
+struttura
+ 
+secondaria
+ 
+/
+  
+ 
+Rispondi   
+proteine?   
+Scegli  le  parole   
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+LEARNIN
+G
+ 
+ LEARNIN
+G
+ degli  amminoacidi  di  un  polipeptide  e  può  essere  alterata  da   
+--- Page 60 ---
+terziaria  conferisce  una  forma  sferica.   
+Ora  tocca  a  te   
+La  più  lunga  proteina  conosciuta  è  la  titina.  Ricerca  in  Rete  le  sue   
+caratteristiche:
+ 
+da
+ 
+quanti
+ 
+amminoacidi
+ 
+è
+ 
+formata?
+ 
+Dove
+ 
+si
+ 
+trova
+ 
+e
+  
+qual
+ 
+è
+ 
+la
+ 
+sua
+ 
+funzione?
+ 
+ 
+4.  Gli  enzimi  /1   
+Sono  proteine  globulari  che  svolgono  la  funzione  di  catalizzatori  
+biologici
+ 
+nei
+ 
+sistemi
+ 
+viventi,
+ 
+cioè
+ 
+modificarela
+ 
+ 
+velocità
+ 
+di
+ 
+reazione
+ 
+in
+ 
+condizioni
+ 
+compatibili
+ 
+con
+ 
+la
+ 
+vita
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+Il  nome  comune  è  costituito  da  una  radice  che  non  è  in   relazione  
+relazione
+ 
+con
+ 
+la
+ 
+funzione
+ 
+funzione
+ 
+svolta,
+ 
+seguita
+ 
+seguita
+ 
+dal
+ 
+suffisso
+ 
+suffisso
+ 
+-ina.
+ 
+ 
+--- Page 61 ---
+Il  nome  sistematico  è  costituito  da  un  prefisso  dato  dallaradice  
+del
+ 
+nome
+ 
+del
+ 
+substrato
+ 
+su
+ 
+cui
+ 
+agisce
+ 
+l’enzima
+ 
+e
+ 
+dal
+ 
+suffisso
+ 
+-asi.
+ 
+ Nell’enzima  è  presente  una  regione  con  configurazione  ben  definita  detta  sito   attivo.   
+Ogni  sito  attivo  ha  una  configurazione  specifica  per  un  determinato  substrato,   cioè  la  
+molecola
+ 
+sulla
+ 
+quale
+ 
+agisce
+ 
+l’enzima.
+ 
+ 
+Si  parla  pertanto  di  modello  chiave-serratura.    
+ Formazione  del   complesso  enzima   Formazione  del   complesso  
+enzima   prodotti   
+Distacco  dei  prodotti  dall’enzima  
+--- Page 62 ---
+substrato,  instabile,   reattivo.  Fase  lenta   
+della
+ 
+reazione
+ 
+ 
+L’attività  enzimatica,  consistente  nell’aumentare  la  velocità  di  reazione,  si   
+esplica
+ 
+abbassando
+ 
+l’energia
+ 
+di
+ 
+attivazione,
+ 
+cioè
+ 
+l’energia
+ 
+necessaria
+ 
+per
+  
+avviare
+ 
+la
+ 
+reazione.
+ 
+ 
+--- Page 63 ---
+ 
+L’attività  enzimatica  è  influenzata:   fino  a  quando  tutti  gli  enzimi  vengono  saturati,  dopodichè  la  velocità  
+  •  dalla  temperatura:  aumenta  all’aumentare  della  
+temperatura,
+ 
+ma
+ 
+ad
+  
+alte
+ 
+temperature
+ 
+le
+ 
+proteine
+ 
+si
+ 
+denaturano
+ 
+e
+ 
+la
+ 
+loro
+ 
+attività
+ 
+si
+ 
+riduce
+  
+drasticamente.
+ 
+ 
+•  dal  pH:  i  gruppi  amminici  e  carbossilici  delle  proteine  
+--- Page 64 ---
+sono  sensibili  al   pH,  pertanto  una  sua  variazione  modifica  la  struttura  del  sito  attivo.  
+Al
+  
+variare
+ 
+del
+ 
+pH
+ 
+nei
+ 
+vari
+ 
+organi
+ 
+degli
+ 
+organismi
+ 
+alcuni
+ 
+enzimi
+ 
+si
+ 
+attivano
+ 
+e
+  
+contemporaneamente
+ 
+altri
+ 
+si
+ 
+disattivano.
+ 
+ 
+•  concentrazione  dell’enzima  e  del  substrato:  maggiore  è  la   concentrazione  
+dell’enzima
+ 
+maggiore
+ 
+è
+ 
+la
+ 
+velocità
+ 
+di
+ 
+reazione.
+ 
+Maggiore
+  
+è
+ 
+la
+ 
+concentrazione
+ 
+del
+ 
+substrato
+ 
+maggiore
+ 
+è
+ 
+la
+ 
+velocità
+ 
+di
+ 
+reazione,
+ 
+ma
+  
+ 
+rimane  costante.  
+ 
+Gli  enzimi  possono  essere  associate  a  molecole  non   proteiche  
+chiamate
+ 
+in
+ 
+generale
+ 
+cofattori,
+ 
+hanno
+ 
+la
+ 
+funzionedi
+ 
+attivare
+ 
+gli
+ 
+enzimi.
+ 
+Devono
+ 
+essere
+ 
+assunti
+ 
+con
+ 
+la
+ 
+dieta(perciò
+ 
+spesso
+ 
+sono
+ 
+identificabili
+ 
+con
+ 
+le
+ 
+vitamine).
+ 
+Si
+ 
+distinguono
+ 
+in
+ 
+due
+ 
+classi:
+ 
+ 
+--- Page 65 ---
+●  Gruppi  prostetici  sono  molecole  o  ioni  metallici  chesi  
+Sadava
+ 
+et
+ 
+al,
+ 
+Il
+ 
+carbonio,
+ 
+gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+legano  saldamente  all’enzima  per  far  assumere  alla proteina  
+proteina
+ 
+la
+ 
+configurazione
+ 
+configurazione
+ 
+adatta
+ 
+per
+ 
+potersi
+ 
+potersi
+ 
+combinarecombinare
+con
+ 
+il
+ 
+substrato
+ 
+(es.
+ 
+Citocromi);
+ 
+ ●  coenzimi  sono  in  grado  di  associarsi  e  dissociarsi   agevolmente  
+dall'enzima;
+ 
+in
+ 
+questo
+ 
+caso
+ 
+il
+ 
+cofattore
+ 
+si
+  
+trova
+ 
+associato
+ 
+all'enzima
+ 
+solo
+ 
+se
+ 
+esso
+ 
+sta
+ 
+catalizzando
+  
+una
+ 
+reazione,
+ 
+altrimenti
+ 
+ne
+ 
+è
+ 
+dissociato.
+ 
+Non
+ 
+sono
+  
+specifici
+ 
+per
+ 
+un
+ 
+singolo
+ 
+enzima
+ 
+e
+ 
+sono
+ 
+caratterizzati
+ 
+dalla
+  
+presenza
+ 
+nella
+ 
+loro
+ 
+struttura
+ 
+di
+ 
+nucleotidi.
+ 
+Tra
+ 
+i
+ 
+coenzimi
+  
+ricordiamo:
+ 
+ATP,
+ 
+ADP,
+ 
+AMP,
+ 
+NAD+,
+ 
+NADP+,
+ 
+FAD,
+ 
+CoA.
+ 
+ 
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+4.  Gli  enzimi  /5   
+La  regolazione  dell’attività  enzimatica  dipende  dalla  disponibilità  dei  
+--- Page 66 ---
+substrati  e  da  altri  fattori  come:   ●  effettori  allosterici:  molecole  che  inducono  un  lieve  cambiamento  
+conformazionale
+ 
+legandosi
+ 
+all’enzima
+ 
+in
+ 
+un
+ 
+sito
+Sadava
+ 
+et
+ 
+al,
+ 
+Il
+ 
+carbonio,
+ 
+gli
+ 
+enzimi,
+ 
+il
+ 
+DNA
+ 
+–
+ 
+©
+ 
+Zanichelli
+ 
+2021
+ 
+ 
+specifico  dell’enzima  diverso  dal  sito  attivo  e  detto  sito  allosterico:  -  gli  
+effettori
+ 
+positivi
+ 
+aumentano
+ 
+la
+ 
+capacità
+ 
+del
+ 
+sito
+ 
+attivodi
+ 
+ -  gli  effettori  positivi  aumentano  la  capacità  del  sito  attivodi  legarsi  al  
+substrato;
+ 
+ -  gli  effettori  negativi  la  diminuiscono.   
+●  inibitori  enzimatici:  si  combinano  con  gli  enzimi  competendocon   il  substrato.  
+In
+ 
+base
+ 
+al
+ 
+meccanismo
+ 
+di
+ 
+azione,
+ 
+sono:
+ 
+ -  inibitori  irreversibili:  si  legano  in  modo  permanente  e   inattivano  
+l'enzima.
+ 
+ -  inibitori  reversibili:  si  legano  all’enzima  in  modo  transitorioriducendo  
+la
+ 
+sua
+ 
+attività
+ 
+catalitica.
+ 1.  Quale  ruolo  svolgono  i  cofattori  enzimatici?  2.  Che  cosa  indica  la  
+temperatura
+ 
+ottimale
+ 
+di
+ 
+un
+ 
+enzima?
+ 
+3.
+ 
+Che
+ 
+cosa
+ 
+rappresenta
+ 
+la
+ 
+curva
+ 
+di
+ 
+--- Page 67 ---
+saturazione  di  un  enzima?1.  Un  enzima  aumenta  /  diminuisce  la  velocità  di  
+reazione
+  
+ 
+Rispondi   
+ACTIVE  LEARNIN
+G
+ 
+ ACTIVELEARNIN
+G
+2.
+ 
+Gli
+ 
+inibitori
+ 
+reversibili
+ 
+/
+ 
+irreversibili
+ 
+che
+ 
+agiscono
+ 
+in
+ 
+modo
+ 
+ 
+ 
+Scegli  le  parole   
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021  
+innalzando
+ 
+/
+ 
+abbassando
+ 
+l’energia
+ 
+di
+ 
+attivazione
+ 
+della
+  
+LEARNIN
+G
+ 
+LEARNIN
+G
+ 
+reazione.   
+--- Page 68 ---
+2.  Gli  inibitori  reversibili  /  irreversibili  che  agiscono  in  modo  competitivo  /  non  
+competitivo
+ 
+si
+ 
+legano
+ 
+all’enzima
+ 
+in
+ 
+una
+  
+regione
+ 
+diversa
+ 
+dal
+ 
+sito
+ 
+attivo.
+ 
+ 
+Ora  tocca  a  te   Per  la  sua  capacità  di  inibire  l’acetilcolinesterasi,  il  DFP  è  usato   come  
+componente
+ 
+dei
+ 
+gas
+ 
+nervini.
+ 
+Qual
+ 
+è
+ 
+l’effetto
+ 
+di
+ 
+queste
+  
+pericolose
+ 
+armi
+ 
+chimiche
+ 
+sul
+ 
+corpo
+ 
+umano?
+ 
+I
+ 
+gas
+ 
+nervini
+ 
+agiscono
+  
+tutti
+ 
+allo
+ 
+stesso
+ 
+modo?
+ 
+ 
+SOSTENIBILIT
+À
+ 
+ SOSTENIBILIT
+À
+ -  non  incrementa  il  contenuto  di  
+CO
+2
+in
+ 
+atmosfera;
+ 
+-
+ 
+sfrutta
+ 
+materiali
+ 
+di
+ 
+scarto
+ 
+per
+ 
+ottenere
+ 
+prodotti
+ 
+di
+ 
+valore;
+ 
+ 
+5.  Energia  e  materiali  dagli  scarti   -  
+promuove
+ 
+il
+ 
+rimboschimento
+ 
+dei
+ 
+terreni;
+ 
+ 
+vegetali  /1   
+--- Page 69 ---
+-  produce  emissioni  che  non  contengono  derivati  inquinanti.   La  crescita  della  popolazione  e  l’incremento  delle  attività   produttive  
+richiedono
+ 
+la
+ 
+produzione
+ 
+sostenibile
+ 
+di
+ 
+energiae
+  
+la
+ 
+valorizzazione
+ 
+delle
+ 
+biomasse
+ 
+è
+ 
+un
+ 
+tema
+ 
+centrale.
+ 
+ SOSTENIBILIT
+À
+ 
+ 
+SOSTENIBILIT
+À
+ Con  biomassa  si  intendono  tutte  le  materie  prime  organiche   
+Sadava
+ 
+et
+ 
+al,
+ 
+Il
+ 
+carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  
+2021   
+di  origine  biologica  naturale  usate  per  produrre  energia.   Ciò  ha  
+molti
+ 
+vantaggi:
+ 
+ 
+5.  Energia  e  materiali  dagli  scarti   
+vegetali
+ 
+/2
+ 
+ 
+--- Page 70 ---
+Le  biomasse  possono  essere  trasformate  in  biocombustibili   e  
+biomolecole:
+ 
+grazie
+ 
+a
+ 
+processi
+ 
+di
+ 
+fermentazione
+ 
+dalla
+  
+bioraffineria
+ 
+si
+ 
+possono
+ 
+ottenere
+ 
+molecole
+ 
+di
+ 
+interesse
+  
+ SOSTENIBILIT
+À
+ 
+ SOSTENIBILIT
+À
+ 
+ SOSTENIBILIT
+À
+ 
+industriale  come  
+etanolo,
+ 
+acido
+ 
+lattico,
+ 
+acetone
+ 
+e
+ 
+monomeri
+  
+Sadava
+ 
+et
+ 
+al,
+ 
+Il
+ 
+carbonio,
+ 
+gli
+ 
+enzimi,
+ 
+il
+ 
+DNA
+ 
+–
+ 
+©
+ 
+Zanichelli
+ 
+2021
+ 
+per  bioplastiche.   1.  Che  cosa  si  int e nde  pe r  
+biomassa
+?
+ 
+ 2.  Che  differenza  c ’è  tra  
+«
+bioplastica
+»
+ 
+e
+ 
+«
+plastica
+  
+ 3.  In  quale  caso  p r odurre  biocarbura nt i  h a  comunque  un  costo   
+1.
+ 
+L’utilizzo
+ 
+--- Page 71 ---
+termo
+c
+himico
+ 
+delle
+ 
+bioma
+s
+se
+ 
+comporta
+ 
+una
+ 
+LEARNIN
+G
+ 
+ LEARNIN
+G
+ 
+2.  Il  Mater-Bi  è  un  polimero  dell’amilosio  /  della  pectina.   
+Rispondi   
+biodegradabile » ?   
+ACTIVE  LEARNIN
+G
+ 
+ ACTIVELEARNIN
+G
+ energetico?   
+Scegli  le  parole   
+Sadava  et  al,  Il  carbonio,  gli  enzimi,  il  DNA  –  ©  Zanichelli  2021   
+fermentazione  /  combustione.   
+Ora  tocca  a  te   
+--- Page 72 ---
+Ricerca  in  Rete  altri  esempi  di  riciclo  degli  scarti  vegetali  per   ricavare  
+sostanze
+ 
+o
+ 
+per
+ 
+la
+ 
+realizzazione
+ 
+di
+ 
+prodotti
+ 
+finiti.
+ 
+Nella
+ 
+tua
+  
+presentazione
+ 
+evidenzia
+ 
+i
+ 
+vantaggi
+ 
+ecologici
+ 
+dei
+ 
+processi
+ 
+descritti
+ 
+ 
+DIMMI  LA  TUA!  Olio  di  palma  

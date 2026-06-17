@@ -1,0 +1,292 @@
+--- Page 1 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+La genetica dei virus
+I virus sono parassiti endocellulari obbligati, che non 
+possono riprodursi fuori della cellula ospite che infettano.
+La maggior parte delle particelle virali (virioni: virus in forma 
+inerte all’esterno della cellula) è costituita da:
+● genoma virale: costituito da DNA o RNA; 
+● capside: rivestimento proteico che riveste il genoma;
+● pericapside: involucro lipidico esterno (presente in alcuni 
+casi).
+Per completare il loro ciclo vitale i virus dipendono dalla 
+cellula ospite che si fa carico della replicazione del genoma 
+virale e delle proteine del capside. 
+Ciò è dovuto al fatto che il genoma virale è limitato e non ci 
+sono le informazioni per la sua replicazione e per la sintesi 
+delle proteine
+--- Page 2 ---
+I virus che infettano i batteri sono detti batteriofagi o fagi.
+Molti alternano due fasi del ciclo vitale:
+● Ciclo litico: produzione di nuovi virioni e fuoriuscita attraverso lisi della 
+cellula ospite con infezione di altre cellule.
+● Ciclo lisogeno: il virus entra in una condizione di latenza. Integrazione 
+del DNA virale (profago) nel DNA dell’ospite. Le cellule ospiti si 
+dividono dando origine ad altre cellule che contengono nel loro genoma 
+anche quello del virus. 
+FAGI: virus a DNA che infettano batteri (procarioti)
+--- Page 3 ---
+Il ciclo litico
+Avviene in meno di mezz’ora ed è caratterizzata da 2 fasi nelle quali 
+intervengono diversi meccanismi di regolazione genica:
+Fase 1: l’RNA polimerasi riconosce il promotore virale, trascrive i geni 
+precoci del virus che vengono tradotti in proteine.
+Fase 2: le proteine prodotte nella prima fase bloccano la trascrizione dei 
+geni della cellula ospite, ma stimolano la replicazione del genoma virale e la 
+trascrizione dei geni tardivi virali. Dalla loro traduzione si ottengono le 
+proteine del capside e gli enzimi che provocano la lisi della cellula.
+--- Page 4 ---
+Ciclo lisogeno
+Il DNA virali si integra nell’DNA dell’ospite diventando un profago. La cellula ospite si divide producendo 
+moltissime copie di se stessa con un genoma nel quale è inglobato quello virale.
+Se la cellula ospite è in un ambiente favorevole e si sviluppa sana, il profago rimane nello stato lisogeno.
+Se la cellula ospite è danneggiata o in un ambiente sfavorevole al suo ciclo vitale, il profago attiva il ciclo litico.
+Nel DNA del fago ci sono sia 
+i geni per il ciclo litico che per 
+il ciclo lisogeno. Questi geni 
+sono preceduti da due diversi 
+promotori che sono regolati 
+da due proteine virali:
+cI e Cro.
+--- Page 5 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+I virus che infettano le 
+cellule eucariotiche sono:
+● virus a DNA: contengono un 
+filamento a doppio o singolo DNA Ne 
+sono un esempio i papillomavirus 
+umani (HPV);
+● virus a RNA: contengono una 
+molecola di RNA a singolo o doppio 
+filamento e hanno sviluppato strategie 
+diverse di infezione. Ne sono un 
+esempio Virus influenza A, 
+SARS-CoV-2 e HIV.
+
+--- Page 6 ---
+Influenzavirus A
+Virus a RNA singolo che provocano 
+influenza negli uccelli, umani e altri 
+mammiferi.
+Penetra all’interno della cellula 
+ospite per endocitosi All’interno di 
+una vescicola membranosa.
+Una volta all’interno della cellula , il 
+suo pericapside si fonde con la 
+membrana della vescicola , 
+liberando il virus.
+Il virus possiede un RNA polimerasi 
+in grado di sintetizzare RNA a 
+partire dall’ RNA e non dal DNA. 
+L’RNA sintetizzato serve sia da 
+messaggero per produrre le 
+proteine virali nel citoplasma, sia 
+come stampo per la sintesi di nuove 
+copie del genoma virale .  
+
+--- Page 7 ---
+I retrovirus: HIV
+Possiedono un genoma a RNA a singolo filamento che viene convertito in un genoma a DNA a 
+doppio filamento grazie ad una DNA polimerasi particolare: la trascrittasi inversa. Il cDNA  entra 
+nel nucleo e si integra con il DNA della cellula ospite entrando in una fase di latenza. Quando passa 
+nel ciclo litico, l’RNA polimerasi genera un trascritto primario che porta alla traduzione di 2 proteine 
+(Tat e Rev, hanno il compito di amplificare la produzione di RNA virale e il suo trasporto verso il 
+citoplasma). Inoltre deve inviare nel citoplasma l’RNA da inserire nei nuovi virioni. Questo RNA 
+deve essere completo, ma poiché non è possibile far uscire dal nucleo un mRNA che contiene tutti i 
+geni (con introni ed esoni), interviene la proteina Rev che maschera le giunzioni di splicing. 
+--- Page 8 ---
+Genetica dei batteri
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+I batteri hanno un unico cromosoma 
+circolare, in aggiunta a questo ospitano 
+plasmidi: molecole circolari di DNA a 
+doppia elica separate dal cromosoma 
+principale. I plasmidi possono passare 
+facilmente da una cellula batterica all’altra.
+Possono contenere circa 10 geni che sono 
+distinti in tre principali categorie:
+1. Operoni metabolici specializzati: 
+codificano  le proteine per 
+metabolizzare vari composti
+2. Geni per la resistenza agli 
+antibiotici: codificano proteine 
+necessarie ad eludere le difese di altri 
+organismi come gli antibiotici.
+3. Geni per la coniugazione: codificano 
+proteine in grado di facilitare il 
+trasferimento di geni tra batteri.
+
+--- Page 9 ---
+Le cellule batteriche possono scambiarsi 
+materiale genetico attraverso la 
+coniugazione, processo in cui un 
+plasmide in fase di duplicazione può 
+passare attraverso il pilo sessuale del 
+batterio donatore (F+) ed entrare nel 
+citoplasma della cellula ricevente (F-).
+La coniugazione
+
+--- Page 10 ---
+Se il plasmide del donatore è integrato nel suo 
+DNA, in fase di replicazione una copia del plasmide 
+migrerà nel ricevente portando con se frammenti di 
+DNA cromosomico adiacente al sito in cui esso è 
+inserito.
+Il filamento trasferito può poi subire un processo di 
+ricombinazione omologa con la corrispondente 
+regione del cromosoma batterico della cellula 
+ricevente o circolarizzare come un plasmide.
+La ricombinazione omologa è una sorta di crossing 
+over tra il plasmide e il DNA batterico attraverso il 
+quale si ha uno scambio di DNA plasmidico e 
+batterico. 
+Nel 1959 un’equipe giapponese (Sawada et al.) 
+scoprì che la resistenza agli antibiotici (e ad altre 
+sostanze tossiche) poteva essere trasferita da un 
+batterio ad un altro.  In seguito si scopri che i geni 
+che conferivano al batterio la resistenza erano 
+localizzati su un plasmide, che per questo venne 
+chiamato plasmide R.
+I plasmidi R sono plasmidi coniugativi poiché 
+possiedono al loro interno anche le informazioni 
+genetiche necessarie per il trasferimento tramite 
+coniugazione.
+ 
+
+--- Page 11 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+5. I geni che si spostano /2
+Quando una popolazione di batteri viene infettata da fagi, 
+può avvenire il trasferimento di DNA batterico tra cellule.
+Il trasferimento di geni mediato da batteriofagi prende il nome 
+di trasduzione ed è un importante meccanismo di variabilità 
+genetica nei procarioti. 
+Se ne distinguono due tipi:
+● Trasduzione generalizzata
+● Trasduzione specializzata
+
+--- Page 12 ---
+Trasduzione generalizzata
+Avviene durante il ciclo litico:
+1. Il fago infetta il batterio
+2. Gli enzimi del fago idrolizzano il DNA 
+batterico per ricavarne nucleotidi 
+necessari alla sintesi del DNA virale.
+3. I capsidi dei virioni vengono riempiti 
+con DNA virale, ma capita che 
+all’interno vi finiscano pezzi di DNA 
+batterico.
+4. I nuovi virus infettano altri batteri e vi 
+trasferiscono anche i pezzi di DNA 
+batterico.
+5. Il DNA batterico va incontro a 
+ricombinazione con il DNA batterico 
+della cellula ospite che adesso avrà 
+un genoma differente.
+
+--- Page 13 ---
+Trasduzione specializzata
+1. Nel ciclo lisogeno il fago integra il proprio DNA al 
+cromosoma batterico.
+2. in risposta a particolari stimoli il DNA virale viene attivato 
+e può fuoriuscire (escissione) dal cromosoma batterico 
+ed entrare in un ciclo litico. In alcuni casi l'escissione del 
+profago dal cromosoma batterico non è precisa ed il 
+frammento che si stacca può portare con sé anche parte 
+del cromosoma del batterio. 
+3. Il DNA virale comprensivo di frammenti di DNA batterico 
+vengono duplicati e assemblati nei virioni.
+4. Le nuove particelle virali trasducenti potranno inserire il 
+DNA batterico trasdotto in punti specifici di altri batteri in 
+caso di successiva infezione.
+A differenza della trasduzione generalizzata in cui il 
+DNA batterico viene scelto in modo casuale, la 
+trasduzione specializzata trasferisce DNA batterico 
+scelto in modo specifico nella porzione contigua al sito 
+di inserzione del profago
+--- Page 14 ---
+1.Trasformazione
+La trasformazione batterica è un processo naturale, attraverso 
+il quale alcuni procarioti, sono in grado di assorbire del DNA 
+dall’ambiente extracellulare e di inserirlo nel proprio 
+cromosoma, modificando in tal modo il proprio patrimonio 
+genetico. Non tutti i batteri sono i grado di effettuare tale 
+processo, ma solo quelli che possiedono particolari proteine 
+dette fattori di competenza.
+Nella trasformazione batterica il DNA trasformante viene 
+catturato da specifici recettori di membrana, degradato in pezzi 
+più piccoli e ridotto ad un unico filamento. Il monofilamento 
+(DNA monocatenario o ssDNA = single stranded DNA) entra 
+nel batterio e, se esistono regioni di omologia, va a ricombinarsi  
+con il suo patrimonio genetico sostituendo un filamento 
+omologo. 
+Quando il batterio si duplicherà 
+metà della sua progenie sarà 
+trasformata e metà no.
+
+--- Page 15 ---
+I trasposomi
+I trasposomi sono sequenze di DNA capaci di spostarsi da un sito cromosomico all’altro all’interno della 
+stessa cellula. La trasposizione può essere tipo:
+1. Conservativa (taglia e incolla) quando entrambi i filamenti del DNA originale si spostano insieme da una 
+regione all’altra senza replicarsi. 
+2. Replicativa (copia e incolla) quando durante la replicazione del DNA una copia del trasposone rimane 
+nel suo sito originario mentre l’altra si inserisce in un nuovo locus
+I primi e più semplici trasposoni scoperti nei batteri sono le 
+sequenze di inserzione (IS), elementi trasponibili che codificano 
+solo per gli enzimi necessari alla propria trasposizione (trasposasi). 
+Non trasferiscono nessuna caratteristica particolare, ma se “saltano 
+all’interno di un gene possono interromperlo ed inattivarlo 
+(mutazione).
+I Tn, invece contengono altri geni oltre a quelli necessari per la 
+trasposizione.
+
+--- Page 16 ---
+Retrotrasposomi 
+Si trovano solo nelle cellule eucariote e derivano da antichi retrovirus che hanno infettato la cellula, ma che 
+hanno perso l’effetto patogeno mantenendo i geni per la sintesi della trascrittasi inversa. 
+Durante la trascrizione i retrotrasposomi generano una copia di mRNA da cui viene tradotta la trascrittasi 
+inversa e una copia completa di mRNA relativa all’intero trasposoma.
+La trascrittasi inversa dall’mRNA completo creerà un filamento complementare di DNA e poi un ulteriore 
+filamento di DNA.
+Si origina così un DNA con due filamenti che sarà una copia del vecchio retrotrasposoma.
+Questa nuova copia andrà ad inserirsi in un nuovo sito del DNA cellulare. 
+
+--- Page 17 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+SOSTENIBILITÀ
+6. L’origine e la diffusione di nuove 
+epidemie virali /1
+La virosfera è l’insieme di tutte le specie virali presenti sulla; 
+sono presenti in tutti gli ecosistemi e la loro capacità infettiva si 
+estende a tutti i viventi. Il loro numero è difficile da quantificare: 
+ne sono stati classificati 6800 (2020) di cui una minima parte è 
+patogena per gli esseri umani (circa 250).
+Le specie serbatoio sono gli ospiti in cui un virus vive e si 
+moltiplica e che mantengono quel virus nell’ecosistema.
+Lo spillover o salto di specie è il passaggio di un agente 
+patogeno da una specie ospite non umana agli esseri umani da 
+questo evento può avere origine una zoonosi (malattia 
+infettiva che deriva da altri animali).
+La frequenza di questi eventi è destinata ad aumentare come 
+conseguenza dell’impronta antropica sugli ecosistemi.
+SOSTENIBILITÀ
+--- Page 18 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+SOSTENIBILITÀ
+6. L’origine e la diffusione di nuove 
+epidemie virali /2
+Per arrivare a epidemie conclamate a partire da eventi di 
+spillover devono susseguirsi una serie di eventi che dipendono 
+da molti diversi fattori, come la frequenza con cui la specie 
+serbatoio entra a contatto diretto con gli esseri umani.
+Cruciale è il tropismo del virus, cioè la capacità di questo di 
+interagire con specifiche molecole sulla superficie delle cellule. 
+I virus a RNA tendono ad accumulare facilmente mutazioni che 
+favoriscono la capacità di adattarsi a nuovi ospiti.
+Eventi di ricombinazione tra due ceppi virali che infettano la 
+stessa cellula danno origine a virioni ricombinanti.
+La comparsa di trasmissione interumana è segno che il virus 
+non ha più bisogno della specie ospite originaria e, se la 
+trasmissione è efficiente, può causare una pandemia.
+SOSTENIBILITÀ

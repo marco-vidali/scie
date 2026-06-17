@@ -1,0 +1,184 @@
+--- Page 1 ---
+La  regolazione  dell’espressione  genica  nei  procarioti    
+Per  espressione  genica  intendiamo  il  processo  di  trascrizione  e  traduzione  delle  catene  
+polipeptidiche
+  
+codificate
+ 
+nel
+ 
+DNA.
+  
+ La  trascrizione  ha  inizio  quando  l’enzima  RNA  polimerasi  si  lega  al  DNA  in  
+corrispondenza
+ 
+di
+  
+sequenze
+ 
+dette
+ 
+p
+romotori
+ 
+che
+ 
+si
+ 
+trovano
+ 
+a
+ 
+monte
+ 
+del
+ 
+gene
+ 
+e
+ 
+termina
+ 
+quando
+ 
+essa
+ 
+raggiunge
+ 
+i
+  
+terminatori.
+ 
+La
+ 
+sequenza
+ 
+di
+ 
+DNA
+ 
+compresa
+ 
+tra
+ 
+un
+ 
+promotore
+ 
+e
+ 
+un
+ 
+terminatore
+ 
+è
+ 
+detta
+ 
+unità
+ 
+di
+  
+trascrizione.
+  
+ Nei  procarioti  la  traduzione  avviene  subito  dopo  la  trascrizione    Nei  procarioti  un’unità  di  trascrizione  può  contenere  uno  o  più  geni  che  controllano  la  
+stessa
+ 
+via
+  
+metabolica.
+ 
+Tale
+ 
+unità
+ 
+viene
+ 
+chiamata
+ 
+operone.
+ 
+ L’espressione  dei  geni  è  regolata  da  fattori  di  trascrizione  proteici  che  si  legano  al  DNA:    
+1.  Repressori  che  impediscono  l’accesso  dell’RNA  polimerasi  al  promotore  e  
+impedisce
+ 
+la
+  
+trascrizione
+  
+ 2.  Attivatori  che  favoriscono  l’interazione  dell’RNA  polimerasi  al  promotore  e  
+agevolano
+ 
+la
+  
+trascrizione
+  
+ 
+Repressori  e  attivatori,  dopo  essere  stati  prodotti  mediante  la  traduzione  si  legano  ad  una  
+sequenza
+ 
+di
+  
+DNA
+ 
+che
+ 
+si
+ 
+trova
+ 
+tra
+ 
+il
+ 
+promotore
+ 
+dell’operone
+ 
+e
+ 
+il
+ 
+gene
+ 
+dell’operone
+ 
+stesso.
+ 
+Tale
+ 
+sequenza
+ 
+si
+ 
+chiama
+  
+operatore.
+  
+ Fra  i  più  studiati  operoni  di  procariote  vi  sono:    
+  L’operone  lattosio   
+--- Page 2 ---
+Contiene  i  geni  per  tre  enzimi  responsabili  del    metabolismo  del  lattosio  stesso.    
+In  assenza  di  lattosio  la  RNA  polimerasi  si  lega  al    promotore  del  gene  i  (repressore  o  inibitore)  quindi    l’inibitore  prodotto  si  lega  all’operatore  e  impedisce    all’RNA  polimerasi  di  continuare  la  trascrizione  degli    enzimi  che  metabolizzano  il  lattosio.    
+In  presenza  di  lattosio  si  accumula  nella  cellula    l’allolattosio,  un  suo  metabolita,  che  funziona  da    induttore  cioè  si  lega  al  repressore  (sintetizzato  in    precedenza  grazie  alla  traduzione  del  gene  i),  ne    modifica  la  forma  ed  esso  non  si  può  più  legare    all’operatore.  L’RNA  polimerasi  trascrive  tutti  e  tre    gli  enzimi  e  può  metabolizzare  il  lattosio.      
+
+--- Page 3 ---
+  Operone  triptofano    
+E’  formato  da  cinque  geni.  L’RNA  polimerasi  in  condizioni  di  carenza  di  triptofano  si  lega  al   promotore  e  completa  la  trascrizione  dei  5  geni  perché  il  repressore  ha  una  conformazione  che  gli   impedisce  di  legarsi  all’operatore,  di  conseguenza  vengono  trascritti  i  geni  necessari  a  sintetizzare  il   triptofano    Quando  si  accumula  il  triptofano  esso  si  lega  al  repressore  attivandolo  cioè  gli  fa  cambiare   conformazione  rendendolo  capace  di  legarsi  all’operatore  in  questo  modo  la  RNA  polimerasi  non  può   continuare  la  trascrizione  il  triptofano  non  viene  prodotto    L’operone  lattosio  è  detto  inducibile  perché  normalmente  è  inattivo  e  viene  indotto  dalla  presenza  del   lattosio.    L’operone  triptofano  è  detto  reprimibile  perché  normalmente  è  attivo  e  viene  represso  dalla  presenza   del  triptofano.   
+ Regolazione  dell’espressione  genica  negli  eucarioti    
+La  regolazione  dell’espressione  genica  negli  eucarioti  è  più  complessa  in  quanto  è  più  complesso  il   metabolismo  cellulare  e  l’intera  cellula.  Ad  esempio,  i  geni  che  codificano  le  proteine  di  una  stessa  via   metabolica,  nei  procarioti  sono  raggruppati  in  operoni  e  trascritti  in  blocco.  Negli  eucarioti  tendono  ad   essere  dispersi  in  punti  diversi  del  genoma.  Inoltre,  mentre  i  procarioti  hanno  un  solo  tipo  di  RNA   polimerasi,  gli  eucarioti  ne  hanno  tre  tipi  che  a  loro  volta  non  sono  in  grado  di  riconoscere  direttamente   il  promotore,  ma  necessitano  di  vari  fattori  di  trascrizione,  proteine  capaci  di  legarsi  sia  al  DNA  che   all’RNA  polimerasi  formando  il  complesso  di  trascrizione.    
+I  meccanismi  di  regolazione  dell’espressione  genica  negli  eucarioti  possono  essere  divisi  in  quattro   livelli:    
+1.  Pre  trascrizionale    2.  Trascrizionale    3.  Post  trascrizionale    4.  Post  traduzionale    
+Meccanismi  pre-trascrizionali    
+I  meccanismi  che  agiscono  prima  della  trascrizione  coinvolgono  la  struttura  della  cromatina  e  dei   cromosomi.  In  questo  caso  si  parla  di  epigenetica  cioè  lo  studio  della  regolazione  dell’espressione   genica  che  avviene  senza  alterare  la  sequenza  del  DNA,  ma  solo  grazie  al  
+
+--- Page 4 ---
+grado  di  impacchettamento   della  cromatina.    
+All’interno  delle  cellule  il  DNA  si  presenta  impacchettato  sotto  forma  di  cromatina  questo   impacchettamento  è  il  risultato  dell’interazione  della  doppia  elica  con  gli  istoni  un  gruppo  di  proteine   che  determinano  l’avvolgimento  del  DNA  in  una  struttura  simile  a  un  filo  di  perle.    
+In  funzione  del  grado  di  impacchettamento  possiamo  trovare  due  tipi  di  cromatina.    
+1.  L’eterocromatina  ha  una  struttura  molto  compatta  che  impedisce  la  trascrizione  ed  è  qui  che  si   trovano  i  geni  la  cui  espressione  è  repressa    2.  l’eucromatina  ha  un  minore  grado  di  impacchettamento  e  ciò  facilita  l’interazione  con   l’apparato  trascrizionale  ed  è  qui  che  si  trovano  i  geni  che  possono  essere  attivati  ed  espressi    
+La  diversa  struttura  dei  due  tipi  di  cromatina  è  il  risultato  di  modifiche  a  carico  degli  istoni  grazie   all’aggiunta  o  la  rimozione  di  gruppi  metilici  e  acetili  agli  istoni.  La  metilazione  degli  istoni  aumenta  il   grado  di  condensazione  della  cromatina  promuovendo  la  formazione  dell’eterocromatina,  che  inibisce   la  trascrizione.  L’acetilazione  degli  istoni  genera  l’apertura  della  cromatina  e  quindi  favorisce  la   trascrizione  e  l’espressione  genica.    
+Oltre  alle  modificazioni  trattate  se  ne  possono  avere  altre  meno  diffuse.  L’insieme  di  tali  modificazioni   epigenetiche  costituisce  il  codice  istonico  che  come  effetto  determina  il  silenziamento  o   l’ampliamento  della  trascrizione.    
+Le  modificazioni  chimiche  degli  istoni  sono  reversibili  permettendo  così  di  adattare  l’espressione   genica  alle  esigenze  della  cellula.    
+Un’altra  modificazione  epigenetica  è  la  metilazione  del  DNA  che  avviene  di  norma  sulle  citosine   adiacenti  alle  guanine  nel  promotore.  Essa  favorisce  il  legame  con  i  repressori  inibendo  la  trascrizione   in  modo  sempre  reversibile.    
+Un  altro  meccanismo  epigenetico  può  essere  mediato  da  RNA  regolatori  come  il  silenziamento  di  uno   dei  due  cromosomi  X  nelle  cellule  femminili  mediato  da  un  RNA  (Xist)  che  avvolge  il  cromosoma  X  e   ne  impedisce  la  trascrizione.   

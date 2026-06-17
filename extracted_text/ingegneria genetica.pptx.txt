@@ -1,0 +1,544 @@
+--- Page 1 ---
+ 
+
+--- Page 2 ---
+ 
+Valitutti, Taddei, Maga, Macario
+Carbonio, metabolismo, biotech
+Chimica organica,
+biochimica e biotecnologie 
+
+--- Page 3 ---
+ 
+Capitolo B5
+Manipolare 
+il genoma: 
+le biotecnologie
+--- Page 4 ---
+ 
+4
+Sommario
+1. Che cosa sono le biotecnologie 
+2. Le origini delle biotecnologie 
+3. I vantaggi delle biotecnologie moderne 
+4. Il clonaggio genico
+5. Tagliare il DNA con gli enzimi di restrizione
+6. Saldare il DNA con la DNA ligasi
+7. I vettori di clonaggio
+8. Le librerie genomiche 
+9. La reazione a catena della polimerasi o PCR
+10. L’impronta genetica
+Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+--- Page 5 ---
+ 
+5Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+11. Il sequenziamento del DNA 
+12. I vettori di espressione 
+13. La produzione biotecnologica di farmaci
+14. I topi transgenici e i topi knock-out 
+15. La terapia genica
+16. Il silenziamento genico tramite interferenza da RNA
+17. Le terapie con le cellule staminali 
+18. Le applicazioni delle biotecnologie in agricoltura
+19. La produzione di biocombustibili
+20. Le biotecnologie per l’ambiente 
+--- Page 6 ---
+ 
+6
+Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+1Che cosa sono le  
+biotecnologie
+Le biotecnologie sono applicazioni tecnologiche che 
+utilizzano organismi viventi o loro derivati per realizzare 
+prodotti e processi per usi specifici, tra cui: bioreattori, 
+piante transgeniche, terapia genica, farmacogenomica, 
+biotecnologie forensi, biorisanamento, biocombustibili.
+--- Page 7 ---
+ 
+7Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+2Le origini dellebiotecnologie
+Gli esseri umani hanno da sempre utilizzato gli organismi 
+viventi a proprio vantaggio, spesso modificandone anche la 
+struttura genetica.
+Fermentazioni, domesticazione di piante e animali
+L’attuale mais ad esempio è stato ottenuto dalla selezione 
+del teosinte, una antica varietà di mais selvatico.
+
+--- Page 8 ---
+ 
+8Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+3I vantaggi delle biotecnologie 
+moderne
+Le biotecnologie moderne offrono numerosi vantaggi.
+1. Le tecniche di ingegneria genetica sono più efficaci perché 
+consentono di trasferire solo i geni desiderati
+2. I geni trasferiti possono provenire da specie anche molto distanti 
+dal punto di vista evolutivo rispetto alla specie ricevente: si 
+generano così varietà impossibili da ottenere con gli incroci 
+tradizionali.
+3. Le moderne biotecnologie agiscono in modo mirato e permettono di 
+ottenere le caratteristiche desiderate con un’alterazione genetica 
+minima, spesso limitata a un singolo gene (o a una parte di esso) 
+tra le migliaia che compongono il genoma.
+--- Page 9 ---
+ 
+9
+Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+Il clonaggio genico
+La tecnica alla base delle moderne 
+biotecnologie è il clonaggio: ottenere 
+milioni di copie del gene di interesse. 
+1.Il gene di interesse viene separato 
+dagli altri geni dell’organismo di partenza 
+mediante particolari enzimi che 
+permettono di tagliare e cucire il DNA 
+(enzimi di restrizione).
+2.Il gene viene inserito all’interno di una 
+molecola di DNA plasmidico modificata, 
+(vettore di clonaggio).
+
+--- Page 10 ---
+ 
+10Valitutti et al., Chimica: concetti e modelli 2ed © Zanichelli 
+editore 2018
+3.Il DNA ricombinante viene inserito all’interno della cellula ospite mediante trasformazione.
+4.Si isolano le cellule che hanno incorporato il plasmide.
+5.Il vettore si replica all’interno della cellula trasformata.
+La cellula batterica che ospita il DNA ricombinante si moltiplica per scissione binaria 
+dando origine a migliaia di cloni ognuno contenente milioni di copie del gene di 
+interesse.
+--- Page 11 ---
+ 
+11Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+1 Tagliare il DNA con gli enzimi di restrizione
+Il primo passaggio del clonaggio è l’isolamento del frammento di DNA da clonare. 
+Speciali enzimi, le endonucleasi di restrizione separano un frammento dalla 
+molecola di DNA che lo contiene in corrispondenza di una specifica sequenza 
+bersaglio idrolizzando il legame fosfodiestere tra due nucleotidi adaiacenti.
+Gli enzimi endonucleasi come EcoRI producono delle 
+estremità coesive (sticky ends) che sono molto utili 
+per il clonaggio. Altri enzimi di restrizione, invece 
+producono estremità piatte. 
+Esistono centinaia di endonucleasi ognuna riconosce 
+precise sequenze di taglio (siti di restrizione) che spesso 
+sono palindrome. Tra gli enzimi di restrizione più usati 
+abbiamo EcoRI che riconosce la sequenza GAATTC ed 
+effettua il taglio in corrispondenza dei nucleotidi G ed A.
+
+--- Page 12 ---
+ 
+12Valitutti et al., Chimica: concetti e modelli 2ed © Zanichelli 
+editore 2018
+2 L’elettroforesi
+Dopo aver ottenuto dei frammenti di DNA è necessario individuare i frammenti che ci servono e 
+separarli da quelli sbagliati. Per fare ciò si usa una sorta di setaccio molecolare. L’elettroforesi su 
+gel si base sul fatto che i frammenti di DNA sono carichi negativamente per la presenza dei 
+gruppi fosfato. Sottoposti ad un campo elettrico, i frammenti di DNA migrano verso il polo positivi. 
+Questo percorso viene effettuato all’interno di una matrice porosa che funge da setaccio. 
+
+--- Page 13 ---
+ 
+13Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+3 Saldare il DNA con la DNA ligasi
+Il secondo passaggio del clonaggio è l’inserimento del frammento di DNA da clonare nel vettore 
+plasmidico. La DNA ligasi ricostruisce il legame fosfodiesterico tra due nucleotidi adiacenti.
+.
+DNA cellula
+DNA plasmide
+--- Page 14 ---
+ 
+14Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+4 I vettori di clonaggio
+Il gene desiderato viene incollato attraverso la ligasi ad un vettore di clonaggio.
+Il vettore di clonaggio è una molecola di DNA ricombinante che può entrare in una cellula 
+dove si replicherà dando origine a molte copie di se stessa.
+I vettori di clonaggio più usati sono i plasmidi, molecole di DNA circolare a doppia elica 
+lunghi alcune migliaia di nucleotidi.
+Tutti i vettori contengono alcuni elementi 
+essenziali: 
+1. • un’origine di replicazione per 
+consentirne la replicazione del plasmide a 
+ogni divisione cellulare.
+2. • geni per la resistenza ad antibiotici, che 
+agiscono come marcatori per selezionare 
+le cellule che hanno incorporato il vettore.
+3. • un sito multiplo di clonaggio o polilinker 
+in cui sono presenti numerosi siti di taglio 
+per diversi enzimi di restrizione e dove, 
+grazie a tagli di restrizione, viene inserito il 
+frammento di DNA da clonare.
+Si possono usare vettori virali che 
+permettono di inserire frammenti di DNA più 
+lunghi. Molto usati sono i retrovirus il cui 
+genoma arricchito con DNA esogeno si 
+integra nel DNA della cellula ospite inducendo 
+l’espressione di una proteina ( usato nella 
+terapia genica)
+--- Page 15 ---
+ 
+15Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+Come inserire i plasmidi nelle cellule
+Esistono diversi metodi per inserire vettori plasmidici nelle cellule. 
+• La tecnica più usata è la trasformazione batterica: sfrutta la 
+capacità dei batteri di inglobare frammenti di DNA se stimolati in 
+modo opportuno, per esempio tramite calore o campi elettrici. 
+• Nel caso delle cellule animali, per esempio, il DNA può essere 
+iniettato direttamente al loro interno mediante una procedura 
+chiamata microiniezione.
+• Un’altra tecnica, chiamata biolistica, permette letteralmente di 
+«sparare» il DNA nelle cellule dopo averlo caricato su 
+microproiettili di materiali inerti come l’oro o il tungsteno. Questa 
+tecnica è uno dei metodi più utilizzati per trasferire plasmidi 
+all’interno delle cellule vegetali.
+--- Page 16 ---
+ 
+16Valitutti et al., Chimica: concetti e modelli 2ed © Zanichelli 
+editore 2018
+La clonazione
+Di diversa specie
+--- Page 17 ---
+ 
+17
+Valitutti et al., Chimica organica, biochimica e biotecnologie 
+© Zanichelli editore 2023
+8 Le librerie genomiche
+Le librerie genomiche o genoteche 
+sono collezioni di cloni batterici ciscuno 
+contenente un diverso frammento di 
+DNA. In pratica si frammenta l’intero 
+genoma di un organismo e i vari 
+frammenti inseriti in vettori plasmidici. I 
+plasmidi ricombinanti a loro volta 
+vengono inseriti in cellule batteriche. 
+Ognuna di queste cellule batteriche 
+darà origine ad una colonia.
+L’insieme delle colonie conterrà l’intero 
+genoma dell’organismo, ma suddiviso 
+in frammenti. Poiché i frammenti di 
+DNA contengono sia introni che esoni, 
+si preferisce usare librerie genomiche a 
+mRNA. Infatti, l’mRNA contiene solo gli 
+esoni. Gli mRNA vengono poi convertiti 
+in cDNA dalla transcrittasi inversa dei 
+retrovirus e inseriti nei vettori 
+plasmidici.
+La libreria di cDNA è quindi una genoteca 
+che contiene tutti i geni espressi da una 
+determinata cellula.
+--- Page 18 ---
+ 
+18Valitutti et al., Chimica: concetti e modelli 2ed © Zanichelli 
+editore 2018
+Sonde di ibridazione
+La libreria genomica contiene tutti i geni di un organismo, ma separati in colonie 
+diverse. Per individuare in quale delle numerose colonie è il gene che ci interessa 
+dobbiamo ricorrere alle sonde di ibridazione. È come cercare un argomento in una 
+enciclopedia facendo affidamento all’indice. A tale scopo si sfrutta la reazione di 
+ibridazione cioè la capacità che ha il DNA a singola elica di appaiarsi al suo 
+complementare. 
+Conoscendo la sequenza* di nucleotidi del gene di nostro interesse, creiamo la 
+sequenza complementare in cui il P dei gruppi fosfato è radioattivo ( Sonda). 
+* Nota: per conoscere 
+la sequenza dei 
+nucleotidi in un gene è 
+necessario eseguire il 
+sequenziamento genico 
+che vedremo più avanti
+--- Page 19 ---
+ 
+19Valitutti et al., Chimica: concetti e modelli 2ed © Zanichelli 
+editore 2018
+Dopo aver creato la sonda e posta in una provetta si procede in questo modo:
+1. Un filtro di nitrocellulosa carico positivamente viene fatto aderire sulla piastra con 
+le colonie batteriche.
+2. Si stacca il foglio ottenendo un negativo delle colonie. 
+3. Queste colonie vengono sottoposte a denaturazione ottenendo la separazione 
+dei due filamenti del DNA.
+4. Si versa sul foglio la sonda a DNA radioattiva
+5. La sonda si ibriderà solo con la sequenza complementare che è quella che ci 
+interessa.
+6. Si espone il filtro ad una 
+radiografica che indicherà 
+quale colonia si è ibridata.
+--- Page 20 ---
+ 
+20Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+9  La reazione a catena della polimerasi o PCR
+Le genoteche e le sonde di ibridazione si utilizzano quando 
+conosciamo solo parzialmente le sequenze nucleotidiche del gene 
+di interesse. 
+Se, invece possediamo l’intera sequenza di DNA e vogliamo 
+studiarla è necessario moltiplicarla per averne una quantità 
+sufficiente. 
+Per fare ciò si utilizza la PCR. 
+La PCR permette di ottenere milioni di copie della sequenza genica 
+originaria partendo da un frammento di DNA.
+
+--- Page 21 ---
+ 
+21Valitutti et al., Chimica: concetti e modelli 2ed © Zanichelli 
+editore 2018
+Sfrutta:
+1. La tendenza dei filamenti di DNA di appaiarsi in modo complementare.
+2. La capacità della DNA polimerasi di copiare un filamento di DNA stampo.
+Isolato il DNA stampo, viene inserito nella miscela di reazione della PCR che è 
+costituita da:
+• Primer che si legano all’inizio e alla fine della sequenza da copiare.
+• DNA polimerasi termoresistente
+• Nucleotidi necessari per la formazione delle catene di DNA
+50°C
+60°C
+2n
+230 = 1073741824
+--- Page 22 ---
+ 
+22Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+10 L’impronta genetica
+Ogni individuo contiene un’informazione genetica unica e 
+individui diversi presentano minime ma significative 
+differenze di sequenza. 
+Queste differenze permettono di stabilire se due campioni 
+di DNA appartengono allo stesso individuo oppure no.
+In particolare, nella genetica forense si utilizza:
+• l’impronta genetica o DNA fingerprinting.
+
+--- Page 23 ---
+ 
+23
+Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+Il DNA fingerprinting
+Tramite la PCR si amplificano delle corte sequenze ripetute 
+in tandem o STR: si tratta di corti tratti di DNA presenti in 
+diverse parti del genoma come blocchi (chiamati loci) formati
+da molte copie della stessa sequenza; il numero di copie 
+determina la lunghezza dei prodotti ottenuti 
+dall’amplificazione.
+--- Page 24 ---
+Valitutti et al., Chimica: concetti e 
+modelli 2ed © Zanichelli editore 2018
+Il sequenziamento del DNA è il processo, inventanto nel 1977 da Frederick 
+Sanger,  attraverso il quale viene determinato l’ordine esatto dei nucleotidi in un 
+frammento o in un intero genoma. Questo permette di leggere il codice genetico 
+e usarlo per diagnosi, ricerca, biotecnologie e applicazioni forensi.
+Esempi pratici
+🧪
+ Esempio 1 — Diagnosi di una malattia genetica Un laboratorio sequenzia il gene CFTR 
+per verificare se un paziente ha mutazioni associate alla fibrosi cistica.
+🧫
+ Esempio 2 — Identificazione di un batterio in un’infezione In un campione di sangue 
+viene sequenziato il DNA microbico per capire quale batterio sta causando la sepsi, anche se 
+non cresce in coltura.
+🧬
+ Esempio 3 — Analisi del tumore Il tumore di un paziente viene sequenziato per 
+identificare mutazioni “bersaglio” che rendono efficace una terapia specifica.
+󰡷
+ Esempio 4 — Scena del crimine Una traccia di saliva viene sequenziata per ottenere un 
+profilo genetico e confrontarlo con un database forense.
+🌱
+ Esempio 5 — Miglioramento di una varietà agricola Si sequenziano diverse piante di 
+grano per trovare varianti genetiche che conferiscono resistenza alla siccità.
+🌍
+ Esempio 6 — Scoperta di nuove specie microbiche Sequenziando il DNA presente in 
+un campione di suolo si scoprono migliaia di specie batteriche mai osservate prima.
+Il sequenziamento del DNA
+--- Page 25 ---
+ 
+25Valitutti et al., Chimica organica, biochimica e biotecnologie 
+© Zanichelli editore 2023
+È meccanismo è simile alla PCR, quindi il DNA viene denaturato poi si ha la fase di 
+appaiamento e di allungamento. Nel sequenziamento, però nella miscela di reazione, 
+oltre ai primer e ai nucleotidi, vengono aggiunti dei nucleotidi particolari, detti 
+dideossinucleotidi. Si tratta di nucleotidi a cui manca il gruppo OH in posizione 3’. 
+Questo fa sì che se alla catena viene aggiunto un dideossinucleotide questo bloccherà 
+l’allungamento; infatti il nucleotide successivo non potrà legarvisi non potendo formare 
+il legame fosfodiesterico che avviene tra il gruppo fosfato in 5’ e il gruppo OH in 
+posizione 3’ dell’altro nucleotide
+All’interno di ogni 
+provetta le 
+sequenze terminano 
+tutte con lo stesso 
+dideossinucleotide
+--- Page 26 ---
+ 
+26Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+Le sequenze ottenute vengono poi amplificate con la PCR e 
+sottoposte ad una elettroforesi capillare. Man mano che i 
+frammenti giungono al polo positivo ( l’ordine di arrivo dipende 
+dalle dimensioni del frammento) un rilevatore capta la luce 
+fluorescente del dideossinucleotide e ne registra il risultato.
+--- Page 27 ---
+Valitutti et al., Chimica: concetti e 
+modelli 2ed © Zanichelli editore 2018
+Le applicazioni dell’ingegneria 
+genetica:
+Le biotecnologie
+--- Page 28 ---
+ 
+28Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+12 I vettori espressione
+Un organismo che contiene ed esprime un gene proveniente da 
+un’altra specie è un organismo geneticamente modificato (OGM).
+L’espressione del gene, cioè la sua trascrizione e traduzione in una proteina, 
+avviene solo grazie alla presenza di un promotore e di un terminatore (nonché 
+da fattori trascrizionali come repressori e attivatori). Purtroppo questi sono 
+specifici per ogni organismo: cioè l’RNA polimerasi di una cellula eucariote non 
+riconosce il promotore di una cellula procariote e viceversa.
+In alcune biotecnologie, creato un DNA ricombinante ( gene esogeno 
+inserito in un plasmide batterico), è utile far esprimere tale gena da un 
+organismo diverso da quello da cui deriva
+
+--- Page 29 ---
+Valitutti et al., Chimica: concetti e 
+modelli 2ed © Zanichelli editore 2018
+A questo scopo si usano dei vettori plasmidici particolari: 
+i vettori di espressione, che  consentono di fare esprimere il gene clonato 
+al loro interno in una qualsiasi cellula ricevente.
+I vettori di espressione sono quei plasmidi in cui il sito di restrizione ( punto 
+in cui il plasmide viene tagliato per permettere l’inserimento del gene 
+estraneo) è posto tra il promotore e il terminatore. In questo modo il gene 
+esogeno verrà incollato dalla DNA ligasi tra queste sequenze che 
+appartengono all’organismo.
+
+--- Page 30 ---
+ 
+30Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+13 La produzione 
+biotecnologicadi farmaci
+È possibile inserire il gene per una proteina in cellule facili da 
+coltivare, come i batteri (bioreattori); l’apparato metabolico 
+cellulare permette poi di sintetizzarla a costi minori e con un 
+impatto ambientale più ridotto. 
+Talvolta si usano piante o animali, che hanno un apparato per la 
+sintesi e la modificazione post-traduzionale delle proteine molto 
+più simile a quello umano rispetto ai batteri.
+Alcuni farmaci ottenuti con le biotecnologie:
+• insulina e altri ormoni
+• fattori per la coagulazione
+• anticorpi e vaccini
+--- Page 31 ---
+ 
+31
+Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+Il pharming
+Termine che deriva dall’unione tra phamaceuticals (farmaci) e farming 
+(allevamento), indica l’uso di animali modificati geneticamente per produrre la 
+molecola di interesse. Non si tratta di animali clonati (animali identici ad un 
+organismo già esistente o estinto e riportato in vita), ma di animali che contengono 
+nel loro genoma geni esogeni come già visto per i batteri. In questo caso si parla di 
+animali transgenici. Il DNA esogeno si integra casualmente o tramite 
+ricombinazione omologa nel genoma ospite.
+
+--- Page 32 ---
+Valitutti et al., Chimica: concetti e 
+modelli 2ed © Zanichelli editore 2018
+Il primo animale transgenico fu realizzato nel 1981 e fu un topolino. Con 
+questa tecnica sono stati realizzati animali transgenici come :
+• Vacche per la produzione di latte con maggior quantità di caseina 
+(2000), o latte senza lattosio (2012) o ancora latte con caratteristiche 
+molto simili a quello umano (2011), latte con omega 3 (utilizzando il 
+gene del verme Coenorharditis elegans)
+• Capre per la produzione di latte 
+contenente lisozima umano che 
+contrasta le infezioni batteriche che 
+causano 750000 decessi l’anno nei 
+bambini per diarrea da infezioni batteriche.
+• Capre in grado di produrre una proteina anticoagulante ( in questo caso 
+il gene dell’antitrombina è stato inserito all’interno di un virus che ha 
+infettato gli spermatogoni della capra. In questo modo la capra ha 
+prodotto spermatozoi con il nuovo gene)
+
+--- Page 33 ---
+I vaccini di nuova generazione
+I vaccini di nuova generazione sono di due tipi: a proteine ricombinanti e vaccini a DNA o 
+mRNA. La vaccinazione conferisce l’immunità contro un virus grazie all’introduzione nel nostro 
+organismo di specifiche proteine del virus che agiscono da antigeni. I vaccini di nuova 
+generazione sono di 2 tipi:
+1. Vaccini a proteine ricombinanti.
+2. Vaccini a DNA o mRNA
+Vaccini a proteine ricombinanti: il gene della proteina che funge da antigene viene inserito in 
+un vettore plasmidico, si genera un batterio geneticamente modificato che produrrà per noi la 
+suddetta proteina. Questa proteina (antigene) viene purificata e iniettata. Viene pertanto 
+iniettata solo la proteina e non l’intero virus inattivato come nei vaccini tradizionali.
+--- Page 34 ---
+Vaccini a DNA o mRNA: si realizza il DNA o meglio l’mRNA che codifica 
+l’antigene e lo si inocula nel corpo umano. L’mRNA viene iniettato mediante 
+particelle lipidiche che lo incapsulano. Per endocitosi, le cellule umane 
+inglobano queste particelle lipidiche con l’mRNA. L’mRNA viene tradotto dalle 
+nostre cellule nell’antigene.
+Valitutti et al., Chimica: concetti e modelli 2ed © 
+Zanichelli editore 2018
+--- Page 35 ---
+ 
+35Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+14 I topi transgenici knock-in e i topi knock-out
+I topi sono animali molto usati nello studio delle patologie umane in quanto 
+condividono con noi il 97,5 % dei geni e il loro metabolismo è molto simile al 
+nostro. 
+Per lo studio di malattie genetiche umane vengono creati dei topi transgenici KI 
+nelle cui cellule sono stati inseriti geni umani assenti nel genoma del topo.
+In questo modo i topi sviluppano la malattie che potrà essere studiata per la 
+ricerca di possibili terapie.
+
+--- Page 36 ---
+Valitutti et al., Chimica: concetti e 
+modelli 2ed © Zanichelli editore 2018
+I topi KO sono, invece dei topi nei quali viene inattivato uno specifico gene, 
+in modo da impedire l’espressione del gene. Per fare ciò basta inserire nel 
+mezzo del gene da inattivare un frammento di DNA (marcatore).
+In questo modo è stato possibile capire il funzionamento di specifiche 
+proteine: inattivando il gene, la proteina non viene prodotta e porta a delle 
+conseguenze nella salute dell’animale.
+In alcuni topi, per esempio, hanno disattivato il gene che produce l’ormone 
+leptina. Ci si è accorti che i topi perdevano il senso di sazietà diventando 
+obesi.
+--- Page 37 ---
+ 
+37Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+15 La terapia genica
+Le biotecnologie consentono di sostituire un gene non funzionale con una sua 
+copia corretta permettendo di correggere difetti del nostro genoma.
+Alcune patologie sono causate da:
+1. Geni mutati
+2. Geni inattivati
+Un esempio di 
+applicazione della 
+terapia genica è 
+quello 
+messo in atto per
+contrastare il deficit 
+dell’enzima ADA
+--- Page 38 ---
+ 
+38Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+18 Le applicazioni delle 
+biotecnologie in agricoltura
+Grazie alle biotecnologie anche le piante di interesse 
+agro-alimentare possono essere geneticamente modificate 
+ad esempio per renderle resistenti ai parassiti (piante Bt) o 
+per arricchirle di nutrienti, come accade per il Golden Rice.
+
+--- Page 39 ---
+ 
+39Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+19 La produzione di 
+biocombustibili
+I biocombustibili (bioetanolo e biodiesel) possono essere 
+sintetizzati per fermentazione a partire da masse vegetali. 
+Si usano microrganismi OGM in grado di degradare la 
+cellulosa e sintetizzare gli acidi grassi.
+
+--- Page 40 ---
+ 
+40Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+20 Le biotecnologie per 
+l’ambiente
+La possibilità di riprogrammare il metabolismo delle cellule 
+trova importanti applicazioni anche nella lotta 
+all’inquinamento come il sistema per il biorisanamento.
+Batteri OGM possono essere impiegati per costruire biofiltri 
+o biosensori.
+
+--- Page 41 ---
+ 
+41Valitutti et al., Chimica organica, biochimica e biotecnologie © Zanichelli editore 2023
+

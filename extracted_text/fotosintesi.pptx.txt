@@ -1,0 +1,241 @@
+--- Page 2 ---
+David Sadava, David H. Hillis
+H. Craig Heller, Sally Hacker
+Il carbonio, 
+gli enzimi, il DNA
+Seconda edizione
+--- Page 3 ---
+Capitolo B3
+La fotosintesi
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 4 ---
+Temi del capitolo
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 5 ---
+1.Caratteri generali della fotosintesi /1
+Per quasi tutti gli organismi (a eccezione di quelli che vivono 
+vicino sorgenti idrotermali o sul fondo oceanico), l’energia 
+proviene direttamente o indirettamente dal Sole.
+La fotosintesi è il processo anabolico che consente di 
+catturare l’energia luminosa e di usarla per sintetizzare 
+carboidrati.
+Le piante, le alghe e i cianobatteri che vivono in ambienti 
+aerobici svolgono la fotosintesi ossigenica, cioè la 
+trasformazione di CO2 e acqua in zucchero (C6H12O6) e O2.
+Tutto l’ossigeno gassoso che viene prodotto nel corso della 
+fotosintesi proviene dalle molecole di acqua.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 6 ---
+1.Caratteri generali della fotosintesi /2
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+L’ossigeno prodotto dalla fotosintesi viene dall’acqua:
+dimostrato nel 1941 da Ruben e Kamen che condussero 
+esperimenti distinti con l’isotopo 18O, marcato prima nella molecola 
+di CO2 e poi in quella di H2O.
+--- Page 7 ---
+1.Caratteri generali della fotosintesi /3
+La reazione complessiva della fotosintesi è: 
+6 CO2 + 6 H2O → C6H12O6 + 6 O2
+È un processo che comprende molte reazioni. Si svolgono in 
+distretti diversi del cloroplasto e sono suddivise in due fasi:
+● le reazioni dipendenti dalla luce (o della fase luminosa) 
+che hanno luogo sulla membrana dei tilacoidi;
+● le reazioni indipendenti dalla luce (o della fase oscura) 
+che costituiscono il ciclo di Calvin e avvengono nello 
+stroma del cloroplasto.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 8 ---
+1.Caratteri generali della fotosintesi /4
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+La fotosintesi avviene nei cloroplasti
+--- Page 9 ---
+2. La fase dipendente dalla luce: 
+la sintesi di NADPH e ATP /1
+I pigmenti sono le molecole che 
+assorbono le lunghezze d’onda dello 
+spettro del visibile:
+● Le clorofille a e b assorbono 
+lunghezze d’onda del blu e del 
+rosso. Hanno conformazione ad 
+anello con al centro un atomo di 
+magnesio e una lunga coda 
+idrocarburica le aggancia alle 
+proteine della membrana dei 
+tilacoidi.
+● I pigmenti accessori (carotenoidi e 
+ficobiline) assorbono radiazioni 
+intermedie tra le lunghezze d’onda 
+del blu e del rosso per poi trasferirne 
+parte alle clorofille.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 10 ---
+2. La fase dipendente dalla luce: 
+la sintesi di NADPH e ATP /2
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+La struttura molecolare 
+della clorofilla
+
+--- Page 11 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+La clorofilla svolge due funzioni essenziali: 
+● assorbe l’energia solare e la trasforma in energia chimica;
+● cede l’energia, sotto forma di elettroni, ad altre molecole.
+I pigmenti si trovano in 
+strutture della membrana 
+tilacoidale dette 
+fotosistemi, questi 
+contengono un sistema 
+antenna che assorbe 
+l’energia luminosa e un 
+centro di reazione in cui la 
+luce è convertita in energia 
+chimica. Ne sono stati 
+identificati due tipi, con 
+differenti picchi di 
+assorbimento:
+● fotosistema I : 
+molecola di clorofilla 
+P700  (700 nm)
+● fotosistema II: 
+molecola di clorofilla 
+P680  (680 nm)
+--- Page 12 ---
+La clorofilla eccitata del centro di reazione riduce una molecola chiamata accettore 
+primario, il primo di una serie di trasportatori di elettroni situati nella membrana 
+tilacoidale che prendono parte a un flusso di elettroni nei due fotosistemi 
+riassunto dallo schema Z:
+● i pigmenti del complesso antenna del fotosistema II assorbono i fotoni e 
+trasferiscono l’energia al centro di reazione in cui molecole di clorofilla P680 
+passano dallo stato fondamentale a quello eccitato.
+● La clorofilla P680 cede un elettrone all’accettore primario.
+● Si crea un buco elettonico: l’elettrone perso viene rimpiazzato da un elettrone 
+proveniente dalla fotolisi dell’acqua
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 13 ---
+● Gli elettroni si trasferiscono dall’accettore primario del fotosistema II al 
+fotosistema I attraverso una catena di trasporto elettronico che libera 
+energia. Questa energia viene utilizzata per pompare ioni H+ contro gradiente 
+nel lume del tilacoide.
+● Intanto, un secondo fotone ha eccitato la clorofilla P700 del fotosistema I; 
+questa riduce l’accettore cedendogli elettroni che vengono rimpiazzati da quelli 
+della catena di trasporto. 
+● Gli elettroni provenienti dall’accettore primario del fotosistema I riducono il 
+NADP+ a NADPH + H+.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 14 ---
+Viene così prodotto il NADPH (un coenzima ridotto ricco di energia) e ossigeno.
+Per formare una molecola di O2 servono otto fotoni, quattro per ogni fotosistema.
+Il meccanismo di chemiosintesi permette il processo di  fotofosforilazione, ovvero 
+la sintesi di ATP nei cloroplasti a partire da ADP e Pi.
+
+--- Page 15 ---
+3. La fase indipendente dalla luce: 
+Una volta prodotti ATP e NADPH, la cellula 
+vegetale dispone dell’energia necessaria 
+per sintetizzare nuove molecole a partire 
+dalla CO2 atmosferica (fissazione del 
+carbonio).
+Il processo richiede numerose reazioni 
+secondo un percorso ciclico noto come 
+ciclo di Calvin.
+Questa via metabolica è costituita da tre 
+processi:
+1. La fissazione del carbonio; 
+Reazione catalizzata dal RuBisCO, la CO2 
+giunge allo stroma e viene legata ad 
+un composto a 5 atomi di C, il 
+ribulosio difosfato (RuBP), si forma 
+così un composto instabile a 6 atomi di 
+C che si spezza subito in 2 molecole di 
+un composto a 3 atomi di C, il 3PG, 
+3-fosfoglicerato
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 16 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+2. La riduzione di 3PG a 3GP;
+Ogni molecola di PGA si lega ad un fosfato proveniente dall’ATP e ad un idrogeno del 
+NADPH riducendosi in un altro composto: la gliceraldeide 3 fosfato, G3P.
+--- Page 17 ---
+3. La rigenerazione del RuPB
+La maggior parte delle molecole di G3P vengono utilizzate per rigenerare con 
+l’utilizzo di ATP, il ribulosio difosfato e il ciclo ricomincia; solo 2 molecole di 
+G3P si legano per dare una molecola di glucosio fosforilato.
+• Alla fine possiamo dire che 
+per formare una molecola 
+di glucosio sono stati 
+necessari: 
+1. 6 CO2 che si fissano in 12 
+molecole di G3P
+2. 10 molecole di G3P 
+vengono riciclate, mentre 2 
+danno 1 molecola di 
+glucosio.
+3. 18 molecole di ATP e 12 di 
+NADPH.
+Pertanto per  formare una molecola di 
+glucosio sono necessari 6 cicli 
+--- Page 18 ---
+3. La fase indipendente dalla luce: 
+la sintesi degli zuccheri /3
+Il prodotto del ciclo di Calvin è la gliceraldeide 3-fosfato (G3P).
+La quantità residua di G3P non impiegata per la rigenerazione 
+di ribulosio 1,5-bisfosfato viene:
+● trasformata in piruvato per rifornire la respirazione cellulare;
+● convertita in amido, polisaccaride immagazzinato nei tessuti 
+di riserva;
+● trasformata nel disaccaride saccarosio che viene poi 
+rimosso e trasferito ad altri organi della pianta, dove, scisso in 
+glucosio e fruttosio servirà  per la sintesi di altri composti 
+organici (amminoacidi, lipidi e acidi nucleici).
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 19 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+SOSTENIBILITÀ
+4. Gli adattamenti delle piante ai 
+diversi ambienti /2
+Nel regno delle piante è possibile distinguere due categorie in 
+base al modo in cui fissano CO2:
+SOSTENIBILITÀ
+● Piante C3: hanno cloroplasti ricchi di 
+RuBisCo, nelle giornate calde chiudono 
+gli stomi favorendo l’avvio della 
+fotorespirazione. Il primo prodotto della 
+fissazione del carbonio è la gliceraldeide 
+3-fosfato (a 3 atomi di C).
+● Piante C4: l’enzima PEP carbossilasi 
+nelle cellule del mesofillo catalizza la 
+reazione tra CO2 e PEP per formare 
+ossalacetato (4 atomi di C). Durante le 
+giornate calde chiudono gli stomi ma non 
+subiscono rallentamento della fotosintesi 
+e non avviano la fotorespirazione.
+
+--- Page 20 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+SOSTENIBILITÀ
+4. Gli adattamenti delle piante ai 
+diversi ambienti /3
+La PEP carbossilasi ha un ruolo anche nelle piante CAM 
+(metabolismo acido delle crassulacee), che differisce dal 
+metabolismo delle piante C4 perché fissazione del carbonio e 
+ciclo di Calvin sono separati nel tempo:
+SOSTENIBILITÀ
+● Durante la notte si aprono gli stomi. Il CO2 si fissa nelle 
+cellule del mesofillo formando ossalacetato e malato.
+Gli adattamenti C4 e CAM sono tipici 
+delle piante di climi caldi, mentre le C3 
+sono adatte a climi temperati.
+● Durante il giorno, gli stomi si chiudono e il malato è 
+trasferito ai cloroplasti e decarbossilato per produrre 
+CO2 per il ciclo di Calvin, mentre le reazioni della fase 
+luminosa producono ATP e NADPH.
+

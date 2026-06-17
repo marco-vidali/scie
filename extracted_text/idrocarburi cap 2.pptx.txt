@@ -1,0 +1,723 @@
+--- Page 1 ---
+Capitolo C2
+Gli idrocarburi
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 2 ---
+Temi del capitolo
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 3 ---
+1. Gli alcani /1
+Gli idrocarburi sono composti organici costituiti da atomi di 
+carbonio e idrogeno. 
+In base alla struttura si dividono in:
+● alifatici: a catena aperta lineare / ramificata; 
+saturi / insaturi 
+● aliciclici: a catena chiusa; saturi / insaturi
+● aromatici: a catena chiusa, ma con ibridazione sp3 e 
+delocalizzazione elettronica.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 4 ---
+Idrocarburi saturi e insaturi
+Gli idrocarburi alifatici e aliciclici, in funzione del legame presente, vengono distinti in:
+1. Saturi: se tutti gli atomi di C nella catena sono ibridati sp3 ( legami C-C semplici). Questa 
+ibridazione consente la massima presenza di atomi di H attorno al C. Gli idrocarburi alifatici 
+saturi sono gli alcani. Gli idrocarburi aliciclici saturi sono detti cicloalcani.
+2. Insaturi: se due o più atomi di C della catena sono ibridati sp2 o sp ( rispettivamente doppio o 
+triplo legame). Questo fa sì che la presenza di H nella molecola diminuisce. Sono idrocarburi 
+alifatici insaturi gli alcheni e gli alchini. Gli idrocarburi aliciclici insaturi sono detti cicloalcheni.
+cicloalcani
+
+--- Page 5 ---
+Proprietà fisiche degli idrocarburi alifatici
+Gli idrocarburi alifatici sono molecole apolari perché i legami tra gli atomi di C sono omopolari e i 
+legami C-H sono poco polarizzati.
+Di conseguenza sono insolubili nei solventi polari, ma solubili nei solventi apolari.
+Sempre per lo stesso motivo hanno temperature di ebollizione piuttosto basse.
+La temperatura di ebollizione aumenta all’aumentare della massa molecolare e a parità di massa 
+molecolare i composti a catena ramificata hanno temperature di ebollizione più basse perché 
+formano meno legami intermolecolari.
+
+--- Page 6 ---
+1. Gli alcani /2
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Gli alcani o paraffine, sono idrocarburi alifatici a catena 
+aperta, saturi per la presenza di legami C─C ibridati sp3.
+I quattro orbitali ibridi si orientano in direzione di un 
+tetraedro.
+Quando due C ibridati sp3 si uniscono, si forma un legame 
+covalente omopolare di tipo σ, forte, stabile e poco reattivo.
+
+--- Page 7 ---
+Caratteristiche fisiche degli alcani
+Bassi punti di fusione e di ebollizione
+I primi 4 termini sono gassosi (metano, etano, propano, butano)
+Dal 5° al 16° sono liquidi
+Gli alcani allo stato liquido hanno densità inferiore all’acqua e sono insolubili in essa pertanto si 
+stratificano 
+
+--- Page 8 ---
+1. Gli alcani /3
+La formula generale degli alcani è CnH2n+2 (n = numero di 
+atomi di carbonio).
+Il nome dei normal alcani, cioè gli alcani a catena lineare, ha 
+il suffisso -ano, preceduto da un prefisso che:
+● per n = 1,2,3,4 deriva dal nome comune dei composti 
+(met-, et-, prop-, but-);
+● per i termini successivi, deriva dal numero (greco) di 
+atomi di carbonio presenti nella molecola.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 9 ---
+Gli alcani costituiscono una serie omologa. Una serie è detta omologa quando 
+ogni termine differisce dal precedente e dal successivo per una quantità costante, 
+in questo caso CH2. 
+A partire dal butano (C4H10) si verifica l’isomeria di catena:
+composti con la stessa formula molecolare ma con C legati in sequenza 
+differente.
+Ad esempio il pentano (C5H12) ha tre isomeri:
+Al crescere del numero degli atomi di C cresce rapidamente il numero degli 
+isomeri: l’esano presenta 5 isomeri, l’eptano 9. Con 20 atomi di C si calcola si 
+possono avere 366319 alcani.
+--- Page 10 ---
+RADICALI
+Se ad un idrocarburo viene tolto un atomo di H, ciò che resta è un radicale 
+monovalente.
+I radicali degli alcani vengono detti radicali alchilici o semplicemente alchili
+Il nome di un alchile si forma dal corrispondente alcano , cambiando la 
+desinenza –ano in –ile:
+
+--- Page 11 ---
+Per gli alcani ramificati, il sistema IUPAC prevede la 
+denominazione di sostituenti, gruppi o radicali alchilici (R) e 
+atomi alogeni legati alla catena carboniosa più lunga.
+1. la catena più lunga viene denominata con il nome 
+corrispondente al numero di atomi di carbonio;
+2. si numerano i C della catena più lunga partendo 
+dall’estremità che permette di usare i numeri più piccoli per 
+i sostituenti;
+NOMENCLATURA ALCANI RAMIFICATI
+
+--- Page 12 ---
+3. se nella catena carboniosa più lunga è presente:
+● un solo sostituente → il nome dell’isomero è precisato dal numero di posizione 
+del sostituente;
+● lo stesso sostituente, più volte → si indicano i numeri di posizione e il prefisso 
+di-, tri-, tetra-;
+● diversi sostituenti → vanno elencati in ordine alfabetico;
+● due catene carboniose sono di uguale lunghezza → si assegna il nome della 
+catena che ha il maggior numero di sostituenti.
+
+--- Page 13 ---
+Le reazioni degli alcani
+Sono :
+1. Ossidazione o combustione
+2. Alogenazione (reazione di sostituzione radicalica)
+Ossidazione o combustione
+Reazione fortemente esotermica
+Se avviene in eccesso di ossigeno si ottiene anidride carbonica, acqua e 
+calore secondo il seguente schema generale ( da bilanciare):
+Se avviene in difetto di ossigeno si forma monossido di carbonio e acqua
+È una reazione di ossidazione in quanto il C passa da -4 a  un max + 4.  
+La reazione di combustione non ha alcun interesse per i prodotti ottenuti, 
+ma perché è esotermica per cui viene utilizzata per la produzione di 
+energia e per il riscaldamento. I prodotti della combustione degli alcani 
+sono i responsabili dell’inquinamento atmosferico, effetto serra, 
+riscaldamento  globale, acidificazione degli oceani ecc.
+ bilanciato:  CnH2n +2  + 
+ 
+O2 nCO2 + (n +1)H2O + Q
+ CnH2n +2  + O2 nCO + (n )H2OChe bilanciata:   
+--- Page 14 ---
+ALOGENAZIONE
+Reazione di sostituzione radicalica. 
+I sostituenti sono alogeni.
+Avvengono grazie all’azione della luce 
+o fornendo calore.
+La reazione consiste nella sostituzione 
+di un atomo di H di un alcano con un 
+atomo di alogeno. Il risultato è un 
+alogenuro alchilico e un acido 
+alogenidrico. Un esempio è la 
+clorurazione del metano:
+
+--- Page 15 ---
+1. Gli alcani /7
+Gli isomeri conformazionali o conformeri sono forme 
+diverse della stessa molecola (stereoisomeri) che si 
+interconvertono per rotazione intorno a un legame semplice 
+C─C. Hanno le stesse proprietà fisiche e chimiche. 
+Si rappresentano con le proiezioni di Newman:
+Conformazioni dell’etano
+● conformazione sfalsata: legami C─H lontani, favorita in tutti gli alcani 
+perché più stabile;
+● conformazione eclissata: legami C─H allineati.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 16 ---
+2. I cicloalcani /1
+I cicloalcani sono idrocarburi aciclici (a catena chiusa), saturi 
+per la presenza di legami semplici C─C con atomi di carbonio 
+ibridati sp3. La formula molecolare generale è CnH2n (n = C ≥ 3)
+Il nome è costituito dal prefisso ciclo- e dal nome dell’n-alcano 
+con lo stesso numero di C.
+Possono essere rappresentati dalle formule topologiche, 
+cioè da poligoni regolari in cui ciascuno dei vertici corrisponde 
+a un gruppo atomico CH2.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 17 ---
+2. I cicloalcani /2
+Se nell’anello è presente un solo sostituente, non serve 
+indicare la sua posizione; con più di un sostituente si 
+possono presentare due tipi di isomeria:
+1. Isomeria di posizione
+- gli atomi di C vanno numerati in modo da ottenere i numeri più 
+piccoli in corrispondenza dei sostituenti;
+- con sostituenti uguali il nome del composto avrà prefisso 
+corrispondente di-, tri-, tetra-;
+- con sostituenti diversi i nomi dei sostituenti andranno indicati in 
+ordine alfabetico.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 18 ---
+2. Isomeria geometrica
+se sono presenti due sostituenti su due atomi di C, questi 
+possono trovarsi dalla stessa parte (cis) o da parti opposte 
+(trans) rispetto al piano dell’anello: 
+- i due sono composti diversi con differenti proprietà 
+fisico-chimiche; 
+- non si possono interconvertire l’uno nell’altro per rotazione 
+intorno a un legame semplice come negli isomeri conformazionali 
+degli alcani;
+- hanno attività biologica diversa.
+2. I cicloalcani /3
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 20 ---
+Rispondi
+1. Qual è il numero minimo di atomi di carbonio di un cicloalcano?
+2. Quali tipi di isomeria presentano i cicloalcani?
+Scegli le parole
+1. I cicloalcani sono composti saturi / insaturi con solo legami 
+semplici / doppi.
+2. Il cicloesano non può dar luogo a una reazione di ossidazione / 
+addizione.
+Ora tocca a te
+L’acido crisantemico è un derivato del ciclopropano di origine 
+naturale. Documentati in Rete su questa sostanza e sui suoi utilizzi.
+ACTIVE LEARNING
+ACTIVE LEARNING
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 21 ---
+Gli alcheni o olefine sono idrocarburi alifatici insaturi per la 
+presenza di un doppio legame C=C → ibridati sp2 
+I tre orbitali ibridi sp2 formano un piano triangolare 
+che è perpendicolare all’orbitale non ibrido p. 
+Il doppio legame è formato da
+- un legame σ forte tra orbitali sp2
+- un legame π debole e reattivo tra orbitali p
+● non si ha rotazione intorno al doppio legame
+● la lunghezza di C=C è minore di C─C
+● la presenza di un legame π rende la molecola più reattiva
+3. Gli alcheni /1
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 22 ---
+La formula molecolare generale degli alcheni è CnH2n  
+(n = C ≥ 2). Il nome è costituito da un prefisso (radice degli alcani) e dal suffisso -ene.
+Possono presentare tre tipi di isomeria:
+● Isomeria di posizione
+a partire da n = 4 in corrispondenza del doppio legame C=C.
+● Isomeria di catena
+quando alla catena sono legati dei sostituenti.
+● Isomeria geometrica
+quando entrambi gli atomi C del doppio legame sono legati a due (o più) atomi o gruppi 
+atomici diversi da H.
+
+--- Page 23 ---
+Proprietà degli alcheni
+Sono più reattivi degli alcani per la presenza del doppio legame
+ 
+Danno reazioni di addizione che possiamo suddividere in :
+1. Idrogenazione
+2. Addizione elettrofila
+• Alogenazione
+• Idroalogenazione
+• Idratazione
+3. Addizione radicalica
+idrogenazione
+
+--- Page 26 ---
+L’OH si lega al C secondario perché è 
+più stabile del primario in quanto c’è più 
+equilibrio tra le cariche elettriche
+L’H dell’acqua si lega al primo C, l’OH al 
+secondo C del doppio legame
+--- Page 27 ---
+Il polietilene (in sigla PE), è il più 
+semplice dei polimeri sintetici ed è 
+la più comune fra le materie 
+plastiche.
+Ha formula chimica (-C2H4-)n dove 
+il grado di polimerizzazione n può 
+arrivare ad alcuni milioni. Le 
+catene sono di lunghezza 
+variabile e più o meno ramificate.
+--- Page 28 ---
+I cicloalcheni sono idrocarburi aciclici (a catena chiusa), 
+insaturi per la presenza di un doppio legame C=C (ibridati sp2)
+La formula molecolare generale è CnH2n-2  (n = C ≥ 3).
+Il nome è costituito dal prefisso ciclo e dal nome dell’alchene con lo 
+stesso numero di atomi di carbonio. 
+I dieni o alcadieni sono idrocarburi alifatici insaturi e 
+bifunzionali per la presenza di due doppi legami C=C.
+La formula molecolare generale è CnH2n-2 (n = C ≥ 3).
+Il nome è formato dai numeri che indicano le posizioni dei doppi 
+legami, dal prefisso dell’alcano corrispondente e dal suffisso -diene. 
+Sono distinti in tre classi: isolati, coniugati e cumulati a seconda che i 
+doppi legami C=C siano separati oppure adiacenti.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 29 ---
+L’importanza dei dieni
+Hanno un interesse particolare per la loro 
+tendenza alla polimerizzazione cioè a formare 
+lunghe catene di monomeri.
+Dalla polimerizzazione dell’1,3-butadiene si 
+ottiene il polibutadiene, una gomma molto 
+resistente che per ciò viene usata nella 
+realizzazione degli pneumatici.
+La polimerizzazione del 2-metil-1,3-butadiene (isoprene), porta alla formazione della vitamina A e 
+della gomma naturale (caucciù).
+
+--- Page 30 ---
+Rispondi
+1. Quali condizioni giustificano l’isomeria geometrica negli 
+alcheni?
+2. Per quale motivo gli alcheni sono altamente reattivi?
+Scegli le parole
+1. Negli alcheni è / non è consentita la rotazione attorno al doppio 
+legame.
+2. Il nome comune del composto con formula C3H6 è propilene / 
+butilene.
+Ora tocca a te
+Molte molecole naturali sono terpeni o loro derivati. Fai una ricerca 
+in Rete su queste molecole, scegline una e descrivine le 
+caratteristiche chimiche e biologiche.
+ACTIVE LEARNING
+ACTIVE LEARNING
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 31 ---
+4. Gli alchini /1
+Gli alchini sono idrocarburi alifatici insaturi per la presenza di 
+un triplo legame C≡C → ibridati sp
+Il triplo legame è formato da
+- un legame σ forte tra due orbitali sp
+- due legami π deboli tra i quattro orbitali p
+● la lunghezza di C≡C è minore di C=C
+● l’energia di C≡C è maggiore di C=C
+● la presenza di due legami π rende la molecola più reattiva
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 32 ---
+La formula molecolare generale è CnH2n-2 (n = C ≥ 2)
+Il nome è costituito da un prefisso (radice degli alcani) e dal 
+suffisso -ino.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 33 ---
+Possono presentare due tipi di isomeria:
+● Isomeria di posizione: a partire da n = 4 in base alla posizione del triplo legame C≡C
+● Isomeria di catena: quando dei sostituenti sono legati alla catena più lunga contenente il triplo 
+legame
+
+--- Page 34 ---
+Non si verifica l’isomeria geometrica perché gli atomi di C legati dal triplo legame hanno un solo sostituente
+
+--- Page 35 ---
+Proprietà acide degli alchini
+Gli 1-alchini, cioè quelli con triplo legame terminale, in ambiente fortemente basico, manifestano 
+caratteristiche acide (secondo la definizione di Bronsted-Lowry).
+Il C ibridato sp esercita una notevole forza attrattiva nei confronti degli elettroni di legame perché 
+l’orbitale sp è simile all’orbitale s e la sua nube elettronica è concentrata più vicina al nucleo del C. Di 
+conseguenza il legame C-H terminale è leggermente polarizzato. 
+In presenza di una base forte si ha rottura eterolitica con 
+formazione di uno ione H+ e dello ione acetiluro.
+Lo ione acetiluro si può combinare con ioni metallici per dare 
+origine agli acetiluri (sale). Tra questi Sali ricordiamo l’acetiluro di 
+calcio o carburo di Ca. Questo viene utilizzato per ricavare 
+acetilene, materiale di partenza di molti composti di grande 
+interesse industriale. Il Carburo di Ca veniva utilizzato nelle 
+lampade dei minatori.
+ il Carburo di Ca viene tutt’ora utilizzato per le saldature in quanto 
+in presenza di ossigeno brucia sviluppando una fiamma che 
+raggiunge i 3000 °C.
+La reazione del carburo di calcio con l'acqua fu scoperta 
+da Friedrich Wöhler  nel 1862.
+1 grammo di CaC2 sviluppa 349 ml di acetilene:
+  
+
+--- Page 36 ---
+Le reazioni degli alchini
+Il triplo legame ha elevata densità elettronica e pertanto rappresenta un punto di attacco per  l’H2 e gli 
+agenti elettrofili.
+Gli alchini danno origine a reazioni di addizione che si verificano in 2 stadi:
+1. Rottura di un legame π e formazione di un doppio legame.
+2. Rottura del secondo legame π e formazione di un alcano
+Reazione di addizione
+idrogenazione Addizione elettrofila
+idratazione idroalogenazione alogenazione
+--- Page 37 ---
+Idrogenazione
+Si ha rottura dei legami π e formazione di legami σ con atomi di H. Es.: 
+Addizione elettrofila
+1. alogenazione
+Avviene per addizione di un alogeno come Br2 e Cl2.
+Se avviene con una mole di alogeno si ottiene un alchene disostituito con configurazione trans.
+Se avviene con 2 moli di alogeno si forma un alcano tetrasostituito.
+
+--- Page 38 ---
+2. idroalogenazione
+Avviene tra un alchino e un acido alogenidrico (HCl, HBr).
+Se l’addizione avviene con una mole di acido alogenidrico si forma un alchene monosostituito.
+Se il l’alchino è asimmetrico, l’H si lega al C del triplo legame con il maggior numero di atomi di H 
+(regola di Markovnikov).
+Se l’addizione avviene con 2 moli di acido alogenidrico si ottiene un alcano disostituito 
+Alchino simmetrico
+Alchino asimmetrico
+
+--- Page 39 ---
+3. idratazione
+Si realizza in presenza di catalizzatori (H+ e Hg++), consiste nell’addizione di H2O all’alchino.
+In una prima fase si forma un intermedio instabile (alcol vinilico) che si trasforma rapidamente in un 
+composto con presenza del gruppo carbonilico.
+
+--- Page 40 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Rispondi
+1. Quali tipi di isomeria presentano gli alchini?
+2. Come si spiega il comportamento acido degli alchini con triplo 
+legame terminale?
+3. Da che cosa dipende la reattività degli alchini?
+Scegli le parole
+1. Negli alchini i due atomi di carbonio / idrogeno sono uniti da 
+un triplo legame, formato da un legame σ / π e da due legami σ 
+/ π.
+2. Il legame triplo è più corto / lungo del legame doppio e rende 
+le molecole degli alchini poco / molto reattive.
+Ora tocca a te
+Fai una ricerca in Rete sulle proprietà fisiche dell’etino, il composto 
+conosciuto con il nome comune di acetilene. Rifletti sui vantaggi e 
+sui rischi che derivano dal suo utilizzo nei processi di saldatura e 
+prepara una presentazione per riassumere le tue considerazioni.
+ACTIVE LEARNING
+ACTIVE LEARNING
+--- Page 41 ---
+5. Gli idrocarburi aromatici /1
+Gli idrocarburi aromatici o areni sono costituiti da uno o più 
+anelli a 6 atomi di carbonio. 
+Si distinguono in
+● monociclici: costituiti da un anello;
+● policiclici: costituiti da più anelli.
+Il termine più semplice è il  benzene (C6H6), è un composto 
+apolare, insolubile in acqua. La sua sua struttura è un ibrido di 
+risonanza, ovvero una struttura intermedia tra due strutture 
+limite che si differenziano per la posizione dei doppi legami.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 42 ---
+5. Gli idrocarburi aromatici /2
+Il modello orbitalico degli atomi di carbonio del 
+benzene è costituito da tre orbitali ibridi sp2 disposti 
+su un piano perpendicolare a un orbitale non ibrido p.
+Ciascun C forma:
+● 3 legami covalenti σ con 2 C adiacenti
+● 1 legame covalente con H
+I sei orbitali p, paralleli tra loro, non si legano ma formano 
+un’unica nube elettronica ovvero un legame a elettroni 
+delocalizzati che si rappresenta con un anello all’interno della 
+molecola.  
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 43 ---
+Proprietà fisiche
+•Sono molecole apolari 
+•A temperatura ambiente liquidi o solidi a seconda della 
+massa
+•Densità inferiore all’acqua
+•Punti di ebollizione elevati (benzene = 80 °C perché 
+l’alta simmetria rende i legami intermolecolari forti)
+--- Page 44 ---
+Gli idrocarburi aromatici monociclici hanno un anello e si 
+distinguono secondo il numero di sostituenti in:
+1. derivati monosostituiti: un H viene sostituito da un solo atomo / 
+gruppo atomico ( nome sostituente + benzene o nome comune)
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Nomenclatura idrocarburi aromatici monociclici
+--- Page 45 ---
+2. derivati disostituiti: 2 H sono sostituiti da due atomi / gruppi 
+atomici e per cui si verifica l’isomeria di posizione con tre 
+isomeri possibili. 
+Per ricavare il nome si assegna la posizione 1 al sostituente X e 
+si assegna il prefisso -orto / -meta / -para al secondo 
+sostituente secondo la sua posizione.
+
+--- Page 46 ---
+3. Nei derivati polisostituiti le posizioni dei 
+sostituenti sono indicate in modo da utilizzare il 
+più piccolo numero possibile
+Per gli xileni o dimetilbenzeni ( idr. arom. Con 2 gruppi metilici) si hanno per 
+esempio:
+Quando si ha un benzene monosostituito con un nome comune (fenolo, toluene, 
+anilina, acido benzoico)  questo diventa il punto di partenza per il nome del 
+composto disostituito, esempio:
+--- Page 47 ---
+RADICALI ARILICI
+I radicali degli idrocarburi aromatici sono detti arilici e presentano un atomo di H in meno rispetto alla 
+molecola originaria.
+Il radicale del benzene si chiama fenile
+Il radicale del toluene è detto benzile:
+Il radicale fenile può essere un sostituente dell’H negli alcani, es:
+
+--- Page 48 ---
+Proprietà chimiche
+•Il benzene non dà reazioni di addizione a causa della sua stabilità dovuta alla delocalizzazione dei 6 
+elettroni π 
+•È un nucleofilo poiché contiene 6 elettroni non coinvolti nei legami σ tenuti meno saldamente dal 
+nucleo ( 1 per ogni orbitale p non ibrido).
+• La reazione più comune è la sostituzione elettrofila, in cui 1 o più H dell’anello vengono sostituiti con 
+altri atomi o gruppi atomici senza destrutturare l’orbitale delocalizzato. 
+•Le reazioni di sostituzione sono importanti perché permettono di introdurre nell’anello un notevole 
+numero di sostituenti dando origine a innumerevoli composti con proprietà diverse.
+Meccanismo di sostituzione aromatica
+1. Stadio: 
+L’elettrofilo si lega all’anello benzenico utilizzando uno degli elettroni delocalizzati e 
+rompe il legame π, si neutralizza la carica + dell’elettrofilo, si polarizza positivamente 
+il C ( carbocatione chiamato ione arenio ). In realtà la carica + è delocalizzata su 
+tutto l’anello aromatico formando un ibrido di risonanza
+2. Stadio:
+L’H viene allontanato sottoforma di ione H+ e i 2 elettroni che tenevano 
+legato l’atomo di H vanno a ricostituire l’orbitale π delocalizzato.
+ 
+
+--- Page 49 ---
+Sostituzione aromatica
+Le principali reazioni di sostituzione aromatica sono : nitrazione, alogenazione, alchilazione  e solfonazione
+In tutte queste reazioni il primo stadio della reazione avviene in presenza di un catalizzatore che ha la 
+funzione di promuovere la formazione del reagente elettrofilo 
+Es. nella nitrazione 
+Catalizzatore: acido solforico                                     che porterà alla formazione di ione nitronio ( elettrofilo) 
+che si attacca al benzene
+Es. alogenazione ( cloro o bromo)
+Catalizzatore il                         secondo la reazione
+Si forma l’elettrofilo che si attacca al benzene
+
+--- Page 50 ---
+Es. alchilazione
+Catalizzatore: alogenuro                      in presenza di un alogenuro alchilico
+Che porta alla formazione dell’elettrofilo
+Che si attacca al benzene 
+
+--- Page 51 ---
+Reattività 
+Del benzene monosostituito dipende dal tipo di sostituente:
+•Sostituenti attivanti : aumentano la reattività , sono gruppi alchilici o 
+gruppi atomici con un doppietto elettronico libero (elettron-donatori)
+•Sostituenti disattivanti: diminuiscono la reattività; 
+•sono atomi di alogeni 
+•gruppi atomici con parziale o totale carica positiva sull’atomo legato 
+all’anello benzenico
+
+--- Page 52 ---
+Orientazione secondo sostituente
+Il tipo di sostituente determina la 
+posizione di attacco del secondo 
+sostituente:
+•I sostituenti attivanti e gli alogeni 
+orientano il secondo sostituente in 
+posizione orto e para
+•I sostituenti disattivanti tranne gli 
+alogeni orientano il secondo 
+sostituente in posizione meta
+Importanza dell’effetto orientante
+
+--- Page 53 ---
+5. Gli idrocarburi aromatici policiclici
+Gli idrocarburi aromatici policiclici sono composti da due o più anelli benzenici. 
+Secondo il modo in cui gli anelli sono legati tra loro si distinguono in: 
+● concatenati con due o più anelli uniti da un legame semplice C─C 
+● condensati con due o più anelli che hanno in comune due atomi di carbonio: 
+il naftalene( noto come naftalina è il più comune), l’antracene e il fenantrene 
+presenti nel colesterolo, ormoni steroidei, acidi biliari. Il benzo[a]pirene è 
+cancerogeno ed è presente nel fumo di sigaretta, scarichi di motori diesel, 
+parti carbonizzate di cibi
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Il più comune è il difenile, usato 
+come fungicida
+
+--- Page 54 ---
+SOSTENIBILITÀ
+7. La società dei combustibili 
+fossili /1
+Dipendiamo dai combustibili fossili (carbone, petrolio e gas) 
+per trasporti, riscaldamento, industria, agricoltura, ecc. 
+Forniscono circa l’80% dell’energia consumata nel mondo in 
+forma concentrata e trasportabile.
+Sono fonti energetiche non rinnovabili: impiegano milioni di 
+anni per formarsi da decomposizione organica.
+Le fonti energetiche rinnovabili (radiazione solare, vento, 
+maree, biomasse, calore geotermico, ecc.) possono essere 
+usate senza restrizioni perché sono illimitate o perché vengono 
+rigenerate con sufficiente rapidità da non esaurirsi nell’arco di 
+poche generazioni.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+SOSTENIBILITÀ
+--- Page 55 ---
+SOSTENIBILITÀ
+7. La società dei combustibili 
+fossili /2
+Lo sfruttamento dei giacimenti non convenzionali, pur 
+aumentando la disponibilità di fonti fossili, utilizza tecnologie 
+molti impattanti:
+- l’estrazione di petrolio da giacimenti sottomarini può causare 
+lo sversamento di idrocarburi in mare;
+- la separazione del greggio dalle sabbie bituminose consuma 
+acqua e inquina suolo e riserve idriche;
+- il fracking può contaminare le falde acquifere e indurre 
+microsismi.
+Gli scienziati ritengono che per ridurre le emissioni di gas serra e 
+per realizzare uno sviluppo più equo e sostenibile sia 
+necessario favorire una rapida transizione energetica dalle 
+fonti fossili a quelle rinnovabili.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+SOSTENIBILITÀ
+--- Page 56 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Rispondi
+1. Qual è la differenza tra fonti energetiche rinnovabili e non 
+rinnovabili?
+2. Che cos’è il fracking e quali rischi comporta?
+3. Cosa si intende per transizione energetica?
+Scegli le parole
+1. I combustibili sintetici / fossili forniscono attualmente circa 
+l’80 / il 60 % dell’energia consumata nel mondo.
+2. L’energia nucleare / geotermica è oggi in declino per la 
+maggiore / minore competitività rispetto alle fonti rinnovabili.
+Ora tocca a te
+Lo sfruttamento delle sabbie bituminose ha un impatto 
+estremamente negativo sull’ambiente. Documentati sulla natura di 
+queste rocce, sulle caratteristiche delle miniere e sulle modalità di 
+estrazione del combustibile, preparando una presentazione.
+DIMMI LA TUA! Automobili elettriche
+ACTIVE LEARNING
+ACTIVE LEARNING
+--- Page 57 ---
+ I composti eterociclici aromatici
+I composti eterociclici aromatici sono costituiti da uno o due anelli di 
+atomi di carbonio e da uno o più eteroatomi.
+I più diffusi sono gli anelli:
+● pentatomici: a cinque atomi, come ad esempio il pirrolo che è l’unità 
+costitutiva delle porfirine come l’eme e la clorofilla 
+● esatomici: a sei atomi, come ad esempio la piridina e la pirimidina da 
+cui derivano le basi azotate citosina, timina e uracile
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 58 ---
+LA PIRIDINA 
+La cui formula è                 , si rappresenta con 
+un esagono, i cui vertici sono occupati da 5 
+atomi di C ibridati        e da un eteroatomo ( N) 
+ibridato  
+La sua molecola, essendo i legami C-C e C-N 
+di uguale lunghezza, rappresentata con due 
+forme limite che differiscono per la posizione 
+del legame π
+ E’ un ibrido di risonanza 
+I C ibridati hanno tre orbitali ibridi disposti sul piano della 
+molecola, e un orbitale p non ibrido perpendicolare alla 
+molecola.
+I 6 orbitali p non ibridi si sovrappongono e formano un legame a 
+elettroni delocalizzati che si rappresenta con un anello
+ETEROCICLICI ESATOMICI
+--- Page 59 ---
+La piridina a temperatura ambiente è liquida, solubile in acqua perché può 
+formare legami H
+È una base debole poiché per il doppietto elettronico di N non condiviso 
+reagisce con gli acidi.
+Dalla sua ossidazione si forma la niacina che unito alla nicotinammide 
+forma la vitamina PP ( carenza causa pellagra)
+Dall’unione dell’anello piridinico con 
+uno di pirrolo si ottiene un composto 
+tossico presente nelle foglie di tabacco 
+chiamato nicotina
+
+--- Page 60 ---
+LA PIRIMIDINA
+La cui formula è                , è rappresentata da un esagono i cui vertici sono 
+occupati da atomi di C ibridati      e da due eteroatomi (N) ibridati      in posizione 1 
+e 3  
+Dalla pirimidina derivano le tre basi azotate
+DNA RNA
+--- Page 61 ---
+IL PIRILIO
+Formula rappresentata da un anello di 6 atomi, dei quali 5 sono 
+atomi di C e un eteroatomo (O) con carica positiva.
+Lo si trova nelle antocianine ( responsabili dei pigmenti blu e rosso 
+di molti fiori e frutti)
+
+--- Page 62 ---
+ETEROCICLICI PENTATOMICI
+IL PIRROLO
+La cui formula è                    si rappresenta 
+con un pentagono i cui vertici sono 
+occupati da 4 C e un N, tutti ibridati 
+Dà reazione di sostituzione elettrofila.
+L’attacco dell’agente elettrofilo nella nitrazione 
+e alogenazione avviene in posizione 2 poiché 
+si ottiene un composto più stabile
+
+--- Page 63 ---
+L’anello del pirrolo è l’unità costitutiva delle porfirine, pigmenti formati da 4 
+anelli pirrolici legati tra loro da gruppi metinici
+Le porfine formano complessi con ioni metallici 
+Lo ione metallico posto al centro del complesso forma 4 legami equivalenti 
+con gli atomi di N dei 4 anelli
+Il pirrolo forma le porfirine ( eme- clorofilla)
+--- Page 64 ---
+Eme 
+L’eme è il complesso porfirinico responsabile del colore rosso 
+del sangue, presenta nei globuli rossi. In essi è associato a 4 
+catene di emoglobine ( proteina coniugata)
+L’ossigeno si lega all’atomo di Fe, formando 
+l’ossiemoglobina.
+Nelle cellule muscolari l’eme forma la mioglobina.
+Clorofilla 
+La clorofilla è il complesso porfirinico 
+responsabile del colore verde dei cloroplasti e 
+svolge la funzione di assorbire le radiazioni 
+luminose nella prima fase della fotosintesi
+
+--- Page 65 ---
+IMIDAZOLO
+Composto eterociclico con due eteroatomi di N in posizione 1 e 3. 
+il doppietto elettronico dell’N in posizione 1 entra a far parte del 
+sistema di elettroni delocalizzato, quello in posizione 3 può 
+essere condiviso con un H e gli dà un comportamento basico 
+Tale anello si trova nell’amminoacido istidina 
+che perdendo una molecola di diossido di C ( 
+decarbossilazione) forma l’istamina  prodotta 
+dai mastociti ( sistema immunitario)in risposta a 
+reazioni a reazioni allergiche o infiammatorie 
+--- Page 66 ---
+LA PURINA 
+La purina è un eterociclo costituito da due anelli, uno esatomico pirimidinico e uno 
+pentatomico imidazolico
+Tale molecola è presente 
+del cacao
+Tale molecola costituisce anche le basi azotate 
+

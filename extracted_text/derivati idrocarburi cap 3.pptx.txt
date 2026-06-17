@@ -1,0 +1,933 @@
+--- Page 1 ---
+Temi del capitolo
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 2 ---
+Capitolo C3
+I derivati degli idrocarburi
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Derivano dagli idrocarburi per sostituzione di uno o più atomi di H con gruppi 
+funzionali.
+I gruppi funzionali sono raggruppamenti di atomi, singoli atomi in grado di 
+impartire ai composti che li possiedono uno specifico comportamento
+Composti aventi stesso gruppo funzionale , anche se derivanti da 
+idrocarburi differenti , presentano proprietà chimiche analoghe.
+Durante le reazioni chimiche dei derivati degli idrocarburi a reagire sono proprio 
+i gruppi funzionali, il resto della catena carboniosa rimane inalterata.
+--- Page 3 ---
+1. Gli alogenuri alchilici
+I derivati degli idrocarburi sono composti organici che derivano dagli 
+idrocarburi per sostituzione di uno o più atomi di idrogeno con atomi o 
+gruppi diversi, detti gruppi funzionali.
+1. Derivati alogenati: alogenuri alchilici, alchenilici, arilici,vinilici,)
+2. Derivati ossigenati: alcoli, eteri, fenoli, aldeidi, chetoni, ecc.
+3. Derivati azotati: ammidi e ammine.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 4 ---
+1. Gli alogenuri alchilici e arilici
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Il nome è costituito da un numero che indica la posizione dell’alogeno nella catena 
+carboniosa, seguito dai nomi dell’alogeno e dell’alcano corrispondente.
+Si classificano in primari, secondari, e terziari a seconda che l’atomo di alogeno è legato 
+ad un C primario, secondario o terziario 
+Possono essere considerati come derivati degli idrocarburi per sostituzione di uno o più H con 
+altrettanti alogeni. Quindi il gruppo funzionale è costituito dagli alogeni.
+Sono detti alogenuri alchilici se il radicale idrocarburico è un alcano.
+Sono detti alogenuri arilici se il radicale idrocarburico è aromatico
+--- Page 5 ---
+Uso degli alogenoderivati
+Gli alogeno derivati sono alla base di molti prodotti di uso 
+comune, infatti tra di essi ricordiamo
+1. Gli alogenoderivati dal metano : 
+•diclorometano usato come solvente dei grassi
+•Triclorometano o cloroformio usato nel passato come 
+anestetico
+•Tetracloruro di carbonio adoperato nella pulitura a secco e 
+negli estintori
+2. Fluorocloroderivati del metano e dell’etano ( gas 
+FREON) utilizzati come propellenti nelle bombotte spay e 
+come fluidi refrigeranti nei frigoriferi. Tali sostanze sono 
+state messe al bando  nel 2008 in quanto tra i 
+responsabili del buco dell’ozono
+3. Alogenoderivati impiegati come antibiotici ( 
+aureomicina e tetracicline)
+4. DDT ( diclorodifeniltricloroetano) usato come insetticida 
+nel dopoguerra 
+
+--- Page 6 ---
+Le reazioni di sintesi più comuni sono
+l’alogenazione degli alcheni    
+( addizione elettrofila)
+l’idroalogenazione degli alcheni 
+( addizione elettrofila)
+l’idroalogenazione degli alcoli 
+terziari ( sostituzione nucleofila)
+
+--- Page 7 ---
+La loro reattività è legata alla maggior elettronegatività dell’alogeno rispetto 
+al carbonio (con polarizzazione del legame C─X) , il C ha un eccesso di 
+carica + ed è soggetto all’attacco nucleofilo che dà due tipi di reazione che 
+competono tra loro: 
+la sostituzione nucleofila e l’eliminazione.
+Proprietà fisiche
+Hanno punti di ebollizione più alti rispetto agli idrocarburi con lo stesso 
+numero di atomi di C, perché l’alogeno ha una massa superiore e una 
+maggiore elettronegatività ( causa formazione di legami dipolo-dipolo) 
+rispetto al C.
+Tale temperatura cresce all’aumentare della massa atomica dell’atomo, con 
+cui cresce anche il numero di interazioni dipolo-dipolo
+Pur essendo polari, non formano legami con l’acqua e dunque non sono solubili in 
+acqua
+ Proprietà chimiche
+--- Page 8 ---
+In una reazione di sostituzione 
+nucleofila (SN) il nucleofilo reagisce 
+con l’alogenuro alchilico e 
+sostituisce l’alogeno, per dare come 
+prodotto finale un alcol (-OH)o un 
+etere(-O-).
+Può avvenire con due meccanismi 
+differenti:
+● il meccanismo SN2 è un 
+processo che avviene in un solo 
+stadio e prevede la 
+partecipazione contemporanea 
+dei due reagenti, il nucleofilo e 
+l’alogenuro (sostituzione 
+nucleofila bimolecolare);
+-
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+La velocità meccanismo SN2 dipende 
+dalla concentrazione dei reagenti, con 
+alogenuri primari e metilici la reazione è 
+più veloce perchè meno voluminosi e 
+dunque meno ingombro sterico.
+Il processo è favorito da nucleofili 
+forti-OH, RO-.
+--- Page 9 ---
+● il meccanismo SN1 avviene 
+in due stadi e prevede la 
+partecipazione prima solo 
+dell’alogenuro 
+(sostituzione nucleofila 
+monomolecolare) e poi del 
+nucleofilo.
+La velocità è determinata da:
+-Nello stadio lento dalla concentrazione 
+dell’alogenuro;
+- è maggiore negli alogenuri terziari che 
+danno carbocationi più stabili
+-Il processo è favorito da nucleofili deboli ( 
+acqua e alcoli cioè molecole neutre) 
+
+--- Page 10 ---
+Reazione di eliminazione
+
+--- Page 11 ---
+Si comporta da nucleofilo donando elettroni
+Si comporta da base accettando ioni H+  (secondo Bronsted e Lowry)
+--- Page 12 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+In una reazione di eliminazione (E) il nucleofilo (base forte Nu-) sottrae all’alogenuro un 
+atomo di idrogeno sotto forma di ione H+; l’allontanamento dell’atomo di alogeno (X) 
+sotto forma di anione X- porta alla formazione di un nuovo legame π, e quindi di un 
+alchene. 
+Può avvenire con due meccanismi differenti:
+In una reazione di eliminazione, l’alogenoderivato, in presenza di un nucleofilo forte, 
+perde l’alogeno sottoforma di ione negativo ed un atomo di H, pertanto si forma un 
+ulteriore legame trasformandosi in un composto insaturo (alchene).
+--- Page 13 ---
+Competizione delle reazioni di sostituzione ed eliminazione
+•Alogenuri primari non si può formare un carbocatione 
+  
+Danno dunque reazioni di SN2 con la maggior parte dei nucleofili 
+Danno reazioni E2 con nucleofili forti molto ingrombranti 
+•Alogenuri terziari
+Danno reazioni SN1 con un nucleofilo debole (acqua, alcoli)
+Danno reazioni E1 con nucleofili forti 
+
+--- Page 14 ---
+Nelle molecole con uno stereocentro si ha isomeria ottica o enantiomerica 
+con due tipi di configurazioni degli enantiomeri (R e S). Per stabilire il tipo 
+di configurazione si deve assegnare priorità( secondo numero 
+atomico)decrescente a atomi o gruppi atomici legati allo stereocentro e poi 
+osservare la loro posizione relativa.
+• regole di sequenza
+1. Si ordinano gli atomi legati allo stereocentro secondo numero atomico 
+decrescente, o secondo il gruppo con priorità decrescente
+2. Il doppio e triplo legame valgono rispettivamente come due legami e 
+tre legami semplici
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Configurazioni S e R degli enantiomeri
+
+--- Page 15 ---
+Configurazioni S e R degli enantiomeri
+Determinazione della configurazione 
+1. Si attribuiscono le lettere agli atomi o ai gruppi atomici con un ordine di priorità, es. a > b > c > d
+2. Si osserva lo stereocentro dalla parte opposta in cui è situato l’atomo ( o gruppo ) a priorità minore
+3. Si traccia un percorso per andare dal gruppo a priorità maggiore a quello a priorità minore 
+passando anche attraverso b
+• Se in questo 
+passaggio si 
+procede in senso 
+orario ( verso 
+destra) si  ha 
+configurazione R
+Se in questo 
+passaggio si 
+procede in senso 
+antiorario ( verso 
+sinistra) si ha 
+configurazione S 
+Non esiste nessuna relazione tra il segno della rotazione ottica + e -  e la configurazione R o S  dell’enantiomero
+
+--- Page 16 ---
+Gli stereoisomeri possono avere più di uno stereocentro:
+il numero di enantiomeri, per una molecola contenente n stereocentri, è uguale a 2n.
+I diasteroisometri o diasteromeri sono isomeri che contengono due o più 
+stereoisomeri ma non sono l’immagine speculare l’una dell’altra. I diastereoisomeri 
+hanno diverse proprietà chirali e achirali e possono essere separati in laboratorio 
+con opportune metodiche ( distillazione)
+diastereoisomeri
+Proprietà 
+chirali:
+•reattività
+•attività ottica
+Proprietà 
+achirali:
+•p. fusione.
+•p. ebollizione
+•densità
+•solubilità
+
+--- Page 17 ---
+2. Gli alcoli, i fenoli e i tioli
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Gli alcoli sono composti caratterizzati dalla presenza del gruppo funzionale idrossido 
+o ossidrile legato a un atomo di carbonio ibridato sp3. La loro formula molecolare è 
+R─OH.
+(R = gruppo alchilico a catena aperta)
+Si classificano in:
+● alcoli saturi formati da catena di C lineare o ramificata uniti da legami semplici e 
+dal gruppo –OH, la nomenclatura corrisponde a quella dell’alcano con 
+sostituzione della desinenza -o con –olo. 
+Dal terzo termine si ha l’isomeria di posizione.
+● alcoli insaturi hanno due gruppi funzionali, il gruppo ossidrile e un legame 
+multiplo (doppio o triplo). Il suffisso-olo ha priorità sul doppio legame 
+
+--- Page 18 ---
+Alcol primari - secondari - terziari
+Gli alcol vengono classificati in primari, secondari e terziari a seconda della 
+posizione del C a cui è legato il gruppo -OH 
+
+--- Page 19 ---
+2.  Cos’è la Riduzione?
+a) Guadagno di elettroni o idrogeno / perdita di ossigeno.
+b) Nelle aldeidi, il gruppo -CHO viene trasformato in -CH₂OH.
+3.  Meccanismo della Reazione
+b) Il carbonio carbonilico è elettrofilo.
+c) L’idruro (H⁻) si lega al carbonio.
+d) L’ossigeno riceve un protone → si forma un gruppo -OH.
+Equazione generale:
+Le più comune reazione per la loro sintesi è:
+● idratazione degli alcheni ( addizione elettrofila)
+● riduzione di aldeidi e chetoni.
+Sintesi 
+
+--- Page 20 ---
+Proprietà fisiche
+A temperatura ambiente i primi dodici termini della serie degli alcoli sono allo 
+stato liquido, i termini superiori allo stato solido.
+Formano legami a idrogeno intermolecolari (a causa della differenza di 
+elettronegatività tra O e H) che:
+● determinano punti di ebollizione maggiori rispetto ai corrispondenti 
+idrocarburi
+● Determinano la solubilità in acqua che, però diminuisce all’aumentare della 
+massa molecolare (esanolo insolubile perchè prevale il gruppo alchilico 
+idrofobico.
+
+--- Page 21 ---
+● basi di Lewis per la presenza di due doppietti elettronici liberi 
+sull’atomo di ossigeno. Che possono essere condivisi con uno 
+ione H+. 
+Si forma un intermedio instabile che poi libera acqua e un 
+carbocatione
+Sono composti anfoteri perché possono comportarsi da:
+● acidi di Brønsted-Lowry per la presenza di un legame ─OH 
+fortemente polarizzato cedono l’atomo di idrogeno del gruppo 
+─OH sottoforma di ione H+;
+gli alcoli cedono uno ione H+ all’acqua che si comporta da base 
+formando uno ione alcossido e uno ione idronio :
+Proprietà chimiche
+In acqua si presentano quasi indissociati, quindi sono elettroliti deboli.
+Per ricordare:
+Secondo Brønsted-Lowry 
+un acido è una sostanza 
+che dona ioni H+   ad 
+un’altra capace di 
+accettarli e che viene detta 
+base.
+Per ricordare:
+Secondo Lewis una base 
+è una sostanza che dona 
+una coppia di elettroni ad 
+un’altra capace di 
+accettarli e che viene detta 
+base.
+La loro acidità diminuisce dagli alcol primari a quelli terziari, viceversa la loro basicità 
+aumenta dagli acidi primari a quelli terziari.
+--- Page 22 ---
+Reazioni degli  alcoli 
+Quando si rompe il legame tra O e H l’alcol si sta comportando da acido ed in genere ciò avviene in 
+presenza di una base forte. Tale dissociazione può avvenire anche con i metalli alcalini ( che si ossidano) 
+e H si riduce a H molecolare( ossidoriduzione). Si ottiene un sale detto alcossido
+In questo caso l’alcol si  comporta da base.  Questa reazione è facilitata dalla presenza di catalizzatori acidi
+1. Disidratazione  in un ambiente fortemente acido ( si forma un alchene)
+2.    Idroalogenazione – è una sostituzione nucleofila tra un alcol 
+terziario e un acido alogenidrico ( si forma un alogenuro alchilico 
+terziario) 
+--- Page 23 ---
+Nell’ossidazione, in presenza di sostanze ossidanti, cioè 
+capaci di acquistare ioni H+, l’alcol perde 2 Idrogeni. Si 
+rendono, pertanto, liberi 2 elettroni che vanno a formare un 
+ulteriore legame con l’ossigeno.
+In tal modo si ottengono composti carbonilici: aldeidi da un 
+alcol primario, chetoni da un alcol secondario:
+• un alcol primario dà un aldeide 
+• un alcol secondario dà un chetone
+Per ricordare: 
+Ossidazione: il NOX aumenta
+• perdita di elettroni
+• perdita di H
+ acquisto di O (nel momento in cui 
+una molecola acquista ossigeno 
+perde H) 
+• aumentano i legami C-O
+• diminuiscono i legami C-H
+Riduzione: il NOX diminuisce
+• acquisto di elettroni
+•Acquisto di H
+• aumentano i legami C-H
+•Diminuiscono i legami C-O
+
+--- Page 24 ---
+Polioli o Polialcoli
+I polioli o polialcoli sono composti che derivano dagli alcani per sostituzione di 
+due o più atomi di idrogeno con due o più gruppi ossidrili ─OH.
+Il loro nome è costituito dai numeri che indicano la posizione dei gruppi ─OH, 
+dalla radice del nome dell’alcano corrispondente e dal suffisso -diolo, -triolo, 
+-tetraolo- pentaolo.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Dolcificante per 
+diabetici o 
+lassativo
+--- Page 25 ---
+I composti che presentano due gruppi alcolici adiacenti vengono comunemente 
+chiamati glicoli,
+Il glicole etilenico è un 
+liquido incolore usato come 
+anticongelante nei radiatori 
+delle automobili. 
+O glicerina, liquido incolore, 
+idrofilo, diffuso negli organismi 
+viventi sottoforma di trigliceridi 
+( glicerolo + 3 acidi grassi) e 
+nei fosfolipidi della membrana 
+nucleare. Alla base di prodotti 
+farmaceutici e cosmetici 
+(creme idratanti)
+Glicerolo + acido nitrico forma la 
+nitroglicerina, potente esplosivo 
+sensibile agli urti. Se fatta assorbire 
+in un materiale poroso forma la 
+dinamite ( brevettata nel 1867 da 
+Alfred Nobel), essa in piccole dosi è 
+usata come vasodilatatore.
+--- Page 26 ---
+Alcuni alcoli comuni
+•Metanolo:
+ è un prodotto di sintesi del metano che 
+ha applicazioni industriali: usato come 
+solvente per la preparazione di vernici, 
+resine, di liquidi antigelo per automobili , 
+per la produzione di prodotti e altri 
+materiali e per preparare la formaldeide. 
+Esso è altamente tossico 
+•Etanolo: liquido incolore, con odore gradevole e 
+volatile 
+Prodotto mediante la fermentazione alcolica  in cui il 
+glucosio, in assenza di ossigeno, viene demolito dai 
+lieviti  in alcol etilico e anidride carbonica.
+L’alcol etilico si trova nelle bevande alcoliche, ma ha 
+anche un’azione denaturante sulle proteine batteriche 
+e quindi viene usato come disinfettante. In questo 
+caso l’alcol viene detto denaturato e vien addizionato 
+con sostanze maleodoranti per evitare che venga 
+adoperato come bevanda
+
+--- Page 27 ---
+I fenoli
+I fenoli sono composti organici con un gruppo ossidrile ─OH legato direttamente 
+all’anello benzenico.
+La formula molecolare generale è Ar─OH.
+Il termine più semplice è il fenolo (idrossibenzene) i cui derivati presentano uno o 
+più sostituenti legati all’anello.
+Il loro nome è costituito dal numero che indica la posizione del sostituente, dal 
+nome di questo e dal termine idrossibenzene.
+ 
+Se sono presenti anche ─CHO o ─COOH, il gruppo ─OH è considerato sostituente 
+e prende il nome di -idrossi.
+
+--- Page 28 ---
+Caratteristiche fisiche e chimiche dei fenoli
+I fenoli sono solidi cristallini incolori.
+La presenza del gruppo ossidrile ─OH comporta la formazione legami a idrogeno 
+intermolecolari che:
+● determinano alti punti di ebollizione;
+● poca solubilità in acqua per la presenza dell’anello aromatico idrofobico.
+Non hanno comportamento basico.
+In acqua si comportano da  acidi di Brønsted-Lowry cedendo l’atomo di 
+idrogeno del gruppo ─OH sottoforma di ione H+, si formano così lo ione 
+fenossido o fenato( base coniugata stabile)  e lo ione idronio. Per le sue 
+caratteristiche acide il fenolo veniva chiamato acido fenico.
+
+--- Page 29 ---
+ reazioni dei fenoli 
+Reazioni 
+Anche il colore della frutta 
+e della verdura è dovuto 
+ai fenoli.
+Il rosso e il viola di 
+melenzane, cavoli, uva, 
+mirtilli, ribes, more, 
+lamponi e fragole sono 
+dovute agli antociani, 
+polifenoli a cui è legato 
+uno zucchero e lo ione 
+pirilio
+
+--- Page 30 ---
+ I tioli 
+I tioli o mercaptani sono composti caratterizzati dalla presenza del gruppo 
+funzionale solfidrile ─SH legato a un atomo di carbonio ibridato sp3. 
+La loro formula molecolare generale è
+ R─SH.
+Il nome è costituito dal nome dell’alcano( raramente alchene) corrispondente la 
+cui desinenza -o è sostituita dal suffisso -tiolo.
+Caratteristica comune a quasi tutti i tioli è il possedere un intenso odore 
+sgradevole. Semplici tioli vengono aggiunti al metano, inodore e incolore, come 
+"odorizzanti", per poterne svelare eventuali fughe. 
+ 
+
+--- Page 31 ---
+•Si ossidano facilmente formando disolfuri: composti con due atomi di zolfo uniti 
+da un legame covalente detto legame disolfuro o ponte disolfuro S─S.
+Il legame disolfuro ha un ruolo fondamentale nelle proteine 
+Il gruppo -SH ( solfidrile) si trova nell’amminoacido cisteina . È di 
+fondamentale importanza il legame disolfuro tra due amminoacidi di 
+cisteina per la stabilità della cheratina ( proteina fibrosa costituente di 
+unghie, capelli, zoccoli, penne) o nella farina in modo particolare  nel 
+glutine.
+•La presenza del gruppo SH conferisce alla molecole caratteristiche acide in 
+presenza di basi forti, si hanno, pertanto reazioni da cui si ottengono dei sali
+
+--- Page 32 ---
+3. Gli eteri /1
+Sono composti in cui il gruppo funzionale è un atomo di ossigeno legato a 
+due gruppi organici, alchilici (R) o arilici (Ar). Le formule molecolari 
+generali sono:
+R─O─R       Ar─O─Ar       R─O─Ar 
+Sono generalmente denominati con un nome comune costituito dai nomi 
+dei due gruppi organici in ordine alfabetico seguiti dalla parola etere.
+Si distinguono in simmetrici e asimmetrici a seconda che i gruppi 
+organici legati all’ossigeno siano uguali o diversi:
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 33 ---
+3. Gli eteri 
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Le reazioni che portano alla loro sintesi sono:
+● la disidratazione intermolecolare di alcoli primari, forma eteri simmetrici;
+● la sintesi di Williamson, reazione di sostituzione nucleofila (meccanismo 
+SN2), forma eteri asimmetrici.
+
+--- Page 34 ---
+Sono liquidi (tranne il gas dimetiletere), incolori e volatili. 
+La presenza dell’atomo di ossigeno determina una debole polarità che 
+gli conferisce la possibilità di formare:
+● legami intermolecolari dipolo-dipolo → punti di ebollizione più alti 
+degli alcani, minori degli alcoli a parità di massa molecolare;
+● legami a idrogeno con l’acqua → solubilità più elevata degli 
+idrocarburi, minore degli alcoli a parità di massa molecolare.
+Proprietà fisiche degli eteri
+
+--- Page 35 ---
+Reazioni degli eteri 
+Gli eteri sono molecole poco reattive a temperature ambiente, tuttavia fornendo calore reagiscono con gli 
+acidi alogenidrici (HCl, HBr ecc): il legame etereo si rompe e si ottiene un alogenuro alchilico e un alcol
+In presenza di etere asimmetrico, l’anione alogeno si lega al carbonio che presenta minor ingombro 
+sterico
+Alcuni eteri , sostituiscono il piombo tetraetile,come il MTBE  ( 
+metil-terz-butil etere) e ETBE ( etil-terz-butil etere) sono utilizzati 
+come antidetonante della benzina poiché il legame tra O e il gruppo 
+terz- butilico si rompe per scissione omolitica , si generano radicali 
+liberi che bloccano l’autoaccensione benzina- aria.
+
+--- Page 36 ---
+4. Le aldeidi e i chetoni /1
+Sono composti caratterizzati dalla presenza del gruppo funzionale 
+carbonile o carbonilico     C─O  
+Il C del gruppo carbonilico è ibridato      . I 3 orbitali ibridi sono disposti sul 
+piano a 120° l’uno dall’altro e formano 3 legami σ , l’orbitale p non ibrido 
+del C e l’orbitale p dell’O formano un legame π. Per cui tra C e O si forma 
+un doppio legame
+il cui doppio legame è fortemente polare.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 38 ---
+4. Le aldeidi e i chetoni 
+Il nome delle aldeidi alifatiche si ottiene sostituendo la desinenza -o del nome 
+dell’alcano corrispondente con il suffisso -ale. I primi termini hanno i nomi comuni 
+di formaldeide e acetaldeide.
+I sostituenti sono indicati in ordine alfabetico e la catena si numera a partire dal gruppo carbonilico
+
+--- Page 39 ---
+Il nome dei chetoni alifatici si ottiene sostituendo la desinenza del -o del 
+nome dell’alcano corrispondente con il suffisso -one. Il primo termine della 
+serie, il propanone, è comunemente noto come acetone.
+I composti aromatici di aldeidi e chetoni sono spesso denominati con nomi 
+comuni. I più noti sono benzaldeide e aldeide salicilica tra le aldeidi e 
+acetofenone e benzofenone tra i chetoni.
+
+--- Page 40 ---
+4. Le aldeidi e i chetoni 
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+La reazione di sintesi più comune è l’ossidazione degli alcoli in presenza di un forte 
+ossidante e in ambiente acido:
+● l’ossidazione di alcoli primari forma le aldeidi;
+● l’ossidazione di alcoli secondari forma i chetoni.
+ La reazione di sintesi Dei chetoni alifatici può avvenire per idratazione degli alchini con 
+regola di Markovnikov in presenza di H come catalizzatore e di Mg
+
+--- Page 41 ---
+A temperatura ambiente, i composti carbonilici con:
+- bassi valori di massa molecolare sono allo stato liquido;
+- alti valori di massa molecolare sono allo stato solido;
+- il primo termine della serie delle aldeidi (metanale) è allo stato di gas.
+Hanno punti di ebollizione più alti degli idrocarburi ma più bassi degli alcoli di 
+corrispondente massa molecolare.
+La loro solubilità diminuisce all’aumentare della massa molecolare per prevalenza 
+del gruppo idrofobico.
+Proprietà fisiche 
+
+--- Page 42 ---
+Reattività 
+La reattività dipende dalla polarizzazione 
+Il C per la sua parziale carica positiva è un agente elettrofilo e quindi un punto di attacco per i 
+nucleofili nelle reazioni di addizione nucleofila con rottura del doppio legame
+I chetoni sono meno reattivi degli aldeidi poiché i due gruppi alchilici a cui è legato il C rendono 
+più difficile l’attacco del nucleofilo per il maggior ingombro sterico e perché essendo 
+elettrondonatori neutralizzano in parte la carica positiva sul C diminuendo la reattività. Aldeidi e 
+chetoni danno anche reazioni di riduzione, ossidazione e condensazione alcolica.
+ 
+È una reazione di addizione di alcol ( nucleofilo debole ) in presenza di un catalizzatore acido. 
+Se continuiamo a far reagire l’emiacetale o l’emichetale con alcol otteniamo acetali e chetali + acqua:
+Emiacetale e emichetali sono composti che 
+presentano sullo stesso C sp3 un gruppo 
+ossidrilico e un gruppo etereo
+acetali e chetali sono composti che 
+presentano sullo stesso C sp3 due gruppi 
+eterei –O-
+--- Page 45 ---
+È una reazione di addizione tra due molecole di aldeide o tra una molecola di aldeide e una di chetone  in 
+ambiente basico con eliminazione di OH
+Il risultato della reazione è un aldolo o un chetolo cioè una molecola che presenta 
+contemporaneamente un gruppo ossidrilico e un gruppo carbonilico separati da 3 atomi di C.
+Entrambi i tipi di composti sono utilizzati in molteplici applicazioni, dalla sintesi di farmaci alla 
+produzione di materiali polimerici.
+--- Page 46 ---
+5. Gli acidi carbossilici /1
+Sono composti organici caratterizzati dal gruppo funzionale carbossile o 
+carbossilico ─COOH costituito da due gruppi funzionali: 
+il gruppo carbonile    CO e il gruppo ossidrile ─OH.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Il gruppo carbossilico presenta il C è ibridato       , i tre orbitali ibridi sono 
+disposti su un piano a 120° l’uno dall’altro e formano legami σ, l’orbitale non 
+ibrido p si sovrappone all’orbitale p dell’O carbonilico per formare un legame π, 
+stabilendo così il doppio legame.  
+
+--- Page 47 ---
+ Gli acidi carbossilici si distinguono secondo il gruppo (alchilico o arilico) a cui è 
+legato l’atomo di carbonio del carbossile in:
+● alifatici: C legato a un gruppo alchilico (R), 
+la formula molecolare generale è 
+R─COOH
+● aromatici: C legato a un gruppo arilico (Ar),
+la formula molecolare generale è
+ Ar─COOH
+La formula molecolare 
+--- Page 48 ---
+Nomenclatura 
+Il nome degli alifatici è costituito dal termine acido e dal nome dell’alcano corrispondente in cui la 
+desinenza -o è sostituita dal suffisso -oico; -ico nel nome comune, normalmente di origine latina che 
+richiama l’origine naturale.
+•Nella nomenclatura IUPAC, la posizione 
+dei sostituenti viene indicata con un numero 
+del C ha la priorità il gruppo carbossilico
+•Nella nomenclatura con nome comune la 
+posizione dei sostituenti viene indicata 
+assegnando la lettera greca α al C 
+adiacente al gruppo funzionale.
+
+--- Page 49 ---
+Nomenclatura 
+Negli acidi carbossilici alifatici insaturi bisogna indicare la posizione del doppio legame 
+Gli acidi carbossilici aromatici vengono denominati con nomi comuni
+
+--- Page 50 ---
+5. Gli acidi carbossilici /2
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Gli acidi grassi sono acidi carbossilici alifatici con numero pari di atomi di 
+carbonio, uguale o superiore a 12. 
+Sono distinti in saturi, insaturi, e polinsaturi a seconda che presentino solo legami 
+semplici C─C, un legame doppio o due o più legami doppi C=C. 
+Negli acidi grassi vengono indicati il numero degli atomi di carbonio e l’eventuale 
+presenza dei doppi legami nel seguente modo 
+
+--- Page 51 ---
+Il nome degli acidi grassi insaturi è costituito dal numero che indica la posizione 
+del doppio legame e dal nome che deriva dall’alcano corrispondente seguito dal 
+suffisso -oico / -dienoico / -trienoico (rispettivamente con 1, 2 o 3 doppi legami). Essi 
+hanno configurazione cis
+Spesso sono indicati con il loro nome comune.
+Tra i più noti: l’acido oleico           e  linoleico
+Gli acidi grassi in natura si trovano sottoforma 
+di triglicerdi ( triesteri del glicerolo). Si formano 
+dalla reazione di tre acidi grassi con una 
+molecola di glicerolo ed eliminazione di acqua. 
+I trigliceridi allo stato solido sono i grassi, allo 
+stato liquido sono gli oli.
+Gli acidi grassi essenziali ( AGE) tra i quali il linoleico devono essere assunti con la dieta.
+--- Page 52 ---
+5. Gli acidi carbossilici /3
+La reazione più comune per la loro sintesi è l’ossidazione di alcoli primari e di aldeidi  in 
+presenza di ossidanti e ambiente acido 
+Proprietà fisiche 
+A temperatura ambiente i primi quattro termini sono allo stato liquido; i termini superiori allo 
+stato solido. 
+A parità di massa molecolare i punti di ebollizione sono più alti di idrocarburi e alcoli per la 
+presenza del gruppo ossidrile ─OH che forma legami intermolecolari (due per molecola). 
+Formano anche legami intermolecolari con l’acqua e I primi 4 termini sono solubili in acqua
+La solubilità diminuisce all’aumentare della massa molecolare perché prevale il gruppo 
+idrofobico R sul gruppo idrofilo ─OH.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Reazioni di sintesi 
+
+--- Page 53 ---
+5. Gli acidi carbossilici /4
+In acqua si comportano da acidi di Brønsted-Lowry cedendo un       all’acqua 
+Sono acidi deboli (con bassi valori della costante di dissociazione acida Ka), ma 
+più forti degli alcoli. La presenza doi sostituenti può aumentare o diminuire 
+l’acidità, I gruppi metilici ( elettron-donatori) diminuiscono l’acidità, gli alogeni ( 
+elettron-attrattori) aumentano l’acidità.
+Reazioni 
+La loro reattività è legata al gruppo ossidrile O─H del carbossile, che:
+● in presenza di una base forte può cedere l’idrogeno ( comportamento acido) 
+avviene quindi la reazione di rottura eterolitica del legame O─H; in 
+presenza di acqua , si forma un sale
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Il nome del sale è dato dal suffisso oato e dal nome del catione 
+--- Page 54 ---
+● in presenza di un nucleofilo il gruppo –OH può essere sostituito, avviene la 
+reazione di sostituzione nucleofila aciclica, i cui prodotti sono i derivati 
+degli acidi carbossilici.
+      in tale sostituzione il gruppo –OH dell’acido viene sostituito con un nucleofilo 
+e si ottiene un acile o gruppo acilico.
+Reazioni 
+
+--- Page 55 ---
+ Importanza e usi degli acidi carbossilici 
+Il più semplice tra questi acidi è l’acido formico, esso è il più forte tra i monocarbossilici ed è 
+molto solubile in acqua. Sulla pelle ha un’azione irritante ad esso è dovuta l’irritazione cutanea 
+provocata dal contatto con l’ortica e dalla puntura delle formiche rosse 
+L’acido carbossilico più noto è l’acido 
+acetico. Una sua soluzione diluita è 
+l’aceto di vino che si ottiene per 
+ossidazione dell’alcol etilico contenuto in 
+vini a bassa gradazione ad opera di uno 
+specifico batterio il mycoderma aceti 
+
+--- Page 57 ---
+I derivati degli acidi carbossilici e gli acidi 
+carbossilici polifunzionali
+Nei derivati degli acidi carbossilici l’ossidrile del gruppo carbossile è 
+sostituito da un gruppo funzionale. 
+I derivati più comuni sono gli esteri, le ammidi e le anidridi.
+ESTERI
+● Negli esteri il gruppo ossidrile ─OH è sostituito dal gruppo alcossilico 
+─OR degli alcoli a cui possono essere legati due gruppi alchilici: uno 
+arilico e uno alchilico o due arilici. Il C è ibridato     a cui sono legati 2 
+O, uno con doppio legame e uno con legame semplice
+
+--- Page 58 ---
+Il nome è dato dal gruppo R della componente acida con suffisso -ato e dal 
+gruppo alchilico R’ della componente 
+alcolica (OR’).
+Le formule molecolari generali sono:
+R─COO─R            Ar─COO─R
+ESTERI
+--- Page 59 ---
+ESTERI
+La sintesi avviene mediante una reazione di sostituzione nucleofila tra un acido 
+carbossilico e un alcol, in presenza di un catalizzatore acido        . La reazione è 
+nota come esterificazione di Fischer, essa prevede la sostituzione del gruppo 
+–OH con il gruppo           dell’alcol e la liberazione di acqua
+La reazione di esterificazione avviene anche tra il glicerolo (poliolo) e tre molecole 
+di acidi grassi per formare i trigliceridi ( distinti in oli e grassi).
+
+--- Page 60 ---
+ESTERI
+Reazione 
+La reazione più nota è quella di idrolisi basica che avviene con una base forte in 
+soluzione acquosa  fornendo calore. Si forma il sale dell’acido più l’alcol
+
+--- Page 61 ---
+Importanza degli esteri 
+Gli esteri hanno una grande importanza biologica essendo diffusissimi nel mondo animale 
+e vegetale. Tra quelli rinvenibili in natura ne possiamo distinguere tre categorie:
+1. Esteri a basso peso molecolare hanno la caratteristica di avere odore gradevole e 
+sono responsabili della fragranza di molti frutti e di molti fiori . Ad esempio l’odore 
+dell’acetato di pentile è quello dell’ananas , l’odore dell’acetato di isopentile ricorda la 
+banana . Molti di questi esteri vengono prodotti artificialmente e impiegati nella 
+fabbricazione di caramelle e sciroppi 
+2. Esteri ad elevato numero di atomi di carbonio si ritrovano nelle cere . 
+3. Esteri di acidi carbossilici ad alto peso molecolare con la glicerina. Sono i cosiddetti 
+trigliceridi che si rinvengono in natura sotto forma di grassi e oli  
+ 
+Sapone e detersivi 
+  Per idrolisi in ambiente alcalino si ottengono glicerina e i sali degli acidi. 
+Questa reazione rappresenta in pratica il procedimento per ottenere i 
+saponi . I saponi sono i sali , generalmente di sodio , degli acidi carbossilici 
+a lunga catena carboniosa . 
+L’azione detergente dei saponi si spiega tenendo conto della loro struttura 
+chimica:
+essi sono caratterizzati dal fatto che presentano nella loro molecola una 
+parte idrofobica costituita da una lunga catena idrocarburica e una parte 
+idrofila  -COO- .   
+Quando vengono a trovarsi in una soluzione acquosa a contatto con 
+particelle di grasso i saponi tendono a solubilizzarsi dalla parte 
+idrocarburica nel solvente apolare cioè il grasso e con il gruppo idrofilo 
+nell’acqua. E’ noto che lo sporco è costituito da polvere e grasso impastati 
+che sarebbe inutile lavare con acqua semplice la quale potrebbe esportare 
+soltanto le sostanze che possono legarsi con essa. In presenza di sapone 
+le particelle di sporco vengono circondate dalle molecole di sapone quindi 
+facilmente staccate dal tessuto cui aderiscono ed eliminate con la fase 
+acquosa .
+
+--- Page 62 ---
+● Nelle ammidi il gruppo ossidrile ─OH è sostituito dal gruppo ─NH2, ─NHR o 
+─NR2. il gruppo funzionale è dato da un C ibridato        legato a O con un 
+doppio legame e a un N con legame semplice
+● A seconda che all’atomo di N sia legato 2 H, 1 H e a un gruppo alchilico o a 2 
+gruppi alchilici si ha 
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Ammidi
+
+--- Page 63 ---
+Un’ammide molto importante è l’urea ( diammide)solido cristallino 
+solubile in acqua, prodotto finale del metabolismo delle proteine.
+Ammidi
+Il legame carbonio-azoto è detto ammidico; quando si stabilisce tra 
+gli amminoacidi delle proteine è chiamato legame peptidico.
+Rappresenta il prodotto finale, di scarto, del 
+metabolismo dei composti azotati. L’uomo ne 
+elimina circa un chilogrammo ogni mese
+--- Page 64 ---
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Ammidi
+Il nome delle ammidi primarie è costituito dalla radice del nome dell’acido     
+corrispondente con il suffisso -ammide; 
+quello delle secondarie e terziarie è preceduto dalla lettera 
+N e dal nome del/i gruppo/i alchilici legati all’azoto.
+
+--- Page 65 ---
+Ammidi
+Sintesi
+Avviene mediante una reazione di sostituzione nucleofila tra un estere e 
+ammoniaca. 
+Reazioni
+La reazione più nota è quella di idrolisi in presenza di un catalizzatore acido e calore
+Formando acido carbossilico e ammoniaca
+
+--- Page 66 ---
+● Nelle anidridi troviamo il gruppo funzionale ─CO─O─CO─
+La formula molecolare generale è:
+Il nome delle anidride simmetriche è dato dal termine dell’acido carbossilico sostituendo il suffisso 
+-oico con -oica
+I derivati degli acidi carbossilici e gli acidi 
+carbossilici polifunzionali /3
+Anidridi 
+Il nome delle anidride asimmetriche ( con 2 R diversi) è dato dal nome dell’anidride, dei 2 acidi 
+carbossilici in ordine alfabetico con -oica
+
+--- Page 67 ---
+La sintesi avviene attraverso una reazione di 
+condensazione per eliminazione di acqua tra due molecole 
+di acidi carbossilici.
+Anidridi 
+La reazione tra anidride acetica e l’acido salicilico forma un estere chiamato acido acetilsalicilico
+--- Page 68 ---
+ACIDI CARBOSSILICI POLIFUNZIONALI 
+Sono acidi carbossilici che presentano in aggiunta altri gruppi funzionali.
+Sono composti molto importanti in quanto si ritrovano spesso come intermedi del 
+metabolismo energetico. 
+I più noti sono:
+● gli idrossiacidi sono composti in cui sono presenti uno o più gruppi ossidrile ─OH e uno 
+o più gruppi carbossilici ─COOH; il gruppo carbossile ha la priorità sul gruppo ossidrile
+ Tra gli idrossiacidi ricordiamo: L’acido lattico  e l’acido malico.
+L’acido lattico  ( acido-2-idrossipropanoico o acido α idrossipropionico ) ha l’atomo di C centrale (2) 
+legato a 4 gruppi atomici diversi, dunque è uno stereocentro, e la molecola è chirale. Si presenta 
+sottoforma di 2 enantiomeri
+Il primo 
+presente 
+nel latte e 
+yogurt
+è il prodotto finale del 
+catabolismo del 
+glucosio in condizioni 
+anaerobiche 
+(fermentazione lattica)
+L’acido malico è un importante 
+intermedio del ciclo di Krebs
+
+--- Page 69 ---
+● i chetoacidi sono composti nei quali sono presenti un gruppo carbonile   
+CO e uno o più gruppi carbossilici ─COOH; il gruppo carbossile ha la 
+priorità sul gruppo carbonile.
+Il nome è preceduto dal suffisso osso e da un numero che indica la posizione 
+del gruppo carbonile
+I più noti sono: 
+l’acido piruvico: a 3 atomi di C, è il prodotto finali della prima fase della 
+glicolisi. 
+ l’acido ossalacetico: è il prodotto finale del ciclo di Krebs per ossidazione 
+dell’acido malico
+
+--- Page 70 ---
+● gli acidi bicarbossilici sono composti costituiti da due gruppi 
+funzionali carbossilici posti alle estremità della catena carboniosa.
+Il nome è costituito dal termine acido e dal nome dell’alcano 
+corrispondente, in cui la desinenza –o è sostituita da –dioico
+Da ricordare ci sono:
+I due isomeri geometrici dell’acido 2- butendioico:
+1. l’acido maleico è tossico, irritante per occhi e vie respiratorie, 
+2. l’acido fumarico è un intermedio del ciclo di Krebs
+Acido etandioico è il più 
+semplice, un suo sale  è 
+l’ossalato di calcio (costituente 
+dei calcoli renali e delle otoliti)
+--- Page 71 ---
+Rispondi
+1. In che senso la reazione di idrolisi basica degli esteri può 
+essere considerata una reazione di sostituzione nucleofila 
+aciclica?
+2. Come si spiega il comportamento neutro delle ammidi?
+3. Che tipo di isomeria è presente nella molecola dell’acido lattico?
+Scegli le parole
+1. La formula molecolare generale R─COO─R indica un estere / 
+un’anidride.
+2. L’acido lattico è un chetoacido / idrossiacido e contiene due 
+gruppi funzionali: un gruppo ossidrile e un gruppo chetonico / 
+carbossile.
+Ora tocca a te
+Molti additivi alimentari sono acidi carbossilici o loro derivati. Fai 
+una ricerca in Rete e prepara una tabella che riporti la sigla (cioè, la 
+lettera E seguita da un numero), la formula chimica e la funzione di 
+alcuni di essi.
+ACTIVE LEARNING
+ACTIVE LEARNING
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 72 ---
+Le ammine
+Sono composti organici che si possono considerare derivati dell’ammoniaca per 
+sostituzione di uno o più atomi di idrogeno con uno o più gruppi alchilici o arilici. 
+Il gruppo funzionale amminico è costituito da un atomo di azoto legato a un 
+gruppo alchilico o arilico e da due H che possono essere sostituiti (uno o 
+entrambi) da gruppi alchilici o arilici. Si distinguono quindi tre tipi di gruppo 
+amminico:
+                                      primario      secondario   terziario
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+Sono distinte in:
+● alifatiche
+● aromatiche
+--- Page 73 ---
+7. Le ammine /2
+Il nome delle ammine alifatiche secondarie e terziarie è costituito dalla lettera N, 
+dal nome del/i gruppo/i alchilici legati all’azoto e dal termine ammino, seguito dal 
+nome della catena carboniosa più lunga.
+
+--- Page 74 ---
+Le ammine 
+L’atomo di azoto è ibridato        i tre orbitali ibridi sono legati con altri atomi, l’altro orbitale 
+ibrido contiene il doppietto elettronico libero e fa si che l’anglo di legame sia di 107°
+Il gruppo amminico è presente negli amminoacidi, nelle basi azotate dei nucleotidi (purine e 
+pirimidine), nelle ammine biogene ( neurotrasmettitori es. adrenalina, noradrenalina 
+serotonina, dopamina), in alcaloidi ( chinina, stricnina, morfina, nicotina, caffeina). Molte di 
+queste sostanze presentano l’azoto all’interno di anelli aromatici ( piridine, purine, pirimidine, 
+imidazolo).
+Nomenclatura 
+Il nome delle ammine alifatiche primarie è costituito dal termine ammino (preceduto dal numero 
+di posizione) e dal nome della catena carboniosa più lunga.
+--- Page 75 ---
+A temperatura ambiente, metilammina ed etilammina sono allo stato di gas, i termini superiori sono allo 
+stato liquido. 
+Hanno un odore sgradevole e penetrante, infatti, spesso sono i prodotti finale delle reazioni di 
+decomposizione della materia organica. Insieme ai composti solforati, come i tioli, contribuiscono alla 
+composizione degli odori delle carni putrescenti
+A parità di massa molecolare i punti di ebollizione delle ammine primarie e secondarie sono più alti 
+rispetto agli  idrocarburi e più bassi rispetto agli alcoli. Ciò è dovuto alla presenza dell’atomo di N legato 
+rispettivamente a 2 H o un H, ma l’N è meno elettronegativo dell’O per cui il legame H è più debole.
+Le ammine terziarie non danno legami H. 
+La solubilità 
+La solubilità diminuisce all’aumentare della massa molecolare.
+Proprietà fisiche delle ammine
+Le ammine terziarie avendo un doppietto 
+elettronico libero possono formare legami 
+H con l’acqua di cui accettano un H, ma 
+sono poco solubili. 
+
+--- Page 76 ---
+Caratteristiche chimiche 
+Con un acido forte si comportano da basi di Lewis per la presenza di un 
+doppietto elettronico libero sull’atomo di azoto: possono condividerlo con lo ione 
+H+ ceduto dall’acido.
+In acqua si comportano da basi di Brønsted-Lowry accettando un protone 
+dall’acqua che agisce da acido e liberando uno ione 
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 77 ---
+Il nome delle ammine aromatiche è costituito dal nome 
+dei sostituenti (in ordine alfabetico) presenti nell’anello 
+benzenico e dal termine anilina. Per le secondarie e 
+terziarie il nome dei gruppi alchilici legati all’azoto è 
+preceduto da N.
+Molte ammine aromatiche sono utilizzate a livello industriale per la sintesi di 
+farmaci e di coloranti sintetici  
+--- Page 78 ---
+Le ammine
+Le reazioni per la sintesi delle ammine alifatiche sono:
+● L’alchilazione dell’ammoniaca: sostituzione nucleofila (SN2)
+Tra alogenuro primario e ammoniaca
+● La riduzione delle ammidi primarie secondarie e terziarie in presenza di un 
+riducente
+La reazione più nota per la sintesi delle ammine aromatiche primarie è la 
+riduzione dei corrispondenti nitrobenzeni.
+Sadava et al, Il carbonio, gli enzimi, il DNA – © Zanichelli 2021
+
+--- Page 79 ---
+Le ammine aromatiche sono meno basiche di quelle alifatiche e 
+dell’ammoniaca perché il doppietto elettronico non condiviso dell’azoto è 
+delocalizzato all’interno dell’anello benzenico e quindi meno disponibile ad 
+accettare un protone.
+
