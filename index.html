@@ -1,0 +1,1730 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Manuale di Studio Interattivo di Scienze - Chimica Organica, Biochimica, Ingegneria Genetica e Geologia.">
+    <title>Atlante di Studio Scientifico</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-theme">
+    <!-- App Container -->
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+                    </svg>
+                    <span>Scienze</span>
+                </div>
+                <button class="sidebar-toggle-btn" id="sidebarClose" aria-label="Chiudi menu">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <ul class="nav-list">
+                    <li class="nav-item active" data-target="chimica-organica">
+                        <a href="#chimica-organica">
+                            <span class="nav-icon chem-icon"></span>
+                            <span class="nav-label">1. Chimica Organica</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="idrocarburi">
+                        <a href="#idrocarburi">
+                            <span class="nav-icon chem-icon"></span>
+                            <span class="nav-label">2. Idrocarburi</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="derivati-idrocarburi">
+                        <a href="#derivati-idrocarburi">
+                            <span class="nav-icon chem-icon"></span>
+                            <span class="nav-label">3. Derivati Idrocarburi</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="polimeri">
+                        <a href="#polimeri">
+                            <span class="nav-icon chem-icon"></span>
+                            <span class="nav-label">4. Polimeri</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="biomolecole">
+                        <a href="#biomolecole">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">5. Biomolecole</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="enzimi">
+                        <a href="#enzimi">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">6. Enzimi</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="metabolismo">
+                        <a href="#metabolismo">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">7. Metabolismo Cellulare</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="biochimica-corpo">
+                        <a href="#biochimica-corpo">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">8. Biochimica Corpo Umano</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="regolazione-genica">
+                        <a href="#regolazione-genica">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">9. Regolazione Genica</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="fotosintesi">
+                        <a href="#fotosintesi">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">10. Fotosintesi</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="genetica-virus">
+                        <a href="#genetica-virus">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">11. Genetica dei Virus</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="ingegneria-genetica">
+                        <a href="#ingegneria-genetica">
+                            <span class="nav-icon bio-icon"></span>
+                            <span class="nav-label">12. Ingegneria Genetica</span>
+                        </a>
+                    </li>
+                    <li class="nav-item" data-target="geologia">
+                        <a href="#geologia">
+                            <span class="nav-icon geo-icon"></span>
+                            <span class="nav-label">13. Geologia e Tettonica</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <div class="progress-container">
+                    <div class="progress-text">
+                        <span>Studio Completato</span>
+                        <span id="overallProgress">0%</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="overallProgressFill" style="width: 0%;"></div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Workspace -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="main-header">
+                <div class="header-left">
+                    <button class="menu-toggle-btn" id="sidebarOpen" aria-label="Apri menu">
+                        <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="3" y1="12" x2="21" y2="12"></line>
+                            <line x1="3" y1="6" x2="21" y2="6"></line>
+                            <line x1="3" y1="18" x2="21" y2="18"></line>
+                        </svg>
+                    </button>
+                    <div class="search-box">
+                        <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                        <input type="text" id="searchInput" placeholder="Cerca argomenti, formule, termini chiave...">
+                    </div>
+                </div>
+                <div class="header-right">
+                    <button class="theme-toggle-btn" id="themeToggle" aria-label="Cambia tema">
+                        <!-- Sun Icon (for dark mode to switch to light) -->
+                        <svg class="sun-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                        <!-- Moon Icon (for light mode to switch to dark) -->
+                        <svg class="moon-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </header>
+
+            <!-- Dashboard Content -->
+            <div class="content-scroll-area">
+                
+                <!-- TOPIC 1: CHIMICA ORGANICA -->
+                <section id="chimica-organica" class="topic-section active-section" data-discipline="chemistry">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Chimica</span>
+                        <h1>1. La Chimica Organica</h1>
+                        <p class="section-desc font-large">Un manuale approfondito sull'atomo di carbonio, la sua ibridazione, le diverse forme di isomeria, gli effetti induttivi e i meccanismi di scissione dei legami chimici.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Proprietà del Carbonio -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>L'Atomo di Carbonio e la sua Eccezionalità</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>La <strong>chimica organica</strong> è la chimica del carbonio. La straordinaria idoneità del carbonio a formare una varietà pressoché illimitata di strutture stabili (catene aperte, ramificate, chiuse) risiede in cinque proprietà chimiche intrinseche dell'elemento:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Tetravalenza e Ibridazione:</strong> Il carbonio possiede 4 elettroni di valenza nello stato fondamentale (<span class="highlight-formula">2s² 2p²</span>). Promuovendo un elettrone dall'orbitale s a quello p vuoto (<span class="highlight-formula">2s¹ 2p³</span>), esso forma 4 legami covalenti. La combinazione degli orbitali s e p dà origine a tre tipi di orbitali ibridi (<span class="highlight-formula">sp³, sp², sp</span>) che definiscono le geometrie tridimensionali molecolari.</li>
+                                    <li><strong>Numero di Ossidazione Variabile:</strong> Il n.o. del carbonio varia da <strong>-4</strong> (nei composti più ridotti come il metano <span class="highlight-formula">CH₄</span>) a <strong>+4</strong> (nei composti più ossidati come il diossido di carbonio <span class="highlight-formula">CO₂</span>). Nella stessa molecola organica, carboni diversi possono avere numeri di ossidazione differenti. Per calcolare il n.o. di un atomo di carbonio si segue la regola: si assegna 0 per legami C-C; -1 per ciascun legame con atomi meno elettronegativi (come H); +1 per ciascun legame con atomi più elettronegativi (come O, N, S o alogeni).</li>
+                                    <li><strong>Elettronegatività Intermedia (2.5):</strong> Il carbonio non tende a perdere o acquistare elettroni in modo netto per via ionica, ma li condivide in legami covalenti stabili.</li>
+                                    <li><strong>Piccolo Raggio Atomico (77 pm):</strong> Questa caratteristica geometrica minimizza l'ingombro sterico attorno al nucleo e permette la formazione di forti legami di tipo &sigma; e &pi; (legami singoli, doppi e tripli).</li>
+                                    <li><strong>Tendenza alla Concatenazione:</strong> La forza dei legami stabili C-C e C-H consente la sintesi di catene carboniose lineari, ramificate e cicliche molto lunghe e articolate.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Ibridazione -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Ibridazione degli Orbitali e Geometria</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>L'ibridazione è un rimescolamento matematico degli orbitali atomici per formare nuovi orbitali degeneri (di pari energia):</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Ibridazione sp³:</strong> Coinvolge l'orbitale s e tutti e tre gli orbitali p. Si generano 4 orbitali ibridi sp³ orientati verso i vertici di un tetraedro regolare con angoli di legame di <strong>109.5°</strong>. Tipico dei legami singoli (es. etano).</li>
+                                    <li><strong>Ibridazione sp²:</strong> Coinvolge l'orbitale s e due orbitali p, lasciando un orbitale p non ibridato. I 3 orbitali sp² giacciono su un piano a <strong>120°</strong>. L'orbitale p non ibridato si dispone perpendicolarmente al piano. Il doppio legame che si genera è costituito da un legame forte &sigma; (sovrapposizione frontale sp²-sp²) e da un legame &pi; più debole (sovrapposizione laterale degli orbitali p non ibridati). Tipico dell'etene.</li>
+                                    <li><strong>Ibridazione sp:</strong> Coinvolge l'orbitale s e un orbitale p, lasciando due orbitali p non ibridati. Gli orbitali sp hanno geometria lineare con angolo di <strong>180°</strong>. I due legami &pi; perpendicolari tra loro si combinano con il legame &sigma; centrale a generare un triplo legame (es. etino).</li>
+                                </ul>
+                                <div class="concept-note">
+                                    <strong>Delocalizzazione elettronica:</strong> Nei composti aromatici (come il benzene), i sei atomi di carbonio ibridati sp² formano legami &sigma; planari. Gli orbitali p residui, perpendicolari al piano dell'anello, non si sovrappongono a coppie isolate, ma formano un'unica nuvola elettronica delocalizzata a ciambella sopra e sotto il piano degli atomi. Questo fenomeno è descritto tramite la risonanza energetica molecolare.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Formule e Isomeria -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Rappresentazioni e Teoria dell'Isomeria</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I composti organici vengono rappresentati graficamente con formule di Lewis (evidenziano tutti i legami ed i doppietti solitari), razionali (mostrano solo i legami C-C), condensate (evidenziano i gruppi atomici sequenziali) e topologiche (utilizzano linee a zig-zag dove i vertici ed i terminali rappresentano i carboni saturi).</p>
+                                <p>L'<strong>isomeria</strong> descrive composti con stessa formula molecolare ma differente formula di struttura o orientazione spaziale, determinando proprietà chimico-fisiologiche differenti:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Isomeria di Struttura:</strong>
+                                        <ul>
+                                            <li><em>Di catena:</em> Diversa organizzazione della catena di C (es. pentano vs isopentano).</li>
+                                            <li><em>Di posizione:</em> Diversa collocazione di gruppi funzionali o doppi legami (es. 1-propanolo vs 2-propanolo).</li>
+                                            <li><em>Di gruppo funzionale:</em> Gruppi funzionali diversi (es. etanolo e dimetiletere).</li>
+                                        </ul>
+                                    </li>
+                                    <li><strong>Stereoisomeria:</strong>
+                                        <ul>
+                                            <li><em>Conformazionale (Conformeri):</em> Si interconvertono liberamente per rotazione attorno a legami singoli C-C (es. proiezioni di Newman: conformazione sfalsata a minima energia ed eclissata ad energia massima).</li>
+                                            <li><em>Configurazionale:</em> Non si convertono per rotazione. Richiedono la rottura e ricostituzione di legami chimici.
+                                                <ul>
+                                                    <li><em>Geometrica (cis/trans):</em> I sostituenti si trovano dalla stessa parte (cis) o in parti opposte (trans) rispetto al piano di un doppio legame o di un anello carbonioso.</li>
+                                                    <li><em>Ottica (Enantiomeri):</em> Immagini speculari non sovrapponibili. Richiede uno <strong>stereocentro</strong> (atomo di carbonio legato a 4 gruppi differenti, detto carbonio chirale) ed assenza di piani di simmetria. Gli enantiomeri hanno proprietà fisiche e chimiche identiche in ambienti achirali, ma ruotano il piano della luce polarizzata di angoli uguali e opposti.</li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 4: Reattività e Scissione dei legami -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">04</span>
+                                <h2>Reattività Chimica e Meccanismi di Scissione</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>La reattività delle molecole organiche dipende dalla polarizzazione indotta da atomi elettronegativi, dalla presenza di legami multipli &pi; più deboli e reattivi, e dall'effetto induttivo (spostamento permanente della densità elettronica lungo una catena di legami covalenti indotto da atomi elettronegativi). La rottura dei legami covalenti avviene secondo due modalità:</p>
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Rottura Omolitica (o Radicalica)</h3>
+                                        <p>Il legame si rompe simmetricamente e ciascun atomo trattiene uno dei due elettroni di legame, formando <strong>radicali liberi</strong>. Questa scissione richiede un apporto di energia esterno fornito sotto forma di calore o radiazioni luminose (UV). I radicali sono specie neutre altamente instabili e reattive che innescano reazioni a catena (iniziazione, propagazione, terminazione).</p>
+                                    </div>
+                                    <div>
+                                        <h3>Rottura Eterolitica (o Polare)</h3>
+                                        <p>Avviene asimmetricamente nei legami covalenti polari. L'atomo più elettronegativo trattiene l'intero doppietto elettronico di legame, generando specie cariche: un <strong>carbocatione</strong> (ione con carica positiva sul carbonio, acido di Lewis) ed un <strong>carbanione</strong> (ione con carica negativa localizzata sul carbonio, base di Lewis). I carbocationi si classificano in primari, secondari o terziari in base al numero di gruppi elettron-donatori (effetto induttivo stabilizzante) legati al C positivo.</p>
+                                    </div>
+                                </div>
+                                <div class="concept-note">
+                                    <strong>Classificazione dei Reagenti nelle Reazioni Polari:</strong>
+                                    <br>&bull; <strong>Elettrofili:</strong> Specie chimiche con parziale o totale carica positiva o aventi ottetto incompleto (acidi di Lewis). Tendono a reagire con siti ricchi di elettroni per formare legami covalenti dativi (es. H⁺, carbocationi).
+                                    <br>&bull; <strong>Nucleofili:</strong> Specie ricche di elettroni, cariche negativamente o dotate di doppietti elettronici liberi (basi di Lewis). Attaccano i siti carenti di elettroni (es. OH&macr;, NH₃, carbanioni).
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Interactive: Isomerism Explorer -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">05</span>
+                                <h2>Laboratorio: Esploratore di Isomeria</h2>
+                            </div>
+                            <div class="card-body">
+                                <p class="helper-text">Seleziona una tipologia per visualizzare la differenza schematica:</p>
+                                <div class="visualizer-container">
+                                    <div class="visualizer-tabs">
+                                        <button class="v-tab active" onclick="showIsomer('struttura')">Di Struttura</button>
+                                        <button class="v-tab" onclick="showIsomer('geometrica')">Geometrica</button>
+                                        <button class="v-tab" onclick="showIsomer('enantiomero')">Ottica (Chirale)</button>
+                                    </div>
+                                    <div class="visualizer-screen" id="isomerDisplay">
+                                        <div class="isomer-box">
+                                            <strong>Butano (lineare) vs Isobutano (ramificato)</strong>
+                                            <div class="formula-render">
+                                                <span>CH₃-CH₂-CH₂-CH₃</span>
+                                                <span class="vs-divider">VS</span>
+                                                <span>CH₃-CH(CH₃)-CH₃</span>
+                                            </div>
+                                            <p class="description">Entrambi hanno formula C₄H₁₀, ma le proprietà di ebollizione sono differenti (butano: -0.5°C, isobutano: -11.7°C) a causa del minor ingombro del butano lineare.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 1 -->
+                        <div class="quiz-card" data-quiz="1">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Chimica Organica</h3>
+                                <span class="quiz-badge">Quiz 1</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Quale tipo di isomeria permette a due molecole di differire per rotazione attorno a un legame semplice C-C, senza richiedere la rottura di legami?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Isomeria geometrica (cis/trans)</button>
+                                    <button class="option-btn" data-correct="true">Isomeria conformazionale (conformeri)</button>
+                                    <button class="option-btn" data-correct="false">Isomeria enantiomerica</button>
+                                    <button class="option-btn" data-correct="false">Isomeria di gruppo funzionale</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 2: IDROCARBURI -->
+                <section id="idrocarburi" class="topic-section" data-discipline="chemistry">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Chimica</span>
+                        <h1>2. Gli Idrocarburi</h1>
+                        <p class="section-desc font-large">Un'analisi approfondita sulle famiglie degli idrocarburi: alcani, cicloalcani, alcheni, alchini ed eterocicli aromatici. Studio dei meccanismi di reazione e delle proprietà termodinamiche.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Classificazione -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Classificazione e Proprietà Fisiche Generali</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Gli idrocarburi contengono unicamente atomi di carbonio e idrogeno. Vengono classificati in base alla struttura tridimensionale della catena in:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Alifatici:</strong> Composti a catena aperta (lineare o ramificata). Si suddividono in saturi (alcani) e insaturi (alcheni con doppi legami, alchini con tripli legami).</li>
+                                    <li><strong>Aliciclici:</strong> Composti a catena chiusa (anello) saturi (cicloalcani) o insaturi (cicloalcheni).</li>
+                                    <li><strong>Aromatici (Areni):</strong> Composti a catena chiusa con ibridazione sp² ed elettroni delocalizzati per risonanza (es. benzene, areni policiclici).</li>
+                                </ul>
+                                <p><strong>Proprietà fisiche degli alifatici:</strong> Sono molecole apolari per via della minima differenza di elettronegatività tra C e H. Sono quindi insolubili in acqua, ma solubili in solventi organici apolari (etere, esano). I punti di ebollizione aumentano all'aumentare della massa molecolare; a parità di massa, i composti ramificati hanno punti di ebollizione più bassi perché la forma sferica riduce l'area di contatto superficiale e le forze di van der Waals intermolecolari.</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Alcani e Cicloalcani -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Idrocarburi Saturi: Alcani e Cicloalcani</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>Alcani (Paraffine): <span class="highlight-formula">C<sub>n</sub>H<sub>2n+2</sub></span></h3>
+                                <p>Tutti i carboni sono ibridati sp³. I legami sono singoli di tipo &sigma;, stabili, forti e difficili da rompere in condizioni standard (paraffine = poca affinità). I primi quattro termini sono gassosi (metano, etano, propano, butano), da C₅ a C₁₆ sono liquidi, i superiori solidi.</p>
+                                <p><strong>Reazioni principali:</strong></p>
+                                <ol class="bullet-list">
+                                    <li><strong>Combustione (ossidazione):</strong> Reazione fortemente esotermica in eccesso di ossigeno. Il carbonio viene ossidato da -4 a +4.
+                                        <br><span class="equation">C<sub>n</sub>H<sub>2n+2</sub> + (3n+1)/2 O₂ &rarr; n CO₂ + (n+1) H₂O + Calore</span>
+                                        <br>In difetto di ossigeno si ha combustione incompleta con produzione di monossido di carbonio (CO, tossico).
+                                    </li>
+                                    <li><strong>Alogenazione (Sostituzione radicalica):</strong> Sostituzione di un atomo di H con un alogeno (Cl, Br). Avviene tramite meccanismo a catena radicalico attivato da luce o calore.
+                                        <br><em>Iniziazione:</em> Scissione omolitica dell'alogeno (Cl₂ &rarr; 2 Cl&bull;).
+                                        <br><em>Propagazione:</em> Cl&bull; + CH₄ &rarr; HCl + &bull;CH₃; &bull;CH₃ + Cl₂ &rarr; CH₃Cl + Cl&bull;.
+                                        <br><em>Terminazione:</em> Combinazione di due radicali (Cl&bull; + &bull;CH₃ &rarr; CH₃Cl).
+                                    </li>
+                                </ol>
+                                <h3>Cicloalcani: <span class="highlight-formula">C<sub>n</sub>H<sub>2n</sub></span></h3>
+                                <p>Catene sp³ cicliche (minimo 3 carboni). Presentano isomeria di posizione e geometrica (cis/trans). Molecole stabili (es. cicloesano nella conformazione a sedia ad energia minima ed a barca).</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Alcheni e Alchini -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Idrocarburi Insaturi: Alcheni e Alchini</h2>
+                            </div>
+                            <div class="card-body">
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Alcheni (Olefine): <span class="highlight-formula">C<sub>n</sub>H<sub>2n</sub></span></h3>
+                                        <p>Presenza di un doppio legame C=C (carboni sp²). Il legame &pi; debole e polarizzabile è un ottimo sito di reazione per gli elettrofili. Non è consentita la rotazione attorno all'asse del doppio legame. Danno reazioni di <strong>addizione elettrofila</strong>:</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>Idrogenazione:</strong> Addizione di H₂ catalizzata da platino, palladio o nichel per sintetizzare alcani saturi.</li>
+                                            <li><strong>Addizione Elettrofila:</strong> Addizione di alogeni (Cl₂, Br₂) o acidi alogenidrici (HCl, HBr). In caso di alcheni asimmetrici si segue la <strong>regola di Markovnikov</strong>: l'idrogeno dell'acido si lega al carbonio del doppio legame che lega a sua volta il maggior numero di atomi di idrogeno. Questo favorisce la formazione del carbocatione intermedio più stabile (terziario > secondario > primario).</li>
+                                            <li><strong>Idratazione:</strong> Addizione di acqua in ambiente acido catalizzato per produrre alcoli.</li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <h3>Alchini: <span class="highlight-formula">C<sub>n</sub>H<sub>2n-2</sub></span></h3>
+                                        <p>Presenza di un triplo legame C&equiv;C (carboni sp). Non presentano isomeria geometrica. Danno reazioni di addizione elettrofila in 2 stadi sequenziali:</p>
+                                        <ol class="bullet-list">
+                                            <li>Rottura del primo legame &pi; e formazione di un derivato alchenico.</li>
+                                            <li>Rottura del secondo legame &pi; e formazione di un alcano saturo.</li>
+                                        </ol>
+                                        <p>L'idratazione degli alchini (in presenza di Hg²⁺) porta a un enolo instabile che subisce tautomeria cheto-enolica convertendosi in aldeide o chetone.</p>
+                                        <div class="concept-note">
+                                            <strong>Acidità degli 1-alchini terminali:</strong> A causa dell'ibridazione sp del carbonio (con alta densità elettronica vicina al nucleo), il legame C-H terminale è polarizzato. In presenza di basi molto forti (es. sodio ammide), si ha rottura eterolitica con distacco di H⁺ e sintesi di uno <strong>ione acetiluro</strong>. Gli acetiluri metallici (es. acetiluro di calcio CaC₂) reagiscono violentemente con l'acqua producendo etino (acetilene).
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card 4: Idrocarburi Aromatici -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">04</span>
+                                <h2>Gli Areni e la Sostituzione Elettrofila Aromatica (SEAr)</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Il <strong>benzene (C₆H₆)</strong> è il capostipite degli idrocarburi aromatici. La sua eccezionale stabilità termodinamica impedisce reazioni di addizione. Subisce invece reazioni di <strong>sostituzione elettrofila aromatica (SEAr)</strong>, in cui un idrogeno dell'anello viene sostituito senza rompere la delocalizzazione elettronica:</p>
+                                <ol class="bullet-list">
+                                    <li><strong>1° Stadio (Lento):</strong> L'elettrofilo forte attacca l'anello benzenico sfruttando due elettroni della nuvola &pi;, formando un carbocatione delocalizzato instabile detto <strong>ione arenio</strong> (ibrido di risonanza).</li>
+                                    <li><strong>2° Stadio (Veloce):</strong> Una base debole sottrae l'idrogeno dal carbonio saturo sotto forma di H⁺. I due elettroni rimanenti ritornano all'anello ripristinando l'aromaticità stabilizzante.</li>
+                                </ol>
+                                <p><strong>Principali reazioni:</strong> Nitrazione (con HNO₃ ed H₂SO₄ per formare lo ione nitronio NO₂⁺), Alogenazione (Cl₂, Br₂ in presenza di FeCl₃ o FeBr₃), Alchilazione e Acilazione di Friedel-Crafts (con alogenuri alchilici o acilici catalizzati da AlCl₃).</p>
+                                <p><strong>Effetti di Orientazione:</strong> Nei benzeni monosostituiti, la reattività e la posizione di attacco del secondo sostituente dipendono dal gruppo già presente: i gruppi attivanti ed elettron-donatori (es. gruppi alchilici, -OH, -NH₂) orientano in <strong>orto</strong> e <strong>para</strong>; i gruppi disattivanti ed elettron-attrattori (es. -NO₂, -COOH) orientano in <strong>meta</strong> (tranne gli alogeni, disattivanti ma orto-para orientanti).</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 5: Composti Eterociclici Aromatici -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">05</span>
+                                <h2>Composti Eterociclici Aromatici di Importanza Biologica</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Sono molecole cicliche aromatiche stabili contenenti uno o più eteroatomi (N, O, S):</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Pirrolo (pentatomico, 1 N):</strong> Il doppietto solitario dell'azoto è delocalizzato all'interno dell'anello per raggiungere i 6 elettroni aromatici richiesti dalla regola di Hückel. Di conseguenza, il pirrolo è una base estremamente debole. Quattro anelli pirrolici legati da ponti metinici costituiscono la struttura delle <strong>porfirine</strong>, componenti dell'<strong>eme</strong> (sangue) e della <strong>clorofilla</strong> (fotosintesi).</li>
+                                    <li><strong>Piridina (esatomico, 1 N):</strong> L'azoto è ibridato sp² ed il suo doppietto solitario risiede in un orbitale sp² nel piano del ciclo, non partecipando alla delocalizzazione aromatica. La piridina è quindi una base debole.</li>
+                                    <li><strong>Pirimidina (esatomico, 2 N):</strong> Da essa derivano le basi azotate uracile, timina e citosina.</li>
+                                    <li><strong>Purina (biciclico):</strong> Fusione di un anello pirimidinico e uno imidazolico. Costituisce la struttura delle basi azotate adenina e guanina.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 2 -->
+                        <div class="quiz-card" data-quiz="2">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Idrocarburi</h3>
+                                <span class="quiz-badge">Quiz 2</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Secondo la regola di Markovnikov, in una reazione di idroalogenazione di un alchene asimmetrico, dove si lega l'atomo di idrogeno?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Al carbonio meno idrogenato del doppio legame</button>
+                                    <button class="option-btn" data-correct="true">Al carbonio più idrogenato del doppio legame</button>
+                                    <button class="option-btn" data-correct="false">Si lega in modo casuale ad uno dei due carboni</button>
+                                    <button class="option-btn" data-correct="false">Si lega all'eteroatomo più vicino</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 3: DERIVATI DEGLI IDROCARBURI -->
+                <section id="derivati-idrocarburi" class="topic-section" data-discipline="chemistry">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Chimica</span>
+                        <h1>3. I Derivati degli Idrocarburi</h1>
+                        <p class="section-desc font-large">Un compendio approfondito sulle classi funzionali: alogenuri alchilici, alcoli, fenoli, tioli, eteri, aldeidi, chetoni, acidi carbossilici e ammine. Studio approfondito dei meccanismi SN1/SN2 ed E1/E2.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Alogenuri Alchilici -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Alogenuri Alchilici (R-X) e Meccanismi di Sostituzione ed Eliminazione</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Derivano dagli idrocarburi per sostituzione di H con un alogeno. La polarizzazione del legame C-X (dovuta all'alta elettronegatività dell'alogeno) rende il carbonio elettrofilo (parziale carica positive), favorendo l'attacco di nucleofili. Si attivano due meccanismi competitivi:</p>
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Sostituzione Nucleofila (S<sub>N</sub>)</h3>
+                                        <p>Un nucleofilo sostituisce l'alogeno uscente (gruppo uscente):</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>Meccanismo S<sub>N</sub>2 (Bimolecolare):</strong> Avviene in un unico stadio concertato. Il nucleofilo attacca il carbonio dalla parte opposta al gruppo uscente. La velocità di reazione dipende dalla concentrazione di entrambi i reagenti. È fortemente ostacolato dall'ingombro sterico: gli alogenuri primari reagiscono molto rapidamente. Causa l'<strong>inversione stereochimica di configurazione</strong> (inversione di Walden).</li>
+                                            <li><strong>Meccanismo S<sub>N</sub>1 (Monomolecolare):</strong> Avviene in due stadi. Nel primo stadio (lento, cinetica monomolecolare) si ha la rottura del legame C-X e formazione di un <strong>carbocatione planare sp²</strong>. Nel secondo stadio (veloce) il nucleofilo attacca il carbocatione da entrambe le facce. Favorito da alogenuri terziari (che formano carbocationi molto stabili) e nucleofili deboli (solventi come acqua o alcol). Porta a **racemizzazione** (miscela degli enantiomeri R e S).</li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <h3>Reazioni di Eliminazione (E)</h3>
+                                        <p>In presenza di nucleofili forti che agiscono come basi di Brønsted, l'alogenuro subisce l'eliminazione di HX formando un alchene insaturo:</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>E2 (Bimolecolare):</strong> Stadio singolo concertato. La base strappa l'H adiacente (carbonio &beta;) mentre l'alogeno si allontana.</li>
+                                            <li><strong>E1 (Monomolecolare):</strong> Avviene in due stadi tramite carbocatione intermedio.</li>
+                                            <li>La stabilità dell'alchene finale segue la <strong>regola di Zaitsev</strong>: si forma preferenzialmente l'alchene più sostituito.</li>
+                                        </ul>
+                                        <div class="concept-note">
+                                            <strong>Configurazioni R/S:</strong> Per assegnare la configurazione a uno stereocentro si ordinano i quattro sostituenti legati ad esso in base al numero atomico decrescente (regole di sequenza Cahn-Ingold-Prelog). Orientando la molecola in modo da porre il sostituente a minore priorità sullo sfondo, si traccia un arco dal sostituente a priorità massima al secondo ed al terzo: se l'arco procede in senso orario la configurazione è <strong>R</strong> (rectus), se procede in senso antiorario è <strong>S</strong> (sinister).
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Alcoli, Fenoli e Tioli -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Derivati Ossigenati e Solforati: Alcoli, Fenoli e Tioli</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>Alcoli: <span class="highlight-formula">R-OH</span></h3>
+                                <p>Caratterizzati dal gruppo ossidrilico legato a un carbonio sp³. Formano forti legami a idrogeno intermolecolari, determinando alti punti di ebollizione ed un'elevata solubilità in acqua (che decresce all'allungarsi della catena alchilica idrofobica).</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Reattività:</strong> Sono composti anfoteri. Si comportano da acidi deboli di Brønsted cedendo H⁺ a basi forti (es. sodio metallico) per dare <strong>alcossidi</strong>. Agiscono da basi di Lewis accettando protoni sull'ossigeno in ambiente acido, eliminando acqua e formando carbocationi.</li>
+                                    <li><strong>Ossidazione degli Alcoli:</strong>
+                                        <br>&bull; Alcol primario + ossidante &rarr; Aldeide &rarr; Acido Carbossilico.
+                                        <br>&bull; Alcol secondario + ossidante &rarr; Chetone.
+                                        <br>&bull; Alcol terziario &rarr; Non subisce ossidazione (non ha idrogeni sul carbonio del gruppo OH).
+                                    </li>
+                                </ul>
+                                <h3>Fenoli: <span class="highlight-formula">Ar-OH</span></h3>
+                                <p>Gruppo ossidrile legato direttamente all'anello benzenico. Hanno un comportamento acido molto più marcato degli alcoli: la carica negativa dello <strong>ione fenossido</strong> è stabilizzata per risonanza all'interno dell'anello aromatico.</p>
+                                <h3>Tioli (Mercaptani): <span class="highlight-formula">R-SH</span></h3>
+                                <p>Contengono il gruppo solfidrile (-SH) legato a C sp³. Odore estremamente penetrante. Si ossidano facilmente producendo <strong>ponti disolfuro (S-S)</strong>, fondamentali per stabilizzare la cheratina dei capelli e le proteine.</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Eteri e Composti Carbonilici -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Eteri, Aldeidi e Chetoni</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>Eteri: <span class="highlight-formula">R-O-R'</span></h3>
+                                <p>Un ossigeno a ponte tra due gruppi alchilici o arilici. Sono molecole volatili, debolmente polari e inerti a temperatura ambiente. Si sintetizzano per disidratazione intermolecolare di alcoli o tramite la sintesi di Williamson. Il MTBE era addizionato alla benzina verde come antidetonante radicalico.</p>
+                                <h3>Aldeidi (<span class="highlight-formula">R-CHO</span>) e Chetoni (<span class="highlight-formula">R-CO-R'</span>)</h3>
+                                <p>Caratterizzati dal gruppo **carbonilico (C=O)** fortemente polarizzato (C sp² planare, parziale carica positiva su C). Le aldeidi sono più reattive dei chetoni per via del minor ingombro sterico e dell'assenza di gruppi alchilici elettron-donatori stabilizzanti sul carbonio carbonilico.</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Addizione Nucleofila:</strong> Un nucleofilo attacca il carbonio elettrofilo rompendo il doppio legame. La reazione con alcol catalizzata da acidi porta alla sintesi di <strong>semiacetali / acetali</strong> (e semichetali / chetali), meccanismo alla base della ciclizzazione dei carboidrati.</li>
+                                    <li><strong>Condensazione Aldolica:</strong> Reazione basica tra due composti carbonilici con produzione di un <em>aldolo</em> (molecola con gruppo OH e C=O separati da tre carboni).</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 4: Acidi Carbossilici e Derivati -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">04</span>
+                                <h2>Acidi Carbossilici e i loro Derivati Funzionali</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>Acidi Carbossilici: <span class="highlight-formula">R-COOH</span></h3>
+                                <p>Caratterizzati dal gruppo carbossilico. Sono acidi deboli, ma molto più forti di alcoli e fenoli perché lo <strong>ione carbossilato</strong> è stabilizzato per risonanza simmetrica su due atomi di ossigeno equivalenti. I sostituenti alogeni elettron-attrattori aumentano l'acidità; i gruppi metilici la riducono.</p>
+                                <p><strong>Acidi grassi:</strong> Acidi alifatici a catena lunga (&ge; 12 atomi di carbonio). Si dividono in saturi (solo legami singoli C-C) e insaturi (con doppi legami in configurazione cis, es. acido oleico, linoleico).</p>
+                                <h3>Derivati Funzionali</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Esteri (R-COO-R'):</strong> Sintetizzati per <strong>esterificazione di Fischer</strong> (reazione acido-catalizzata tra acido carbossilico e alcol). L'idrolisi alcalina (con NaOH) è detta <strong>saponificazione</strong>: produce sapone (sale sodico dell'acido grasso) e glicerolo. La testa idrofila (-COO⁻ Na⁺) e la coda idrofobica dell'acido grasso formano micelle in grado di emulsionare lo sporco grasso apolare in acqua.</li>
+                                    <li><strong>Ammidi (R-CONR₂):</strong> L'ossidrile del carbossile è sostituito da un gruppo amminico. Il legame carbonio-azoto (ammidico) ha parziale carattere di doppio legame che impedisce la rotazione; costituisce il <strong>legame peptidico</strong> delle proteine. Sono composti neutri. L'urea è una diammide di scarto metabolico.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 5: Acidi Polifunzionali e Ammine -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">05</span>
+                                <h2>Acidi Polifunzionali e Ammine</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>Acidi Polifunzionali</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Idrossiacidi:</strong> Contengono gruppi -OH e -COOH (es. acido lattico, chirale, prodotto finale della fermentazione lattica; acido malico, intermedio del ciclo di Krebs).</li>
+                                    <li><strong>Chetoacidi:</strong> Gruppi C=O e -COOH (es. acido piruvico, prodotto finale della glicolisi; acido ossalacetico, molecola di innesto del ciclo di Krebs).</li>
+                                    <li><strong>Acidi bicarbossilici:</strong> Due gruppi -COOH alle estremità (es. acido maleico, isomero cis tossico; acido fumarico, isomero trans del ciclo di Krebs).</li>
+                                </ul>
+                                <h3>Ammine: <span class="highlight-formula">R-NH₂ / R-NHR' / R-NR'R''</span></h3>
+                                <p>Derivati organici dell'ammoniaca (N ibridato sp³, geometria piramidale trigonale con angolo di 107° per via del doppietto elettronico libero). Si comportano da <strong>basi forti di Brønsted-Lowry</strong> accettando protoni H⁺ sull'azoto.</p>
+                                <p>Le ammine aromatiche (es. **anilina**) sono meno basiche di quelle alifatiche e dell'ammoniaca perché il doppietto solitario dell'azoto è parzialmente delocalizzato per risonanza all'interno dell'anello benzenico, risultando meno disponibile per legare il protone H⁺.</p>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 3 -->
+                        <div class="quiz-card full-width" data-quiz="3">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Derivati degli Idrocarburi</h3>
+                                <span class="quiz-badge">Quiz 3</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Perché le ammine aromatiche come l'anilina mostrano una basicità nettamente inferiore rispetto alle ammine alifatiche?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Per via dell'ingombro sterico dell'anello benzenico</button>
+                                    <button class="option-btn" data-correct="true">Perché il doppietto solitario dell'azoto è delocalizzato per risonanza nell'anello aromatico</button>
+                                    <button class="option-btn" data-correct="false">A causa della forte elettronegatività dell'anello carbonioso</button>
+                                    <button class="option-btn" data-correct="false">Perché non possono formare legami a idrogeno con l'acqua</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 4: POLIMERI -->
+                <section id="polimeri" class="topic-section" data-discipline="chemistry">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Chimica</span>
+                        <h1>4. I Polimeri</h1>
+                        <p class="section-desc font-large font-large">La chimica delle macromolecole: distillazione frazionata, processi di cracking catalitico, polimerizzazioni per addizione radicalica, cationica ed anionica, resine termoindurenti e termoplastiche.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Concetti e Cracking -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>La Chimica dei Polimeri e la Raffinazione</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I polimeri sono macromolecole costituite dalla ripetizione di un'unità ripetente derivata dalla reazione di monomeri uniti da legami covalenti. Si dividono in **naturali** (biomolecole come proteine, polisaccaridi, acidi nucleici) e **sintetici** (materie plastiche sintetiche).</p>
+                                <p>I monomeri di partenza (come l'etene) derivano dalla raffinazione del petrolio greggio via <strong>distillazione frazionata</strong> (separazione delle frazioni in base a temperatura di ebollizione e densità). Le frazioni più pesanti e dense subiscono il processo di <strong>cracking</strong> (termico ad alta temperatura o catalitico con zeoliti), che rompe i legami carbonio-carbonio generando frazioni più leggere (es. cracking dell'ottano <span class="highlight-formula">C₈H₁₈</span> &rarr; esano saturo <span class="highlight-formula">C₆H₁₄</span> + etene insaturo <span class="highlight-formula">C₂H₄</span>).</p>
+                                <p>La massa molecolare di un polimero è una media statistica espressa come media numerica (Mn) o media ponderale (Mw). Il loro rapporto definisce l'indice di polidispersione: <span class="highlight-formula">d = M<sub>w</sub> / M<sub>n</sub></span> (d=1 omogeneo/monodisperso, d&gt;1 eterogeneo/polidisperso).</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Meccanismi di Reazione -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Meccanismi di Polimerizzazione</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I polimeri sintetici si producono attraverso due meccanismi principali in funzione della natura chimica dei gruppi funzionali:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Polimerizzazione per Addizione (a catena):</strong> Coinvolge monomeri insaturi.
+                                        <ul>
+                                            <li><em>Addizione Radicalica:</em> Reazione a catena in tre stadi (inizio, propagazione, terminazione). L'iniziatore radicalico genera radicali reattivi per scissione omolitica del doppio legame del monomero.</li>
+                                            <li><em>Addizione Cationica:</em> L'iniziatore è un carbocatione (es. sintesi dell'isobutilene catalizzata da acidi). Produce il butile, gomma impermeabile ai gas usata per le camere d'aria.</li>
+                                            <li><em>Addizione Anionica:</em> L'iniziatore è un carbanione nucleofilo.</li>
+                                        </ul>
+                                    </li>
+                                    <li><strong>Polimerizzazione per Condensazione (a stadi):</strong> Avviene tra due monomeri bifunzionali con eliminazione di molecole d'acqua. Genera omopolimeri (es. acido polilattico PLA) o copolimeri (es. Nylon da condensazione di diammina e acido dicarbossilico; PET da glicole etilenico e acido tereftalico; Bachelite fenolo-formaldeide).</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Comportamento Termico -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Proprietà Fisiche e Comportamento Termico</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Lo stato fisico di un polimero (vetroso, gommoso, liquido fuso) dipende dalla temperatura. Si definiscono la **temperatura di transizione vetrosa (T<sub>g</sub>)**, sotto la quale il polimero amorfo è rigido e vetroso e sopra la quale assume stato gommoso, e la **temperatura di fusione (T<sub>f</sub>)**, sopra la quale fonde completamente. In base al comportamento termomeccanico i polimeri si dividono in:</p>
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Elastomeri (o Gomme)</h3>
+                                        <p>Presentano comportamento elastico con capacità di allungamento reversibile. Le catene polimeriche, raggomitolate casualmente, si raddrizzano sotto stiramento orientandosi lungo la forza applicata. Poiché le forze di van der Waals sono troppo deboli per mantenere questo allineamento, al cessare della tensione le catene tornano spontaneamente allo stato raggomitolato originale.</p>
+                                    </div>
+                                    <div>
+                                        <h3>Resine Termoplastiche e Termoindurenti</h3>
+                                        <p>&bull; <strong>Termoplastiche:</strong> Diventano plastiche e modellabili ad alte temperature e si irrigidiscono reversibilmente con il raffreddamento (es. PE, PP, PVC con ftalati, polistirene, Nylon).</p>
+                                        <p>&bull; <strong>Termoindurenti:</strong> Se riscaldate subiscono una reticolazione chimica tridimensionale irreversibile. Una volta modellate non possono essere fuse nuovamente, ma carbonizzano ad alte temperature (es. Bachelite, resine epossidiche e poliuretaniche).</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 4 -->
+                        <div class="quiz-card full-width" data-quiz="4">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: I Polimeri</h3>
+                                <span class="quiz-badge">Quiz 4</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Quale caratteristica distingue in modo fondamentale le resine termoindurenti da quelle termoplastiche?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Le termoindurenti si sciolgono in acqua, le termoplastiche no</button>
+                                    <button class="option-btn" data-correct="false">Le termoplastiche hanno un indice di polidispersione fisso a 1</button>
+                                    <button class="option-btn" data-correct="true">Le termoindurenti subiscono una reticolazione chimica irreversibile col calore, mentre le termoplastiche rammolliscono e induriscono reversibilmente</button>
+                                    <button class="option-btn" data-correct="false">Le termoplastiche sono degradate esclusivamente per via fotochimica</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 5: BIOMOLECOLE -->
+                <section id="biomolecole" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>5. Le Biomolecole</h1>
+                        <p class="section-desc font-large font-large">Un trattato approfondito sui costituenti chimici degli organismi: la stereochimica e la reattività dei carboidrati, la classificazione dei lipidi, la ionizzazione degli amminoacidi e i quattro livelli strutturali delle proteine.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Carboidrati -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>I Carboidrati: Struttura, Anomeria e Potere Riducente</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Costituiti da carbonio, idrogeno e ossigeno, si dividono in:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Monosaccaridi:</strong> Monomeri non ulteriormente idrolizzabili. Classificati in <strong>aldosi</strong> (esosi con gruppo -CHO, es. D-glucosio, D-galattosio) e <strong>chetosi</strong> (esosi con gruppo C=O, es. D-fruttosio). Possiedono centri chirali (proiezioni di Fischer: la configurazione D o L è definita dal carbonio chirale più distante dal gruppo carbonilico).
+                                        <br><em>In soluzione acquosa la forma lineare è in equilibrio con la forma ciclica emiacetalica (proiezioni di Haworth). La ciclizzazione genera un nuovo stereocentro al C-1 (carbonio anomerico), producendo due anomeri: <strong>&alpha;</strong> (gruppo -OH sotto il piano) e <strong>&beta;</strong> (gruppo -OH sopra).</em>
+                                    </li>
+                                    <li><strong>Zuccheri Riducenti:</strong> Monosaccaridi e disaccaridi con carbonio anomerico libero (non impegnato nel legame glicosidico) che possono ossidarsi ad acido carbossilico riducendo reattivi metallici. Si identificano con il **reattivo di Tollens** (riduzione di Ag⁺ a specchio d'argento) ed il **reattivo di Fehling** (riduzione di Cu²⁺ a precipitato rosso di Cu₂O). Il glucosio, lattosio e maltosio sono riducenti. Il saccarosio (il cui legame glicosidico blocca entrambi i carboni anomerici) non è riducente.</li>
+                                    <li><strong>Disaccaridi:</strong> Unione di due monosaccaridi per condensazione:
+                                        <ul>
+                                            <li><strong>Lattosio:</strong> &beta;-D-galattosio e D-glucosio (legame &beta;-1,4). Idrolizzato dall'enzima lattasi. La sua persistenza indigerita causa intolleranza intestinale (da non confondere con la *galattosemia*, rara malattia metabolica genetica in cui manca l'enzima per convertire il galattosio in glucosio).</li>
+                                            <li><strong>Maltosio:</strong> Due molecole di glucosio (legame &alpha;-1,4). Prodotto della digestione dell'amido ad opera dell'amilasi. Digeribile.</li>
+                                            <li><strong>Cellobioso:</strong> Due molecole di glucosio (legame &beta;-1,4). Unità base della cellulosa, indigeribile per l'uomo (mancanza di &beta;-glucosidasi).</li>
+                                            <li><strong>Saccarosio:</strong> Glucosio + Fruttosio (&alpha;-1,2), zucchero da tavola non riducente.</li>
+                                        </ul>
+                                    </li>
+                                    <li><strong>Polisaccaridi:</strong> Grandi omopolimeri del glucosio. <strong>Amido</strong> (miscela di amilosio lineare &alpha;-1,4 ed amilopectina ramificata &alpha;-1,6 ogni 24-30 unità); <strong>Glicogeno</strong> (riserva animale altamente ramificata); <strong>Cellulosa</strong> (strutturale vegetale con catene lineari stabili di legami &beta;-1,4); <strong>Chitina</strong> (polimero di N-acetilglucosammina, costituente dell'esoscheletro).</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Lipidi -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>I Lipidi: Classificazione Saponificabili e Non Saponificabili</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Sostanze chimicamente eterogenee accomunate dall'insolubilità in acqua. Si distinguono in:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Lipidi Saponificabili:</strong> Contengono acidi grassi che in ambiente basico subiscono idrolisi producendo saponi.
+                                        <ul>
+                                            <li><strong>Trigliceridi:</strong> Triesteri del glicerolo con tre acidi grassi. Grassi (solidi, acidi grassi saturi) ed oli (liquidi, acidi grassi insaturi cis).</li>
+                                            <li><strong>Fosfolipidi:</strong> Molecole anfipatiche costituenti di membrana. I <em>glicerofosfolipidi</em> (glicolo + 2 acidi grassi + gruppo fosfato + amminoalcol) e gli <em>sfingolipidi</em> (sfingosina + acido grasso + fosfato + amminoalcol).</li>
+                                            <li><strong>Glicolipidi:</strong> Sfingosina + acido grasso + carboidrato. Importanti per il riconoscimento cellulare.</li>
+                                        </ul>
+                                    </li>
+                                    <li><strong>Lipidi Non Saponificabili:</strong> Privi di acidi grassi.
+                                        <ul>
+                                            <li><strong>Steroidi:</strong> Derivati dell'idrocarburo policiclico *sterano*. Il <strong>colesterolo</strong> regola la fluidità delle membrane cellulari ed è il precursore di: *sali biliari* (emulsionano i grassi nel duodeno), *vitamina D* (sintetizzata per via fotochimica dai raggi UV, regola l'assorbimento del calcio; la carenza causa rachitismo/osteoporosi) e *ormoni steroidei* (sessuali: testosterone, progesterone, estrogeni; corticosurrenali: cortisolo, aldosterone).</li>
+                                            <li><strong>Vitamine Liposolubili:</strong> Vitamina A (vista), E (antiossidante di membrana), K (coagulazione).</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Proteine -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Proteine: Amminoacidi e Livelli Strutturali</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I monomeri sono i **20 amminoacidi** proteici (C &alpha; legato a gruppo amminico, carbossilico, idrogeno e catena R). 9 di questi sono essenziali. In acqua si presentano come <strong>zwitterioni</strong> (ioni dipolari a carica netta variabile col pH, punto isoelettrico). Si uniscono tramite <strong>legame peptidico</strong> (legame covalente ammidico C-N per condensazione).</p>
+                                <h3>I 4 livelli strutturali delle proteine:</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Struttura Primaria:</strong> La sequenza lineare di amminoacidi uniti da legami peptidici, determinata geneticamente.</li>
+                                    <li><strong>Struttura Secondaria:</strong> Ripiegamento locale della catena stabilizzato da legami a idrogeno tra l'ossigeno del C=O ed il protone del N-H. Si presenta come <strong>&alpha;-elica</strong> (avvolgimento destrogiro compatto con legami H interni) o <strong>&beta;-foglietto</strong> (catene parallele/antiparallele a zig-zag con legami H intercatena).</li>
+                                    <li><strong>Struttura Terziaria:</strong> Configurazione tridimensionale globale prodotta dalle torsioni della catena, stabilizzata da interazioni tra i gruppi R (ponti disolfuro covalenti S-S tra cisteine, legami ionici, legami H, interazioni idrofobiche). Si dividono in <em>globulari</em> (compatte, solubili, es. enzimi) e <em>fibrose</em> (allungate, insolubili, es. cheratina).</li>
+                                    <li><strong>Struttura Quaternaria:</strong> Associazione di più subunità polipeptidiche (es. emoglobina).</li>
+                                </ul>
+                                <div class="concept-note warning-note">
+                                    <strong>Denaturazione:</strong> Rottura dei legami chimici deboli che stabilizzano le strutture secondaria, terziaria e quaternaria. La proteina perde la sua forma nativa e, conseguentemente, la sua attività biologica.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 5 -->
+                        <div class="quiz-card full-width" data-quiz="5">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Le Biomolecole</h3>
+                                <span class="quiz-badge">Quiz 5</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Quale dei seguenti disaccaridi NON è classificato come zucchero riducente nei test di Tollens e Fehling?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Lattosio</button>
+                                    <button class="option-btn" data-correct="false">Maltosio</button>
+                                    <button class="option-btn" data-correct="true">Saccarosio</button>
+                                    <button class="option-btn" data-correct="false">Cellobioso</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 6: ENZIMI -->
+                <section id="enzimi" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>6. Gli Enzimi</h1>
+                        <p class="section-desc font-large">La cinetica e la regolazione enzimatica: abbassamento dell'energia di attivazione, cofattori e coenzimi, fattori cinetici, inibitori competitivi e allosteria.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Proprietà e Cofattori -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Catalisi Enzimatica e Cofattori</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Gli enzimi sono catalizzatori biologici altamente specifici che aumentano la velocità delle reazioni biologiche abbassando l'<strong>energia di attivazione</strong> (l'energia minima richiesta per portare i reagenti allo stato di transizione). Non alterano l'equilibrio termodinamico della reazione.</p>
+                                <p>Molti enzimi richiedono componenti non proteici detti **cofattori** per attivarsi:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Gruppi prostetici:</strong> Molecole organiche o ioni metallici legati saldamente con legami covalenti all'enzima (es. gruppo eme nei citocromi).</li>
+                                    <li><strong>Coenzimi:</strong> Molecole organiche a legame transitorio che agiscono trasportando gruppi chimici o elettroni. Spesso contengono nucleotidi (es. ATP, NAD⁺, FAD, Coenzima A) e derivano da vitamine idrosolubili della dieta.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Sito Attivo e Cinetica -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Sito Attivo ed Influenze Cinetiche</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Il **sito attivo** è la tasca dell'enzima in cui si posiziona il substrato. Il legame avviene secondo il modello dell'<strong>adattamento indotto</strong>: l'interazione con il substrato provoca una variazione conformazionale del sito attivo per favorire la catalisi. La reazione avviene in tre stadi: formazione del complesso enzima-substrato (ES, stadio lento), transizione chimica, e distacco dei prodotti.</p>
+                                <h3>Fattori che influenzano la cinetica:</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Temperatura:</strong> La velocità aumenta con la T fino a una temperatura ottimale (in genere 37°C nell'uomo), oltre la quale l'energia termica rompe i legami deboli denaturando la proteina.</li>
+                                    <li><strong>pH:</strong> Variazioni di pH modificano lo stato di ionizzazione degli amminoacidi del sito attivo.</li>
+                                    <li><strong>Concentrazione:</strong> La velocità aumenta all'aumentare della concentrazione del substrato fino a una velocità massima (V<sub>max</sub>) in cui tutti i siti attivi sono occupati (<strong>saturazione</strong> dell'enzima).</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Inibitori e Allosteria -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Regolazione e Inibizione Enzimatica</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>L'attività enzimatica deve essere finemente regolata per coordinare le vie metaboliche:</p>
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Inibitori Enzimatici Reversibili e Irreversibili</h3>
+                                        <p>Gli inibitori riducono o annullano l'attività catalitica:</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>Inibitori Irreversibili:</strong> Si legano covalentemente disattivando l'enzima in modo permanente (es. composti organofosforici come il DFP nei gas nervini che blocca l'acetilcolinesterasi).</li>
+                                            <li><strong>Inibitori Reversibili Competitivi:</strong> Hanno struttura simile al substrato e competono con esso per il legame al **sito attivo**. L'inibizione può essere superata aumentando la concentrazione del substrato.</li>
+                                            <li><strong>Inibitori Reversibili Non Competitivi:</strong> Si legano a un sito diverso dal sito attivo, modificando la conformazione tridimensionale dell'enzima e riducendo l'efficienza della catalisi indipendentemente dalla concentrazione di substrato.</li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <h3>Regolazione Allosterica</h3>
+                                        <p>Tipica degli enzimi chiave delle vie metaboliche. Gli **effettori allosterici** si legano a un sito specifico (<strong>sito allosterico</strong>) diverso dal sito attivo, inducendo un lieve cambiamento di forma:</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>Effettori Positivi:</strong> Aumentano l'affinità del sito attivo per il substrato, attivando l'enzima.</li>
+                                            <li><strong>Effettori Negativi:</strong> Riducono l'affinità del sito attivo per il substrato, spegnendo l'enzima. Questo meccanismo controlla l'<strong>inibizione retroattiva (feedback negativo)</strong> in cui il prodotto finale di una via metabolica agisce da effettore allosterico negativo sull'enzima che catalizza la prima reazione della via.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 6 -->
+                        <div class="quiz-card full-width" data-quiz="6">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Gli Enzimi</h3>
+                                <span class="quiz-badge">Quiz 6</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">In che modo un inibitore reversibile competitivo influenza l'attività di un enzima?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Si lega in modo permanente al sito allosterico deformandolo</button>
+                                    <button class="option-btn" data-correct="false">Idrolizza il legame peptidico dell'enzima denaturandolo</button>
+                                    <button class="option-btn" data-correct="true">Compete direttamente con il substrato legandosi temporaneamente al sito attivo</button>
+                                    <button class="option-btn" data-correct="false">Aumenta l'energia di attivazione della reazione catalizzata</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 7: METABOLISMO CELLULARE -->
+                <section id="metabolismo" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>7. Il Metabolismo Cellulare</h1>
+                        <p class="section-desc font-large">Il flusso energetico della cellula: catabolismo ed anabolismo, la struttura dell'ATP e la dettagliata scomposizione biochimica della Glicolisi, delle Fermentazioni e della Respirazione Cellulare Aerobica.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Concetti Generali -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Catabolismo, Anabolismo ed ATP</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Il metabolismo cellulare è guidato da reazioni accoppiate:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Catabolismo:</strong> Reazioni esoergoniche di degradazione di molecole complesse in composti più semplici, accoppiate alla produzione di ATP e coenzimi ridotti (NADH, FADH₂).</li>
+                                    <li><strong>Anabolismo:</strong> Reazioni endoergoniche di sintesi di biomolecole complesse, accoppiate all'idrolisi di ATP ed all'ossidazione di NADPH.</li>
+                                    <li><strong>ATP (Adenosina Trifosfato):</strong> Nucleotide formato da adenina, ribosio e tre gruppi fosfato uniti da legami fosfoanidridici ad alta energia. L'idrolisi dell'ultimo gruppo fosfato rilascia <strong>30.84 kJ/mol</strong> di energia libera, convertendo la molecola in ADP e Pi.</li>
+                                    <li><strong>Coenzimi Redox:</strong> Le ossidoriduzioni metaboliche sono catalizzate da *deidrogenasi* coadiuvate da trasportatori di elettroni e protoni (NAD⁺/NADH e FAD/FADH₂ nel catabolismo; NADP⁺/NADPH nell'anabolismo).</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: La Glicolisi Dettagliata -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Glicolisi: Le 10 Tappe Bio-Chimiche</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>La **glicolisi** è una via metabolica anaerobica citoplasmatica comune a tutti gli organismi. Consiste nell'ossidazione parziale di una molecola di glucosio (6C) in due molecole di acido piruvico (piruvato, 3C). Si suddivide in due fasi:</p>
+                                <h3>Fase Endoergonica (Tappe 1-5): Consuma 2 ATP</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Tappa 1:</strong> Il glucosio viene fosforilato a <strong>Glucosio-6-Fosfato (G6P)</strong> dall'enzima *esochinasi* (consuma 1 ATP).</li>
+                                    <li><strong>Tappa 2:</strong> G6P viene convertito in <strong>Fruttosio-6-Fosfato (F6P)</strong> da *fosfoesoso isomerasi*.</li>
+                                    <li><strong>Tappa 3:</strong> F6P viene fosforilato a <strong>Fruttosio-1,6-Bisfosfato (F1,6BP)</strong> da *fosfofruttochinasi* (consuma 1 ATP). <em>Questo è il passaggio obbligato della glicolisi, regolato allostericamente.</em></li>
+                                    <li><strong>Tappa 4:</strong> F1,6BP viene scisso dall'enzima *aldolasi* in due triosi fosfati: <strong>diidrossiacetone fosfato (DHAP)</strong> e <strong>gliceraldeide-3-fosfato (G3P)</strong>.</li>
+                                    <li><strong>Tappa 5:</strong> Il DHAP viene convertito in G3P da *trioso fosfato isomerasi*. Si ottengono così **2 molecole di G3P** per glucosio.</li>
+                                </ul>
+                                <h3>Fase Esoergonica (Tappe 6-10): Produce 4 ATP e 2 NADH</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Tappa 6:</strong> Le 2 G3P vengono ossidate e fosforilate a <strong>1,3-bisfosfoglicerato (1,3BPG)</strong> da *gliceraldeide-3-fosfato deidrogenasi* (riduce 2 NAD⁺ a **2 NADH**).</li>
+                                    <li><strong>Tappa 7:</strong> Le 2 1,3BPG trasferiscono un gruppo fosfato ad ADP sintetizzando **2 ATP** e formando <strong>3-fosfoglicerato (3PG)</strong> ad opera di *fosfoglicerato chinasi* (fosforilazione a livello del substrato).</li>
+                                    <li><strong>Tappa 8:</strong> Le 2 3PG vengono convertite in <strong>2-fosfoglicerato (2PG)</strong> da *fosfoglicerato mutasi*.</li>
+                                    <li><strong>Tappa 9:</strong> Le 2 2PG vengono disidratate (perdita di 2 H₂O) in <strong>fosfoenolpiruvato (PEP)</strong> da *enolasi*.</li>
+                                    <li><strong>Tappa 10:</strong> Il PEP trasferisce il fosfato ad ADP producendo **2 ATP** e **2 Piruvato** ad opera di *piruvato chinasi*.</li>
+                                </ul>
+                                <p><strong>Bilancio Glicolisi:</strong> Glucosio &rarr; 2 Piruvato + 2 ATP (netti) + 2 NADH + 2 H₂O.</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Fermentazione -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Le Fermentazioni Anaerobiche</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>In assenza di ossigeno (condizioni anaerobiche), la respirazione cellulare non può avvenire. Per permettere alla glicolisi di continuare a produrre i suoi 2 ATP netti, la cellula deve rigenerare il NAD⁺ ossidando il NADH prodotto nella tappa 6 della glicolisi. Questo avviene tramite la fermentazione nel citoplasma:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Fermentazione Lattica:</strong> Il piruvato viene ridotto direttamente a **lattato** (acido lattico) dall'enzima *lattato deidrogenasi*, riossidando il NADH a NAD⁺. Avviene nei batteri lattici (produzione di yogurt) e nelle cellule muscolari umane durante uno sforzo anaerobico intenso in carenza di ossigeno. Il lattato accumulato viene poi riciclato dal fegato.</li>
+                                    <li><strong>Fermentazione Alcolica:</strong> Il piruvato viene inizialmente decarbossilato (perdita di CO₂) in acetaldeide dall'enzima *piruvato decarbossilasi*. Successivamente l'acetaldeide viene ridotta a **etanolo** (alcol etilico) dall'enzima *alcol deidrogenasi*, consumando NADH e rigenerando NAD⁺. Tipica dei lieviti (fermentazione del pane, vino e birra).</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 4: Respirazione Cellulare Aerobica -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">04</span>
+                                <h2>La Respirazione Cellulare Aerobica nei Mitocondri</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>In presenza di ossigeno, il piruvato entra nei mitocondri dove viene completamente ossidato ad anidride carbonica e acqua in tre fasi sequenziali:</p>
+                                <div class="accordion">
+                                    <div class="accordion-item">
+                                        <button class="accordion-trigger">1. Decarbossilazione Ossidativa del Piruvato</button>
+                                        <div class="accordion-content">
+                                            <p>Il piruvato (3C) viene trasportato nella matrice mitocondriale. Qui il complesso multienzimatico della **piruvato deidrogenasi** catalizza la decarbossilazione (rilascio di CO₂) e l'ossidazione del frammento rimasto (riduzione di NAD⁺ a NADH). Il gruppo acetile (2C) risultante viene legato al Coenzima A, formando **Acetil-CoA**.</p>
+                                            <p class="equation">2 Piruvato + 2 Coenzima A + 2 NAD⁺ &rarr; 2 Acetil-CoA + 2 CO₂ + 2 NADH</p>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <button class="accordion-trigger">2. Il Ciclo di Krebs (Ciclo dell'Acido Citrico): Le 8 Tappe Matrice</button>
+                                        <div class="accordion-content">
+                                            <p>Via metabolica ciclica costituita da 8 tappe nella matrice mitocondriale che ossida completamente l'acetile dell'Acetil-CoA a CO₂:</p>
+                                            <ul class="bullet-list">
+                                                <li><strong>Tappa 1:</strong> L'acetile (2C) dell'Acetil-CoA si condensa con l'<strong>ossalacetato (4C)</strong> per dare **citrato (6C)**, acido tricarbossilico (enzima *citrato sintasi*).</li>
+                                                <li><strong>Tappa 2:</strong> Il citrato viene isomerizzato a **isocitrato (6C)** da *aconitasi*.</li>
+                                                <li><strong>Tappa 3:</strong> L'isocitrato subisce decarbossilazione ossidativa (rilascio di CO₂ e riduzione di NAD⁺ a NADH) formando **&alpha;-chetoglutarato (5C)** (*isocitrato deidrogenasi*).</li>
+                                                <li><strong>Tappa 4:</strong> L'&alpha;-chetoglutarato subisce una seconda decarbossilazione ossidativa (rilascio di CO₂ e riduzione di NAD⁺ a NADH) legandosi al Coenzima A per dare **succinil-CoA (4C)** (*&alpha;-chetoglutarato deidrogenasi*).</li>
+                                                <li><strong>Tappa 5:</strong> Il legame tioestere ad alta energia del succinil-CoA viene scisso accoppiando la reazione alla sintesi di **GTP** (poi convertito in ATP) ad opera di *succinil-CoA sintetasi*. Si ottiene **succinato (4C)**.</li>
+                                                <li><strong>Tappa 6:</strong> Il succinato viene ossidato a **fumarato (4C)** riducendo il FAD a **FADH₂** (*succinato deidrogenasi*).</li>
+                                                <li><strong>Tappa 7:</strong> Il fumarato viene idratato a **malato (4C)** da *fumarasi*.</li>
+                                                <li><strong>Tappa 8:</strong> Il malato viene ossidato a **ossalacetato (4C)** riducendo il NAD⁺ a **NADH** (*malato deidrogenasi*). L'ossalacetato rigenerato è pronto per iniziare un nuovo ciclo.</li>
+                                            </ul>
+                                            <p><strong>Bilancio per Glucosio (2 giri del ciclo):</strong> 2 Acetil-CoA &rarr; 4 CO₂ + 6 NADH + 2 FADH₂ + 2 ATP/GTP.</p>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <button class="accordion-trigger">3. La Fosforilazione Ossidativa e la Chemiosmosi</button>
+                                        <div class="accordion-content">
+                                            <p>Avviene sulla membrana mitocondriale interna. Gli elettroni ad alta energia conservati da NADH e FADH₂ vengono ceduti alla **catena di trasporto degli elettroni** (composta da 4 complessi multiproteici, ubichinone e citocromo c). Gli elettroni scendono lungo la catena fino all'ossigeno molecolare (accettore finale), che si riduce ad acqua:</p>
+                                            <p class="equation">&frac12; O₂ + 2 H⁺ + 2 e&macr; &rarr; H₂O</p>
+                                            <p>L'energia liberata dal passaggio di elettroni viene utilizzata dai complessi I, III e IV per pompare attivamente ioni H⁺ dalla matrice allo spazio intermembrana, creando un forte **gradiente elettrochimico (forza proton-motrice)**. Gli H⁺ accumulati possono rientrare nella matrice solo attraversando il canale della **ATP sintasi**. Il flusso di protoni mette in rotazione la porzione F₀ dell'enzima, guidando la sintesi di ATP a partire da ADP e Pi (meccanismo della **chemiosmosi**).</p>
+                                            <p><strong>Bilancio energetico finale:</strong> La respirazione aerobica completa produce circa <strong>32 ATP</strong> per molecola di glucosio, contro i soli 2 ATP prodotti dalla glicolisi anaerobica accoppiata alla fermentazione.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 7 -->
+                        <div class="quiz-card full-width" data-quiz="7">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Il Metabolismo Cellulare</h3>
+                                <span class="quiz-badge">Quiz 7</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Qual è la funzione biologica essenziale delle reazioni di fermentazione (lattica o alcolica) in condizioni di anaerobiosi?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Produrre una quantità di ATP superiore a quella della respirazione cellulare</button>
+                                    <button class="option-btn" data-correct="true">Rigenerare il NAD+ necessario per mantenere attiva la glicolisi</button>
+                                    <button class="option-btn" data-correct="false">Ossidare completamente il glucosio ad anidride carbonica e acqua</button>
+                                    <button class="option-btn" data-correct="false">Sintetizzare molecole di Acetil-CoA per il ciclo di Krebs</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 8: BIOCHIMICA DEL CORPO UMANO -->
+                <section id="biochimica-corpo" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>8. La Biochimica del Corpo Umano</h1>
+                        <p class="section-desc font-large font-large">L'integrazione metabolica dell'organismo: la regolazione della glicemia, la glicogenosintesi e la gluconeogenesi, la beta-ossidazione lipidica, il ciclo dell'urea e la specializzazione degli organi.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Glicemia e Glicogeno -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Glicemia, Glicogeno e Gluconeogenesi</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>La concentrazione di glucosio nel sangue (<strong>glicemia</strong>) è mantenuta costante tra **60 e 99 mg/dL** grazie all'azione coordinata di vie metaboliche regolate da ormoni pancreatici antagonisti:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Glicogenosintesi (Anabolismo):</strong> Avviene dopo un pasto ricco di carboidrati (iperglicemia). L'<strong>insulina</strong> secreta dalle cellule &beta; del pancreas stimola le cellule epatiche e muscolari a convertire il glucosio-6-fosfato in **glicogeno** (polisaccaride di riserva). La sintesi consuma una molecola di **UTP** (uridintrifosfato) per ogni glucosio aggiunto alla catena dall'enzima *glicogeno sintasi* (legame &alpha;-1,4). Un enzima ramificante crea ramificazioni &alpha;-1,6.</li>
+                                    <li><strong>Glicogenolisi (Catabolismo):</strong> Lontano dai pasti (ipoglicemia) o in risposta allo stress, il **glucagone** (secreto dalle cellule &alpha; del pancreas) e l'<strong>adrenalina</strong> inibiscono la glicogenosintesi ed attivano la glicogenolisi. Il glicogeno viene scisso in glucosio-1-fosfato e poi convertito in glucosio-6-fosfato. Nel fegato, l'enzima *glucosio-6-fosfatasi* rimuove il fosfato liberando glucosio nel torrente ematico; nel muscolo, la fosfatasi manca e il glucosio-6-fosfato entra in glicolisi per produrre ATP per la contrazione.</li>
+                                    <li><strong>Gluconeogenesi:</strong> In caso di digiuno prolungato (&gt;18-24 ore), le riserve di glicogeno epatico si esauriscono. Il fegato sintetizza ex-novo glucosio a partire da precursori non saccaridici (acido lattico muscolare, glicerolo dai lipidi, amminoacidi glucogenici). La gluconeogenesi ripercorre al contrario le tappe reversibili della glicolisi; per aggirare le tre tappe irreversibili (1, 3, 10), utilizza enzimi specifici come la *piruvato carbossilasi* (che converte piruvato in ossalacetato) e la *fruttosio-1,6-bisfosfatasi*.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Lipidi e Beta-Ossidazione -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Metabolismo dei Lipidi e Beta-Ossidazione</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I trigliceridi assunti con la dieta vengono emulsionati dai sali biliari nell'intestino ed idrolizzati dalle lipasi in acidi grassi e glicerolo (<strong>lipolisi</strong>). Gli enterociti li riassemblano in <strong>chilomicroni</strong> (lipoproteine) immettendoli nel circolo linfatico e poi sanguigno verso i tessuti.</p>
+                                <h3>La Beta-Ossidazione degli Acidi Grassi</h3>
+                                <p>Avviene nella matrice mitocondriale degli adipociti e delle cellule muscolari/epatiche. Gli acidi grassi vengono attivati legandosi al Coenzima A. Successivamente, un ciclo ripetuto di 4 tappe (ossidazione con produzione di FADH₂, idratazione, ossidazione con produzione di NADH, e tiolisi) accorcia la catena acilica staccando un frammento bicarbonioso di <strong>Acetil-CoA</strong> che entra nel ciclo di Krebs.</p>
+                                <p><em>Ad esempio, per degradare completamente l'acido palmitico (16C) sono necessari 7 cicli di &beta;-ossidazione, che producono **8 Acetil-CoA, 7 NADH e 7 FADH₂**, per un bilancio energetico finale pari a **106 ATP** netti (dopo aver sottratto i 2 ATP spesi per l'attivazione iniziale dell'acido grasso).</em></p>
+                                <div class="concept-note">
+                                    <strong>I Corpi Chetonici:</strong> Durante il digiuno prolungato, l'ossalacetato del ciclo di Krebs viene consumato per fare gluconeogenesi. Senza ossalacetato, l'Acetil-CoA derivante dalla &beta;-ossidazione non può entrare nel ciclo di Krebs. L'accumulo di Acetil-CoA nel fegato porta alla sua conversione in **corpi chetonici** (acetone, acetoacetato e &beta;-idrossibutirrato), molecole idrosolubili che vengono rilasciate nel sangue e utilizzate dal cervello come fonte energetica sostitutiva.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Proteine, Urea e Specializzazione Organi -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Metabolismo delle Proteine, Ciclo dell'Urea e Tessuti</h2>
+                            </div>
+                            <div class="card-body">
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Metabolismo Proteico e Ciclo dell'Urea</h3>
+                                        <p>Le proteine digerite liberano amminoacidi. Il loro catabolismo avviene nel fegato in due fasi:</p>
+                                        <ol class="bullet-list">
+                                            <li><strong>Rimozione del gruppo amminico:</strong> Avviene via <strong>transaminazione</strong> (trasferimento del gruppo amminico a un &alpha;-chetoacido) e <strong>deamminazione ossidativa</strong> (distacco del gruppo amminico con rilascio di ammoniaca NH₃, altamente tossica).</li>
+                                            <li><strong>Il Ciclo dell'Urea:</strong> Il fegato neutralizza la tossicità della NH₃ convertendola in **urea** (composto azotato solubile e non tossico) attraverso una via metabolica ciclica. L'urea viene poi filtrata ed escreta dai reni nell'urina.</li>
+                                            <li>La parte rimanente dell'amminoacido (scheletro carbonioso) viene convertita in intermedi glicolitici o del ciclo di Krebs. Gli amminoacidi si classificano in **glucogenici** (convertibili in glucosio) o **chetogenici** (convertibili in corpi chetonici).</li>
+                                        </ol>
+                                    </div>
+                                    <div>
+                                        <h3>Specializzazione degli Organi</h3>
+                                        <p>Le vie metaboliche sono espresse selettivamente nei diversi tessuti per garantire l'omeostasi dell'organismo:</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>Cervello:</strong> Utilizza costantemente glucosio ematico per il trasporto ionico dei potenziali d'azione. Non accumula riserve energetiche. In digiuno prolungato si adatta a consumare corpi chetonici.</li>
+                                            <li><strong>Fegato:</strong> Centralina metabolica. Regola i livelli di glicemia, sintetizza e demolisce glicogeno, produce acidi grassi, urea, colesterolo e corpi chetonici.</li>
+                                            <li><strong>Muscolo Scheletrico:</strong> Conserva riserve di glicogeno. Produce rapidamente ATP per la contrazione muscolare tramite glicolisi e respirazione (o fermentazione lattica sotto sforzo anaerobico).</li>
+                                            <li><strong>Tessuto Adiposo:</strong> Immagazzina riserve lipidiche (trigliceridi) e le mobilizza rilasciando acidi grassi in risposta al glucagone ed adrenalina.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 8 -->
+                        <div class="quiz-card full-width" data-quiz="8">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: La Biochimica del Corpo Umano</h3>
+                                <span class="quiz-badge">Quiz 8</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Quale ormone viene secreto in condizioni di iperglicemia per favorire la glicogenosintesi nel fegato e nel muscolo?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Glucagone</button>
+                                    <button class="option-btn" data-correct="false">Adrenalina</button>
+                                    <button class="option-btn" data-correct="true">Insulina</button>
+                                    <button class="option-btn" data-correct="false">Cortisolo</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 9: REGOLAZIONE DELL'ESPRESSIONE GENICA -->
+                <section id="regolazione-genica" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>9. La Regolazione dell'Espressione Genica</h1>
+                        <p class="section-desc font-large font-large">Un'analisi molecolare completa: la struttura degli acidi nucleici, la replicazione semiconservativa, la trascrizione e traduzione. Confronto dettagliato tra gli operoni procariotici (lac/trp) e i quattro livelli di controllo eucariotico (epigenetica, splicing alternativo e degradazione ubiquitina-proteasoma).</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Dogma Centrale -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Acidi Nucleici, Replicazione e Sintesi Proteica</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I **nucleotidi** sono i monomeri del DNA e dell'RNA, composti da un gruppo fosfato legato al carbonio 5' dello zucchero (aldopentoso) e da una base azotata legata al carbonio 1' con legame N-glicosidico. Si uniscono tramite ponti fosfodiestere tra l'ossidrile in 3' di un nucleotide e il fosfato in 5' del successivo.</p>
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Replicazione del DNA (Semiconservativa)</h3>
+                                        <p>Una polimerizzazione dipendente da stampo in cui intervengono diversi enzimi:</p>
+                                        <ul class="bullet-list">
+                                            <li>L'<strong>elicasi</strong> separa la doppia elica rompendo i legami idrogeno.</li>
+                                            <li>La <strong>primasi</strong> sintetizza un breve primer a RNA (innesco).</li>
+                                            <li>La <strong>DNA polimerasi</strong> aggiunge nucleotidi al 3'-OH libero dello stampo.</li>
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <h3>Trascrizione e Traduzione (Codice Genetico)</h3>
+                                        <ul class="bullet-list">
+                                            <li><strong>Trascrizione:</strong> L'RNA polimerasi si lega al **promotore** sul DNA, apre l'elica e trascrive il filamento stampo in mRNA fino a raggiungere il **terminatore**.</li>
+                                            <li><strong>Traduzione:</strong> I ribosomi leggono l'mRNA a triplette di nucleotidi (**codoni**). Il codice genetico assegna a ciascun codone un amminoacido. Il tRNA funge da adattatore grazie all'anticodone complementare.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Procarioti (Operoni) -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Regolazione nei Procarioti: Operone Lac e Operone Trp</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Nei procarioti i geni correlati sono organizzati in **operoni** (un unico promotore, un operatore e geni strutturali contigui):</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Operone Lattosio (lac) - Inducibile:</strong> Codifica gli enzimi per metabolizzare il lattosio. Normalmente spento: il repressore (prodotto dal gene regolatore *i*) è legato all'operatore impedendo la trascrizione. In presenza di lattosio, l'<strong>allolattosio</strong> (induttore) si lega al repressore alterandone la conformazione. Il repressore inattivo si stacca dall'operatore e l'RNA polimerasi può trascrivere i geni strutturali.</li>
+                                    <li><strong>Operone Triptofano (trp) - Reprimibile:</strong> Codifica gli enzimi per sintetizzare il triptofano. Normalmente attivo: il repressore ha una forma che gli impedisce di legarsi all'operatore. Quando il triptofano si accumula, agisce come **co-repressore** legandosi al repressore e attivandolo. Il repressore attivo si lega all'operatore, spegnendo la via metabolica per risparmiare energia.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Eucarioti (I 4 Livelli) -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Regolazione negli Eucarioti: I Quattro Livelli Molecolari</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Negli eucarioti i geni non sono in operoni e la regolazione avviene a più livelli:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>1. Regolazione Pre-trascrizionale (Epigenetica):</strong> Riguarda l'impacchettamento del DNA attorno agli istoni (cromatina).
+                                        <br>&bull; *Eucromatina:* Meno compatta, accessibile alla trascrizione.
+                                        <br>&bull; *Eterocromatina:* Molto compatta (geni silenziati).
+                                        <br>&bull; *Codice istonico:* L'<strong>acetilazione degli istoni</strong> rilassa la cromatina favorendo l'espressione; la <strong>metilazione</strong> (sia di istoni che di citosine del DNA nel promotore) condensa la cromatina, inibendo la trascrizione.
+                                    </li>
+                                    <li><strong>2. Regolazione Trascrizionale:</strong> L'RNA polimerasi richiede l'assemblaggio di **fattori generali di trascrizione** sulla sequenza <strong>TATA box</strong> per formare il complesso di trascrizione. Proteine regolatrici specifiche si legano a sequenze sul DNA dette **enhancer** (stimolano la velocità piegando il DNA) o **silencer** (inibiscono il legame).</li>
+                                    <li><strong>3. Regolazione Post-trascrizionale:</strong> Maturazione del pre-mRNA nel nucleo:
+                                        <br>&bull; <strong>Splicing:</strong> Lo *spliceosoma* taglia le sequenze non codificanti (**introni**) e unisce quelle codificanti (**esoni**).
+                                        <br>&bull; <strong>Splicing Alternativo:</strong> Consente di unire gli esoni in combinazioni differenti per produrre proteine diverse a partire da un singolo trascritto primario, risparmiando spazio nel genoma.
+                                        <br>&bull; Aggiunta del cappuccio 5' (guanina metilata per l'esportazione nucleare) e della coda Poly-A al 3' (adenine per la stabilità nel citoplasma).
+                                    </li>
+                                    <li><strong>4. Regolazione Post-traduzionale:</strong> Modificazioni chimiche (fosforilazione, metilazione), tagli proteolitici (es. attivazione dell'insulina), e la **degradazione delle proteine** tramite marcatura con **ubiquitina** e successiva demolizione nel **proteasoma**.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Interactive: Operon Simulator Widget -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">04</span>
+                                <h2>Laboratorio: Simulatore Interattivo di Operone</h2>
+                            </div>
+                            <div class="card-body">
+                                <p class="helper-text">Simula il funzionamento degli operoni procariotici lac e trp attivando/disattivando i fattori ambientali:</p>
+                                <div class="operon-simulator">
+                                    <div class="sim-controls">
+                                        <div class="sim-selector">
+                                            <button class="sim-btn active" id="selectLac" onclick="selectOperon('lac')">Operone Lattosio (lac)</button>
+                                            <button class="sim-btn" id="selectTrp" onclick="selectOperon('trp')">Operone Triptofano (trp)</button>
+                                        </div>
+                                        <div class="sim-switches" id="simSwitches">
+                                            <!-- Switches populated dynamically -->
+                                            <label class="switch-container">
+                                                <input type="checkbox" id="envFactor" onchange="toggleEnvFactor()">
+                                                <span class="switch-slider"></span>
+                                                <span class="switch-label" id="envFactorLabel">Presenza Lattosio</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="sim-visualizer">
+                                        <div class="operon-gene-strip">
+                                            <div class="gene-block promoter">Promotore</div>
+                                            <div class="gene-block operator" id="simOperator">Operatore</div>
+                                            <div class="gene-block structural">Geni Strutturali</div>
+                                        </div>
+                                        <div class="sim-animation-area">
+                                            <div class="repressor-protein" id="simRepressor">Repressore</div>
+                                            <div class="rna-poly" id="simRnaPoly">RNA Polimerasi</div>
+                                        </div>
+                                        <div class="sim-status-banner" id="simStatus">
+                                            Stato: Trascrizione Spenta (Operone represso)
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 9 -->
+                        <div class="quiz-card full-width" data-quiz="9">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Regolazione Genica</h3>
+                                <span class="quiz-badge">Quiz 9</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">In quale livello di regolazione dell'espressione genica negli eucarioti agisce il meccanismo dello splicing alternativo?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Regolazione pre-trascrizionale (epigenetica)</button>
+                                    <button class="option-btn" data-correct="false">Regolazione trascrizionale</button>
+                                    <button class="option-btn" data-correct="true">Regolazione post-trascrizionale</button>
+                                    <button class="option-btn" data-correct="false">Regolazione post-traduzionale</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 10: FOTOSINTESI -->
+                <section id="fotosintesi" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>10. La Fotosintesi</h1>
+                        <p class="section-desc font-large font-large">La termodinamica della fotosintesi clorofilliana: il flusso di elettroni (schema Z) e la fotofosforilazione nei tilacoidi, la fissazione della CO₂ nel ciclo di Calvin e gli adattamenti vegetali (C3, C4 e CAM).</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Caratteri Generali -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Caratteri Generali ed Equazione Globale</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>La fotosintesi è il processo anabolico che consente di catturare l'energia luminosa e di utilizzarla per sintetizzare carboidrati a partire da diossido di carbonio e acqua. Avviene all'interno dei cloroplasti.</p>
+                                <div class="concept-note">
+                                    <span class="equation">6 CO₂ + 6 H₂O + Energia Luminosa &rarr; C₆H₁₂O₆ + 6 O₂</span>
+                                    <br><strong>Origine dell'ossigeno:</strong> Dimostrato nel 1941 da Ruben e Kamen tramite esperimenti con l'isotopo pesante ¹⁸O. Utilizzando acqua marcata (H₂¹⁸O) e CO₂ normale, l'ossigeno gassoso liberato risultava radioattivo, provando che l'O₂ deriva interamente dalla fotolisi dell'acqua.
+                                </div>
+                                <p>Le reazioni fotosintetiche si dividono in due fasi compartimentate:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Fase Dipendente dalla Luce (Tilacoidi):</strong> Avviene sulla membrana tilacoidale. Produce ATP e NADPH rilasciando ossigeno molecolare O₂.</li>
+                                    <li><strong>Fase Indipendente dalla Luce (Stroma):</strong> Avviene nello stroma del cloroplasto (Ciclo di Calvin). Utilizza ATP e NADPH per fissare il CO₂ atmosferico in zuccheri complessi.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Fase Luminosa -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>La Fase Luminosa e lo Schema Z</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Le membrane dei tilacoidi contengono pigmenti (clorofilla a e b con anello porfirinico coordinante Mg²⁺ e coda idrocarburica; carotenoidi accessori) organizzati in **fotosistemi** (sistema antenna + centro di reazione):</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Fotosistema II (PSII, clorofilla P680):</strong> Assorbe fotoni a 680 nm. La clorofilla si eccita e cede elettroni a un accettore primario. Il vuoto elettronico del P680 viene colmato dagli elettroni derivanti dalla **fotolisi dell'acqua** (reazione catalizzata da un complesso contenente manganese):
+                                        <br><span class="equation">H₂O &rarr; 2 H⁺ + &frac12; O₂ + 2 e&macr;</span>
+                                    </li>
+                                    <li><strong>Catena di trasporto:</strong> Gli elettroni passano dall'accettore primario del PSII al fotosistema I attraverso una catena di trasporto degli elettroni (plastochinone, citocromi, plastocianina). L'energia liberata viene usata per pompare protoni H⁺ nel lume del tilacoide, creando un gradiente protonico che alimenta l'ATP sintasi (**fotofosforilazione**).</li>
+                                    <li><strong>Fotosistema I (PSI, clorofilla P700):</strong> Assorbe a 700 nm. I fotoni eccitano la clorofilla P700 che cede elettroni. Questo vuoto è colmato dagli elettroni della catena di trasporto. Gli elettroni eccitati del PSI passano alla ferredossina e vengono usati dall'enzima *NADP⁺ reduttasi* per sintetizzare **NADPH**.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Fase Oscura e Adattamenti -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Fase Oscura (Ciclo di Calvin) ed Adattamenti Evolutivi</h2>
+                            </div>
+                            <div class="card-body">
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Il Ciclo di Calvin (Stromale)</h3>
+                                        <p>Fissa la CO₂ in carboidrati stabili in tre fasi cicliche:</p>
+                                        <ol class="bullet-list">
+                                            <li><strong>Fissazione del carbonio:</strong> L'enzima **RuBisCO** (ribulosio-1,5-bisfosfato carbossilasi/ossigenasi) lega la CO₂ al **ribulosio-1,5-bisfosfato (RuBP, 5C)**. Si forma un intermedio instabile (6C) che si scinde in due molecole di **3-fosfoglicerato (3PG, 3C)**.</li>
+                                            <li><strong>Riduzione:</strong> Ciascuna molecola di 3PG viene fosforilata da ATP e ridotta da NADPH a **gliceraldeide-3-fosfato (G3P)**.</li>
+                                            <li><strong>Rigenerazione del RuBP:</strong> Di 12 molecole di G3P prodotte (da 6 CO₂ fissate), 10 vengono utilizzate (consumando ATP) per rigenerare il RuBP di partenza. Le restanti 2 molecole di G3P escono dal ciclo per formare **una molecola di glucosio**.</li>
+                                        </ol>
+                                        <p><em>Fabbisogno per 1 Glucosio: 6 CO₂, 18 ATP, 12 NADPH.</em></p>
+                                    </div>
+                                    <div>
+                                        <h3>Adattamenti Vegetali</h3>
+                                        <p>In base all'ambiente climatico le piante presentano vie diverse di fissazione della CO₂:</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>Piante C3:</strong> Fissano la CO₂ direttamente in 3PG (3C). In climi caldi e secchi chiudono gli stomi per limitare la traspirazione d'acqua; questo accumula ossigeno e avvia la **fotorespirazione** (la RuBisCO reagisce con O₂ invece che con CO₂ sprecando ATP).</li>
+                                            <li><strong>Piante C4:</strong> Separazione spaziale. Nel mesofillo l'enzima *PEP carbossilasi* lega la CO₂ al fosfoenolpiruvato formando **ossalacetato (4C)**. Il malato migra nelle cellule della guaina del fascio, dove viene decarbossilato rilasciando CO₂ concentrata per la RuBisCO. Non subiscono fotorespirazione.</li>
+                                            <li><strong>Piante CAM (Crassulacee):</strong> Separazione temporale. Aprono gli stomi <strong>di notte</strong> (fissando CO₂ in acido malico nei vacuoli) e li chiudono <strong>di giorno</strong> per evitare la disidratazione, decarbossilando il malato per alimentare il ciclo di Calvin con la luce.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 10 -->
+                        <div class="quiz-card full-width" data-quiz="10">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: La Fotosintesi</h3>
+                                <span class="quiz-badge">Quiz 10</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Quali sono i prodotti energetici della fase luminosa della fotosintesi che vengono successivamente utilizzati per alimentare il ciclo di Calvin?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Glucosio e Ossigeno</button>
+                                    <button class="option-btn" data-correct="true">ATP e NADPH</button>
+                                    <button class="option-btn" data-correct="false">ADP e NADP+</button>
+                                    <button class="option-btn" data-correct="false">Rubisco e Ribulosio</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 11: GENETICA DEI VIRUS -->
+                <section id="genetica-virus" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>11. La Genetica dei Virus</h1>
+                        <p class="section-desc font-large font-large">La genetica dei parassiti cellulari obbligati: i cicli riproduttivi dei batteriofagi (litico/lisogeno), la biologia molecolare dei retrovirus (HIV), la genetica batterica (coniugazione, trasformazione, trasduzione) e la trasposizione genica.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Struttura e Batteriofagi -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Biologia dei Virioni e Cicli dei Fagi</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I virus sono parassiti endocellulari obbligati privi di metabolismo autonomo. Il **virione** (la particella virale esterna ed inerte) è costituito da: genoma (DNA o RNA), rivestimento proteico (**capside**) ed eventuale involucro lipidico esterno (**pericapside**).</p>
+                                <h3>Ciclo dei Batteriofagi (Virus dei Batteri):</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Ciclo Litico:</strong> Il fago inetta il proprio DNA. Vengono trascritti i *geni precoci* (le cui proteine bloccano i geni dell'ospite e duplicano il genoma virale) e poi i *geni tardivi* (che codificano le proteine del capside ed enzimi litici). I virioni assemblati escono provocando la lisi del batterio.</li>
+                                    <li><strong>Ciclo Lisogeno:</strong> Il DNA virale si integra nel cromosoma batterico ospite come **profago**. Rimane latente e si duplica silente con il genoma dell'ospite ad ogni divisione cellulare. In risposta a stress ambientali (es. raggi UV che danneggiano il batterio), il profago si distacca dal cromosoma ed avvia il ciclo litico.
+                                        <br><em>La scelta tra lisi e lisogenia è regolata dall'equilibrio competitivo di due repressori proteici virali: <strong>cI</strong> (promuove lo stato lisogeno) e <strong>Cro</strong> (promuove il ciclo litico).</em>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Virus Eucariotici -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Virus Eucariotici: Influenza A ed HIV</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>I virus eucariotici si distinguono in virus a DNA ed a RNA:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Influenzavirus A:</strong> Virus a RNA singolo filamento. Penetra per endocitosi. Il pericapside si fonde con la membrana endosomiale rilasciando il genoma. Possiede una propria **RNA polimerasi RNA-dipendente** che sintetizza RNA sia come stampo genomico sia come mRNA codificante nel citoplasma.</li>
+                                    <li><strong>Retrovirus (es. HIV):</strong> Virus a RNA singolo filamento. Possiede la <strong>trascrittasi inversa</strong>, una DNA polimerasi in grado di sintetizzare un filamento di cDNA a partire dall'RNA genomico virale. Il cDNA viene convertito a doppio filamento, entra nel nucleo e si integra nel DNA ospite come *provirus* (stato di latenza).
+                                        <br>Quando si attiva, produce le proteine regolatrici <strong>Tat</strong> (amplifica la trascrizione del genoma virale) e <strong>Rev</strong>. Rev si lega all'RNA virale integro e ne maschera le giunzioni di splicing, permettendo l'esportazione nucleare dell'RNA completo necessario per assemblare nuovi virioni.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Trasferimento Genetico nei Batteri -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Genetica Batterica: Meccanismi di Trasferimento Orizzontale</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Il genoma batterico è formato da un cromosoma circolare ed eventuali **plasmidi** (anelli di DNA extracromosomici, es. plasmidi R di resistenza agli antibiotici). La variabilità genetica è garantita da tre processi di trasferimento genico orizzontale:</p>
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h3>Coniugazione e Trasformazione</h3>
+                                        <p>&bull; <strong>Coniugazione:</strong> Trasferimento di DNA plasmidico da un batterio donatore (F⁺) a uno ricevente (F&macr;) attraverso un <strong>pilo sessuale</strong>. Se il plasmide F si integra nel cromosoma principale del donatore (cellula Hfr), durante la coniugazione viene trasferito anche un frammento del cromosoma batterico adiacente, che ricombina nel ricevente per ricombinazione omologa (crossing-over).</p>
+                                        <p>&bull; <strong>Trasformazione:</strong> Assorbimento di DNA libero presente nell'ambiente da parte di batteri dotati di *fattori di competenza*. Il DNA a singolo filamento entra nella cellula e si integra nel cromosoma.</p>
+                                    </div>
+                                    <div>
+                                        <h3>Trasduzione e Trasposoni</h3>
+                                        <p>&bull; <strong>Trasduzione:</strong> Trasferimento mediato da batteriofagi.
+                                            <br><em>Generalizzata (ciclo litico):</em> Frammenti casuali di DNA batterico dell'ospite idrolizzato vengono racchiusi nel capside virale per errore.
+                                            <br><em>Specializzata (ciclo lisogeno):</em> Durante il distacco impreciso del profago dal cromosoma batterico, il virus trascina con sé geni batterici specifici contigui al sito di inserimento.
+                                        </p>
+                                        <p>&bull; <strong>Trasposoni:</strong> Elementi genetici in grado di spostarsi da un sito all'altro del genoma in modo conservativo (taglia e incolla) o replicativo (copia e incolla) tramite l'enzima *trasposasi*. Nei retrotrasposoni eucariotici lo spostamento avviene tramite un intermedio a RNA e l'azione della trascrittasi inversa.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 11 -->
+                        <div class="quiz-card full-width" data-quiz="11">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Genetica dei Virus</h3>
+                                <span class="quiz-badge">Quiz 11</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Quale enzima caratterizza i retrovirus (come l'HIV) consentendo la conversione del loro genoma a RNA in DNA a doppio filamento?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">RNA polimerasi RNA-dipendente</button>
+                                    <button class="option-btn" data-correct="true">Trascrittasi inversa (DNA polimerasi RNA-dipendente)</button>
+                                    <button class="option-btn" data-correct="false">DNA ligasi</button>
+                                    <button class="option-btn" data-correct="false">Elicasi</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 12: INGEGNERIA GENETICA E BIOTECNOLOGIE -->
+                <section id="ingegneria-genetica" class="topic-section" data-discipline="biology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Biologia</span>
+                        <h1>12. Ingegneria Genetica e Biotecnologie</h1>
+                        <p class="section-desc font-large font-large">La manipolazione del genoma: la tecnologia del DNA ricombinante (enzimi di restrizione, vettori plasmidici, trasformazione), genoteche di cDNA, la PCR, il sequenziamento di Sanger e le applicazioni bio-mediche (pharming, topi transgenici KI/KO, terapia genica).</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: DNA Ricombinante -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>La Tecnologia del DNA Ricombinante e del Clonaggio</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Il **clonaggio genico** consente di isolare un gene di interesse e ottenerne milioni di copie. Si articola in quattro fasi:</p>
+                                <ol class="bullet-list">
+                                    <li><strong>Taglio del DNA:</strong> Le **endonucleasi di restrizione** (es. *EcoRI*) tagliano il DNA in corrispondenza di specifiche sequenze palindrome, producendo estremità coesive (*sticky ends*) o piatte idrolizzando il legame fosfodiesterico. I frammenti sono separati per dimensione tramite **elettroforesi su gel** (il DNA, carico negativamente, migra nel gel verso il polo positivo).</li>
+                                    <li><strong>Inserimento nel vettore:</strong> Il frammento viene saldato da una **DNA ligasi** (che ricostruisce il legame fosfodiestere) all'interno di un vettore di clonaggio (es. plasmide). Il vettore deve contenere un'origine di replicazione, geni per la resistenza ad antibiotici (marcatori di selezione) ed un sito multiplo di clonaggio (polilinker).</li>
+                                    <li><strong>Trasformazione:</strong> Il plasmide ricombinante viene inserito nella cellula ospite (batterio per trasformazione indotta da calore o elettroporazione; cellule animali per microiniezione; cellule vegetali tramite *biolistica*, sparando microproiettili d'oro carichi di DNA).</li>
+                                </ol>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: PCR e Sequenziamento -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>PCR e Sequenziamento di Sanger</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>PCR (Reazione a Catena della Polimerasi)</h3>
+                                <p>Consente di amplificare in vitro una specifica sequenza genica. La miscela contiene il DNA stampo, due inneschi a singolo filamento (**primer**), desossinucleotidi (dNTPs) ed una **DNA polimerasi termoresistente** (*Taq polimerasi*). Si alternano ciclicamente tre temperature:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Denaturazione (~95°C):</strong> I due filamenti di DNA si separano.</li>
+                                    <li><strong>Appaiamento / Annealing (~55°C):</strong> I primer si legano alle sequenze complementari.</li>
+                                    <li><strong>Allungamento (~72°C):</strong> La Taq polimerasi sintetizza il filamento complementare.</li>
+                                </ul>
+                                <h3>Sequenziamento del DNA (Metodo di Sanger)</h3>
+                                <p>Determina la sequenza nucleotidica. Simile alla PCR, ma utilizza in aggiunta una frazione di **dideossinucleotidi (ddNTPs)** marcati con fluorocromi. I ddNTPs sono privi del gruppo ossidrilico in 3'-OH: l'inserimento di un ddNTP nella catena nascente blocca irreversibilmente l'allungamento. I frammenti prodotti vengono separati tramite elettroforesi capillare e letti da un rilevatore di fluorescenza.</p>
+                                <p>Le **genoteche (librerie genomiche)** contengono l'intero genoma frammentato di un organismo; le librerie di cDNA contengono solo i geni espressi convertiti da mRNA via transcrittasi inversa. Lo screening delle colonie avviene tramite *sonde di ibridazione* a DNA radioattivo complementare.</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Applicazioni Mediche ed Ambientali -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Applicazioni Biotecnologiche</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Le biotecnologie moderne trovano applicazione in molteplici settori:</p>
+                                <div class="table-container">
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                                <th>Campo d'Applicazione</th>
+                                                <th>Tecnologia e Descrizione</th>
+                                                <th>Esempi Pratici</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td><strong>Farmaci e Terapie</strong></td>
+                                                <td>Utilizzo di vettori di espressione (plasmidi contenenti promotori e terminatori dell'organismo ospite) per produrre proteine ricombinanti in bioreattori batterici.
+                                                    <br>&bull; <strong>Pharming:</strong> Animali transgenici (es. capre) modificati per secernere farmaci ed anticoagulanti (es. antitrombina) nel proprio latte.
+                                                    <br>&bull; <strong>Terapia genica:</strong> Sostituzione di geni non funzionali o mutati con copie sane (es. deficit ADA).
+                                                </td>
+                                                <td>Produzione di insulina umana ricombinante; Vaccini a mRNA incapsulati in nanoparticelle lipidiche.</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Modelli di Ricerca</strong></td>
+                                                <td>Topi geneticamente modificati per lo studio di patologie umane.
+                                                    <br>&bull; <strong>Knock-in (KI):</strong> Topi in cui viene inserito un gene patogeno umano assente nel topo.
+                                                    <br>&bull; <strong>Knock-out (KO):</strong> Topi in cui viene inattivato un gene marcatore (es. KO del gene della leptina &rarr; obesità).
+                                                </td>
+                                                <td>Studio delle mutazioni oncogene umane; meccanismi fisiologici di sazietà.</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Agricoltura</strong></td>
+                                                <td>Piante geneticamente modificate (OGM) per migliorarne le proprietà nutrizionali o la resistenza.</td>
+                                                <td>Piante Bt (resistenti ai parassiti); Golden Rice (arricchito in pro-vitamina A per contrastare la cecità).</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Ambiente ed Energia</strong></td>
+                                                <td>Biorisanamento tramite microrganismi OGM per degradare idrocarburi o metalli pesanti. Produzione di biocombustibili (bioetanolo, biodiesel) da fermentazione di biomasse cellulosiche vegetali.</td>
+                                                <td>Biosensori batterici ambientali; degradatori enzimatici di cellulosa.</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 12 -->
+                        <div class="quiz-card full-width" data-quiz="12">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Ingegneria Genetica</h3>
+                                <span class="quiz-badge">Quiz 12</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Qual è il ruolo dei dideossinucleotidi (ddNTPs) nel metodo di sequenziamento del DNA di Sanger?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">Fungere da innesco primario per l'avvio della polimerizzazione</button>
+                                    <button class="option-btn" data-correct="false">Saldare i legami fosfodiestere tra esoni ed introni</button>
+                                    <button class="option-btn" data-correct="true">Bloccare l'allungamento della catena poiché sono privi del gruppo ossidrile 3'-OH</button>
+                                    <button class="option-btn" data-correct="false">Mantenere stabile la doppia elica a temperature elevate di 95°C</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+
+                <!-- TOPIC 13: GEOLOGIA E TETTONICA DELLE PLACCHE -->
+                <section id="geologia" class="topic-section" data-discipline="geology">
+                    <div class="section-banner">
+                        <span class="discipline-badge">Geologia</span>
+                        <h1>13. Geologia e Tettonica delle Placche</h1>
+                        <p class="section-desc font-large font-large">La geodinamica terrestre: lo studio sismico (onde P/S) ed i gusci interni, discontinuità e isostasia, il gradiente geotermico, la dinamo ad autoeccitazione ed il paleomagnetismo. Dalla deriva dei continenti alla tettonica globale delle placche litosferiche.</p>
+                    </div>
+
+                    <div class="grid-layout">
+                        <!-- Card 1: Onde Sismiche -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">01</span>
+                                <h2>Struttura Interna della Terra e Onde Sismiche</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>La conoscenza dell'interno terrestre deriva quasi esclusivamente da evidenze fisiche indirette, in primis la propagazione delle **onde sismiche** che subiscono fenomeni di rifrazione deviazione nei passaggi tra mezzi differenti:</p>
+                                <ul class="bullet-list">
+                                    <li><strong>Onde P (Primarie, longitudinali):</strong> Si propagano sia nei solidi che nei liquidi comprimendo la roccia. La loro velocità aumenta all'aumentare di rigidità ed elasticità del mezzo.</li>
+                                    <li><strong>Onde S (Secondarie, trasversali):</strong> Si propagano <strong>esclusivamente nei solidi</strong> inducendo deformazioni di taglio.</li>
+                                </ul>
+                                <h3>Superfici di discontinuità sismica:</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Mohorovičić (Moho):</strong> Separa la crosta dal mantello superiore. Provoca un brusco incremento di velocità delle onde. La sua profondità rispecchia specularmente i rilievi in superficie (sprofonda sotto le montagne).</li>
+                                    <li><strong>Gutenberg (~2900 km):</strong> Separa il mantello dal nucleo esterno. Determina la scomparsa delle onde S ed un netto calo di velocità delle onde P, dimostrando lo <strong>stato liquido del nucleo esterno</strong> (composto da lega ferro-nichel). Genera una vasta *zona d'ombra*.</li>
+                                    <li><strong>Lehmann (~5170 km):</strong> Separa il nucleo esterno da quello interno. Le onde P accelerano bruscamente e si rigenerano onde S localizzate, dimostrando la **natura solida del nucleo interno** (lega Fe-Ni solida prossima al punto di fusione).</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Card 2: Suddivisione e Isostasia -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">02</span>
+                                <h2>Crosta, Mantello, Nucleo ed Equilibrio Isostatico</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>Suddivisione Reologica (Comportamento Meccanico):</h3>
+                                <ul class="bullet-list">
+                                    <li><strong>Litosfera:</strong> Involucro esterno rigido. Comprende la crosta terrestre (continentale, densità 2.7, spessa, antica; ed oceanica, densità 3.0, sottile 5-15km, giovane &lt;200Ma) ed il mantello litosferico (*lid*). È divisa in placche.</li>
+                                    <li><strong>Astenosfera:</strong> Mantello superiore plastico e parzialmente fuso. Coincide con la zona di bassa velocità (LVZ) in cui si generano i magmi primari risalenti.</li>
+                                    <li><strong>Mesosfera:</strong> Mantello inferiore rigido e poco deformabile.</li>
+                                </ul>
+                                <h3>Principio dell'Isostasia</h3>
+                                <p>Modello di galleggiamento idrostatico della litosfera continentale (meno densa) sull'astenosfera più densa e plastica. L'aumento di spessore crostale dovuto all'orogenesi spinge la crosta a sprofondare nel mantello creandosi profonde "radici" crostali. L'erosione superficiale rimuove massa provocando una lenta risalita isostatica (innalzamento). Il peso dei ghiacciai induce subsidenza (depressione), seguita da lento sollevamento post-glaciale al loro scioglimento (es. Scandinavia, che si solleva di 2 cm/anno).</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 3: Calore e Magnetismo -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">03</span>
+                                <h2>Calore Interno e Campo Magnetico Terrestre</h2>
+                            </div>
+                            <div class="card-body">
+                                <h3>Calore Interno</h3>
+                                <p>Deriva dal **calore primordiale** (energia cinetica e gravitazionale immagazzinata durante l'accrezione del pianeta) e dal **calore radiogenico** prodotto dal decadimento naturale degli isotopi radioattivi delle rocce attuali (Uranio-238/235, Torio-232, Potassio-40). L'aumento di temperatura ogni 100 metri di profondità è detto **gradiente geotermico** (medio: 2-3°C/100m). La curva temperatura-profondità è la *geoterma*.</p>
+                                <h3>Campo Magnetico Terrestre (CMT)</h3>
+                                <p>Spiegato con il modello della **dinamo ad autoeccitazione**. I metalli fusi conduttori del nucleo esterno liquido, riscaldati dai moti convettivi e messi in rotazione dall'effetto Coriolis (rotazione terrestre), fungono da rotore di una dinamo. Il campo magnetico primordiale solare ha innescato il sistema, che ora si automantiene.</p>
+                                <p>Il **paleomagnetismo** fossilizza l'orientazione del CMT nei minerali ferromagnetici (es. magnetite) delle rocce magmatiche raffreddate sotto il *punto di Curie* (~500°C). Ha svelato che i continenti si sono spostati nel tempo (deriva) e che periodicamente il campo subisce **inversione di polarità** (il polo nord magnetico diventa polo sud e viceversa).</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 4: Dinamica delle Placche -->
+                        <div class="info-card">
+                            <div class="card-header">
+                                <span class="card-number">04</span>
+                                <h2>Deriva dei Continenti ed Espansione dei Fondali Oceanici</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>Nel 1912 Wegener formulò la **deriva dei continenti**: circa 200 milioni di anni fa le terre erano unite nel supercontinente **Pangea** (circondato dall'oceano **Panthalassa**), poi fratturatosi in Laurasia e Gondwana. Raccolse prove morfologiche (incastro coste Africa-Sud America), paleontologiche (fossili di *Mesosaurus* e *Glossopteris*), geologiche e paleoclimatiche (tilliti glaciali in zone tropicali). Mancava tuttavia una spiegazione fisica del motore del movimento.</p>
+                                <p>Nel 1960 Hess propose la teoria dell'<strong>espansione dei fondi oceanici</strong>: le dorsali oceaniche sono i rami caldi ascendenti dei moti convettivi del mantello. Il magma basaltico risale nella *rift valley*, solidifica a cuscini (*pillow lavas*) e si espande lateralmente. La crosta oceanica vecchia viene riassorbita nelle fosse oceaniche per subduzione. Le prove sono: la simmetria delle **anomalie magnetiche positive e negative a bande parallele** speculari all'asse della dorsale, e l'età dei sedimenti che aumenta allontanandosi dalla dorsale.</p>
+                            </div>
+                        </div>
+
+                        <!-- Card 5: Margini e Orogenesi -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">05</span>
+                                <h2>La Tettonica delle Placche ed i Tre Margini</h2>
+                            </div>
+                            <div class="card-body">
+                                <p>La litosfera è frammentata in placche che si muovono sull'astenosfera. I confini delle placche (dove si localizza l'attività sismica e vulcanica) si dividono in tre tipi:</p>
+                                <div class="two-col-grid">
+                                    <div>
+                                        <h4>1. Margini Divergenti (o Costruttivi)</h4>
+                                        <p>Le placche si allontanano. La risalita di magma astenosferico genera nuova crosta oceanica.
+                                            <br><em>Fasi: inarcamento continentale &rarr; rifting con fossa tettonica (Rift Valley africana) &rarr; ingresso delle acque (Mar Rosso) &rarr; oceano vero e proprio con dorsale medio-oceanica (Atlantico). I margini continentali che ne derivano sono stabili (margini passivi).</em>
+                                        </p>
+                                        <h4>2. Margini Conservativi (o Trasformi)</h4>
+                                        <p>Le placche scorrono lateralmente l'una a fianco dell'altra lungo faglie trascorrenti (es. faglia di San Andreas). Non si ha né creazione né consumo di litosfera. Sede di forti terremoti.</p>
+                                    </div>
+                                    <div>
+                                        <h4>3. Margini Convergenti (o Distruttivi)</h4>
+                                        <p>Le placche collidono in tre scenari:</p>
+                                        <ul class="bullet-list">
+                                            <li><strong>Litosfera Oceanica - Litosfera Continentale:</strong> La placca oceanica più densa e sottile va in <strong>subduzione</strong> sprofondando sotto la continentale. Si forma una *fossa oceanica*, terremoti lungo il *piano di Benioff* e risalita di magmi andesitici che formano un *arco magmatico vulcanico continentale* (es. catena delle Ande).</li>
+                                            <li><strong>Litosfera Oceanica - Litosfera Oceanica:</strong> Una delle due placche subduce sotto l'altra, generando un **arco insulare vulcanico** (es. Giappone, Aleutine) ed un bacino di retroarco.</li>
+                                            <li><strong>Litosfera Continentale - Litosfera Continentale:</strong> Avendo densità simili, nessuna va in subduzione. Si ha una collisione continentale con **orogenesi** (formazione di catene montuose, es. Alpi, Himalaya). La collisione provoca raddoppio crostale; residui di crosta oceanica non subdotti formano le **ofioliti** (rocce di antico fondale oceanico scomparso).</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Interactive: Tectonic Plate Boundary Simulator -->
+                        <div class="info-card full-width">
+                            <div class="card-header">
+                                <span class="card-number">06</span>
+                                <h2>Laboratorio: Simulatore di Margini di Placca</h2>
+                            </div>
+                            <div class="card-body">
+                                <p class="helper-text">Seleziona una tipologia di margine per visualizzarne la dinamica reologica e geologica:</p>
+                                <div class="tectonics-simulator">
+                                    <div class="sim-controls">
+                                        <button class="sim-btn active" onclick="selectBoundary('divergent')">Margine Divergente</button>
+                                        <button class="sim-btn" onclick="selectBoundary('subduction')">Subduzione (Oceano-Cont.)</button>
+                                        <button class="sim-btn" onclick="selectBoundary('collision')">Collisione (Cont.-Cont.)</button>
+                                    </div>
+                                    <div class="tectonics-visualizer" id="tectonicsVisualizer">
+                                        <!-- Interactive SVG or Animation rendered dynamically -->
+                                        <div class="tectonic-plate plate-left" id="plateL">Placca A</div>
+                                        <div class="tectonic-plate plate-right" id="plateR">Placca B</div>
+                                        <div class="magma-chamber" id="magmaChamber">Magma</div>
+                                    </div>
+                                    <div class="sim-status-banner" id="boundaryStatus">
+                                        Margine Divergente: Allontanamento delle placche con espansione dei fondi e formazione di nuova crosta.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Section for Topic 13 -->
+                        <div class="quiz-card full-width" data-quiz="13">
+                            <div class="quiz-header">
+                                <h3>Verifica di Comprensione: Geologia</h3>
+                                <span class="quiz-badge">Quiz 13</span>
+                            </div>
+                            <div class="quiz-body">
+                                <p class="question">Quale discontinuità sismica impedisce totalmente la propagazione delle onde trasversali S, dimostrando che il nucleo esterno è liquido?</p>
+                                <div class="options-container">
+                                    <button class="option-btn" data-correct="false">La discontinuità di Mohorovičić (Moho)</button>
+                                    <button class="option-btn" data-correct="true">La discontinuità di Gutenberg</button>
+                                    <button class="option-btn" data-correct="false">La discontinuità di Lehmann</button>
+                                    <button class="option-btn" data-correct="false">La discontinuità di Conrad</button>
+                                </div>
+                                <div class="quiz-feedback hidden"></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </section>
+                
+            </div>
+        </main>
+    </div>
+
+    <!-- App Logic -->
+    <script src="script.js"></script>
+</body>
+</html>
